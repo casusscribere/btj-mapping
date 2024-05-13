@@ -1,0 +1,1775 @@
+{
+    "type": "FeatureCollection",
+    "name": "geojsonFile",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4269"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "The Abbeville Press and Banner",
+                "City": "Abbeville",
+                "State": "SC",
+                "latitude": 34.177310108768303,
+                "longitude": -82.377402460358198,
+                "Title": "Casulty List Not Completed -- Two White Men Killed and Negro Lynched -- Clash in Florida",
+                "Page": "5",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.377402460358198, 34.177310108768303]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Albuquerque Morning Journal",
+                "City": "Albuquerque",
+                "State": "NM",
+                "latitude": 35.095252043873799,
+                "longitude": -106.640096615036,
+                "Title": "5 Negroes are Cremated; One Hanged to Tree",
+                "Page": "3",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-106.640096615036001, 35.095252043873799]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-07",
+                "Newspaper": "The Daily Ardmoreite",
+                "City": "Ardmore",
+                "State": "OK",
+                "latitude": 34.185982704957297,
+                "longitude": -97.124959679524494,
+                "Title": "Congressman Assails Motives of Pro Negro Advancement Society",
+                "Page": "4",
+                "Column": "5-6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.124959679524494, 34.185982704957297]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-06",
+                "Newspaper": "The Little River News",
+                "City": "Ashdown",
+                "State": "AR",
+                "latitude": 33.674654463556301,
+                "longitude": -94.127805159444705,
+                "Title": "Negroes Burned to Death. Five Negroes Burned to Death Following Election Day Murder.",
+                "Page": "1",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-94.127805159444705, 33.674654463556301]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The Atlanta Constitution",
+                "City": "Atlanta",
+                "State": "GA",
+                "latitude": 33.766183922910,
+                "longitude": -84.4314703506924,
+                "Title": "Riot in Florida Takes Heavy Toll: Two Whites Dead, Negro Lynched and Several Blacks Burned in Buildings, Following Trouble over Election",
+                "Page": "6",
+                "Column": "2-3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.390288274811695, 33.757514055395298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "The Atlanta Constitution",
+                "City": "Atlanta",
+                "State": "GA",
+                "latitude": 33.7644868567559,
+                "longitude": -84.3779854259422,
+                "Title": "Riot is Causing Netgro Exodus - Blacks Fleeing From the Florida Settlement where Eight Persons were Killed in Election Outbreak",
+                "Page": "3",
+                "Column": "3-5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.390288274811695, 33.757514055395298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-18",
+                "Newspaper": "The Atlanta Constitution",
+                "City": "Atlanta",
+                "State": "GA",
+                "latitude": 33.7848494323957,
+                "longitude": -84.3841096539671,
+                "Title": "Probe is Ordered of Florida Riots. Justice Department to Investigate Racial Outbreak that Occurred on Election Day",
+                "Page": "7",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.390288274811695, 33.757514055395298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The Sun",
+                "City": "Baltimore",
+                "State": "MD",
+                "latitude": 39.289284342436197,
+                "longitude": -76.603411086696596,
+                "Title": "Eight, At Least, Killed in Florida Race Riot, Attempt of Unqualified Negro to Vote Leads to Battle with White Posse. Five Blacks Burn in Homes. Two Ex-Soldiers, Aiding Officers, Are Shot to Death--One Negro Hanged--Posse Pursues Those Who Fled to Woods",
+                "Page": "6",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.603411086696596, 39.289284342436197]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-12",
+                "Newspaper": "Afro-American",
+                "City": "Baltimore",
+                "State": "MD",
+                "latitude": 39.289284342436197,
+                "longitude": -76.603411086696596,
+                "Title": "Fight Back in Florida, Churches and Lodge Houses Used to Store Firearms and Ammunition During Recent Riot - Many Whites Killed - Ex-service Men Take Leading Part in Repelling Mob of Would Be Lynchers",
+                "Page": "1",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.603411086696596, 39.289284342436197]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1949-07-30",
+                "Newspaper": "Afro-American",
+                "City": "Baltimore",
+                "State": "MD",
+                "latitude": 39.289284342436197,
+                "longitude": -76.603411086696596,
+                "Title": "Colored People Made City, Loss Feared by White Leaders",
+                "Page": "2",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.603411086696596, 39.289284342436197]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-06",
+                "Newspaper": "Baraboo Weekly News",
+                "City": "Baraboo",
+                "State": "WI",
+                "latitude": 43.468908705572403,
+                "longitude": -89.744051209005605,
+                "Title": "65 Lynched in U.S. During 1920",
+                "Page": "7",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.744051209005605, 43.468908705572403]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "Boston Daily Globe",
+                "City": "Boston",
+                "State": "MA",
+                "latitude": 42.358215314929303,
+                "longitude": -71.055009619438593,
+                "Title": "Negroes Quit Scene of Election Riot - Quiet at Ocoee, Fla - Dead May Exceed Eight",
+                "Page": "3",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-71.055009619438593, 42.358215314929303]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-15",
+                "Newspaper": "The Christian Science Monitor",
+                "City": "Boston",
+                "State": "MA",
+                "latitude": 42.358215314929303,
+                "longitude": -71.055009619438593,
+                "Title": "Demand for Florida Election Inquiry",
+                "Page": "2",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-71.055009619438593, 42.358215314929303]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The Bridgeport Times and Evening Farmer",
+                "City": "Bridgeport",
+                "State": "CT",
+                "latitude": 41.181381652383401,
+                "longitude": -73.1890505777681,
+                "Title": "Service Men as Riot Guards",
+                "Page": "5",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.1890505777681, 41.181381652383401]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The Brunswick News",
+                "City": "Brunswick",
+                "State": "GA",
+                "latitude": 31.162039374444799,
+                "longitude": -81.488836560435701,
+                "Title": "More Casualties are Reported in Fla. Election Riot. Three are Know to Have Been Killed and Rioting is Reported Still in Progress. Intermittent Firing Accompanies Pursuit. Several Negroes Said to Have Perished When the Buildings in White They Took Refuge Were Set on Fire--Armed Whites Patrolling the Region.",
+                "Page": "1",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.488836560435701, 31.162039374444799]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-05",
+                "Newspaper": "The Charlotte News and Evening Chronicle",
+                "City": "Charlotte",
+                "State": "NC",
+                "latitude": 35.216537289890603,
+                "longitude": -80.847391413515993,
+                "Title": "Every Right is Given to Negro Under the Law. Florida Representatives Answer Recent Attacks Before Census Committee.",
+                "Page": "1",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.847391413515993, 35.216537289890603]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "Chicago Daily News",
+                "City": "Chicago",
+                "State": "IL",
+                "latitude": 41.832369271755702,
+                "longitude": -87.622134449274697,
+                "Title": "Lynching After Poll Fray",
+                "Page": "22",
+                "Column": "3-4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.622134449274697, 41.832369271755702]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Chicago Daily Tribune",
+                "City": "Chicago",
+                "State": "IL",
+                "latitude": 41.832369271755702,
+                "longitude": -87.622134449274697,
+                "Title": "11 Known Dead in Florida Riot Over Election - 8 Negroes Burned Alive in House",
+                "Page": "1",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.622134449274697, 41.832369271755702]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-06",
+                "Newspaper": "The Chicago Defender",
+                "City": "Chicago",
+                "State": "IL",
+                "latitude": 41.832369271755702,
+                "longitude": -87.622134449274697,
+                "Title": "Lynched Man Who Wanted to Vote - Florida Election Officials Use Gun and Rope to Kill Voter",
+                "Page": "1",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.622134449274697, 41.832369271755702]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1930-05-03",
+                "Newspaper": "The Chicago Defender",
+                "City": "Chicago",
+                "State": "IL",
+                "latitude": 41.832369271755702,
+                "longitude": -87.622134449274697,
+                "Title": "The New of a Quarter Century in Brief",
+                "Page": "12",
+                "Column": "All"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.622134449274697, 41.832369271755702]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1949-07-30",
+                "Newspaper": "The Chicago Defender",
+                "City": "Chicago",
+                "State": "IL",
+                "latitude": 41.832369271755702,
+                "longitude": -87.622134449274697,
+                "Title": "Jealousy Is Source of Fla. Terror",
+                "Page": "1-2",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.622134449274697, 41.832369271755702]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Cincinnati Enquirer",
+                "City": "Cincinnati",
+                "State": "OH",
+                "latitude": 39.1093818325093,
+                "longitude": -84.5180421858974,
+                "Title": "Armed Men Close in on Negroes, Who Are Said to be Hiding in Florida Woods - Lynching Follows Slaying of Two White Men",
+                "Page": "1",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.5180421858974, 39.1093818325093]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-24",
+                "Newspaper": "The Columbus Dispatch",
+                "City": "Columbus",
+                "State": "MS",
+                "latitude": 33.500548105305498,
+                "longitude": -88.405846945167298,
+                "Title": "",
+                "Page": "1",
+                "Column": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-88.405846945167298, 33.500548105305498]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "The Cordova Daily Times",
+                "City": "Cordova",
+                "State": "AK",
+                "latitude": 60.543252048415901,
+                "longitude": -145.75532736739299,
+                "Title": "Mob Lynches Five Negroes in Florida",
+                "Page": "8",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-145.755327367392994, 60.543252048415901]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-13",
+                "Newspaper": "The Dallas Express",
+                "City": "Dallas",
+                "State": "TX",
+                "latitude": 32.787376724659097,
+                "longitude": -96.793091047983793,
+                "Title": "Five Negroes Burned to Death, One Hanged in Flight Over Election. Two White Men Killed and Several Wounded in Florida Riot.",
+                "Page": "4",
+                "Column": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.793091047983793, 32.787376724659097]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-01",
+                "Newspaper": "The Dallas Express",
+                "City": "Dallas",
+                "State": "TX",
+                "latitude": 32.787376724659097,
+                "longitude": -96.793091047983793,
+                "Title": "N.A.A.C.P. Investigates Claims 30 Negroes Slain in Florida. Posed as Farm Purchaser and Heard Citizens Boast of Roasting Women and Children in Homes. Says Most Conservative Estimate Places Number of Dead at Thirty Two. Congressional Investigation will be Urged by Association",
+                "Page": "1",
+                "Column": "3-5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.793091047983793, 32.787376724659097]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-22",
+                "Newspaper": "The Dallas Express",
+                "City": "Dallas",
+                "State": "TX",
+                "latitude": 32.787376724659097,
+                "longitude": -96.793091047983793,
+                "Title": "Florida Stateman Denies that Negroes are Disfranchised. State Representative from Florida Declares that Qualified Negores Were Allowed to Vote, Denounces N.A.A.C.P.",
+                "Page": "1",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.793091047983793, 32.787376724659097]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-02-05",
+                "Newspaper": "The Dallas Express",
+                "City": "Dallas",
+                "State": "TX",
+                "latitude": 32.787376724659097,
+                "longitude": -96.793091047983793,
+                "Title": "American Barbarians",
+                "Page": "4",
+                "Column": "4-7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.793091047983793, 32.787376724659097]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Dayton Daily News",
+                "City": "Dayton",
+                "State": "OH",
+                "latitude": 39.763757093065898,
+                "longitude": -84.193239727424,
+                "Title": "Former Soldiers Guard Streets as Result Race Riots",
+                "Page": "1",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.193239727424, 39.763757093065898]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "The Daytona Daily News",
+                "City": "Daytona",
+                "State": "FL",
+                "latitude": 29.1997595366647,
+                "longitude": -81.099702359337101,
+                "Title": "Race Riots Near Orlando. Two White Men Dead, One Negro Hanged; Others Killed; Negro Huts Burn. Trouble Started at Ocoee by Negro Who Brought Shotgun to the Polls",
+                "Page": "1",
+                "Column": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.099702359337101, 29.1997595366647]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-02-05",
+                "Newspaper": "The Colorado Statesman",
+                "City": "Denver",
+                "State": "CO",
+                "latitude": 39.7288822318692,
+                "longitude": -104.96429686304,
+                "Title": "White Terror in the South. The Ku Klux Klan Revived in the South to keep the Negro \"In His Place.\"",
+                "Page": "1",
+                "Column": "1-2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-104.964296863040005, 39.7288822318692]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-25",
+                "Newspaper": "The Bystander",
+                "City": "Des Moines",
+                "State": "IA",
+                "latitude": 41.591046620012001,
+                "longitude": -93.600338327112894,
+                "Title": "Negroes Advocate Anti-Lynching Bill",
+                "Page": "1",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-93.600338327112894, 41.591046620012001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Detroit Free Press",
+                "City": "Detroit",
+                "State": "MI",
+                "latitude": 42.354655467317002,
+                "longitude": -83.061447913172799,
+                "Title": "Posse Closing In, Bullets Fly: 2 Slain, 5 or More Die in Fire, 1 Lynched Over Florida Election Day Row, Armed Negroes, Fleeing to Woods, Answer Pursuers' Lead With Lead.",
+                "Page": "1",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.061447913172799, 42.354655467317002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "El Paso Herald",
+                "City": "El Paso",
+                "State": "TX",
+                "latitude": 31.804054012119199,
+                "longitude": -106.45130633540801,
+                "Title": "Five Negroes Burned After Florida Riot",
+                "Page": "1",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-106.451306335408006, 31.804054012119199]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Grand Forks Herald",
+                "City": "Grand Forks",
+                "State": "ND",
+                "latitude": 47.918363687025,
+                "longitude": -97.067497613432195,
+                "Title": "Former Service Men Patrol Towns to Prevent Riots",
+                "Page": "3",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.067497613432195, 47.918363687025]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Great Falls Daily Tribune",
+                "City": "Great Falls",
+                "State": "MT",
+                "latitude": 47.513349129257897,
+                "longitude": -111.292873817659,
+                "Title": "Negroes Burned and Lynched as Result of Election Dispute. General Row in Florida Over Refusing Ballot Includes Two White Men.",
+                "Page": "14",
+                "Column": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-111.292873817659, 47.513349129257897]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "Hickory Daily Record",
+                "City": "Hickory",
+                "State": "NC",
+                "latitude": 35.736281100660598,
+                "longitude": -81.328614861407402,
+                "Title": "Ask Investigation Florida Lynchings",
+                "Page": "1",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.328614861407402, 35.736281100660598]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-02",
+                "Newspaper": "The Houston Post",
+                "City": "Houston",
+                "State": "TX",
+                "latitude": 29.779939275097401,
+                "longitude": -95.356012909603095,
+                "Title": "Jury Unable to Place Blame for Ocoee Riot",
+                "Page": "1",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.356012909603095, 29.779939275097401]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Indianapolis Star",
+                "City": "Indianapolis",
+                "State": "IN",
+                "latitude": 39.767831052938597,
+                "longitude": -86.1579347588426,
+                "Title": "Eight Slain in Race Battle: Negro Who Demanded to Vote Lynched After Two Whites Are Kiled - Homes Burned",
+                "Page": "1",
+                "Column": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.1579347588426, 39.767831052938597]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-18",
+                "Newspaper": "Indianapolis Star",
+                "City": "Indianapolis",
+                "State": "IN",
+                "latitude": 39.767831052938597,
+                "longitude": -86.1579347588426,
+                "Title": "Will Probe Election Riot",
+                "Page": "11",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.1579347588426, 39.767831052938597]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-02",
+                "Newspaper": "The Journal and Tribune",
+                "City": "Knoxville",
+                "State": "TN",
+                "latitude": 35.985054491297497,
+                "longitude": -83.934704806931094,
+                "Title": "No One to Blame for Riots In Florida",
+                "Page": "6",
+                "Column": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.934704806931094, 35.985054491297497]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-17",
+                "Newspaper": "Lakeland Evening Telegram",
+                "City": "Lakeland",
+                "State": "FL",
+                "latitude": 28.031458058899499,
+                "longitude": -81.942563089405496,
+                "Title": "Ocoee Riot to be Probed by Federal District Atty",
+                "Page": "1",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.942563089405496, 28.031458058899499]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-30",
+                "Newspaper": "Lakeland Evening Telegram",
+                "City": "Lakeland",
+                "State": "FL",
+                "latitude": 28.031458058899499,
+                "longitude": -81.942563089405496,
+                "Title": "Southern Congressmen Roused by Insulting Reference to the South",
+                "Page": "1",
+                "Column": "2-3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.942563089405496, 28.031458058899499]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-07-23",
+                "Newspaper": "The Lakeland Evening Telegram",
+                "City": "Lakeland",
+                "State": "FL",
+                "latitude": 28.031458058899499,
+                "longitude": -81.942563089405496,
+                "Title": "Negro at Orlando Taken from Police and Whipped",
+                "Page": "1",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.942563089405496, 28.031458058899499]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Los Angeles Times",
+                "City": "Los Angeles",
+                "State": "CA",
+                "latitude": 34.037233178941896,
+                "longitude": -118.257961968705,
+                "Title": "Several Die in Rioting: Whites and Blacks are Killed; Negroes Perish in Flames Following Gun Duel with Posse; One is Lynched When Taken Prisoner; Election Argument the Cause",
+                "Page": "19",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.257961968705004, 34.037233178941896]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Courier-Journal",
+                "City": "Louisville",
+                "State": "KY",
+                "latitude": 38.249388539766201,
+                "longitude": -85.762470161502705,
+                "Title": "8 are Killed in Election Riots: 5 Negroes Burned to Death, 1 Lynched for Death of Two White Men, Fight at Florida Poll",
+                "Page": "9",
+                "Column": "8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.762470161502705, 38.249388539766201]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-11",
+                "Newspaper": "The Manitowoc Pilot",
+                "City": "Manitowoc",
+                "State": "WI",
+                "latitude": 44.093762106918902,
+                "longitude": -87.662278209234103,
+                "Title": "Lynch Six Negroes. Five Burned to Death, One Hanged in Florida. Fight Starts at Voting Booth in Ocoee, Near Orlando, on Election Day",
+                "Page": "6",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.662278209234103, 44.093762106918902]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The News Scimitar",
+                "City": "Memphis",
+                "State": "TN",
+                "latitude": 35.145931353317202,
+                "longitude": -90.042405788210203,
+                "Title": "Two White Men and Eight Negroes Slain in Election Clash",
+                "Page": "4",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-90.042405788210203, 35.145931353317202]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-11",
+                "Newspaper": "Minneapolis Tidende",
+                "City": "Minneapolis",
+                "State": "MN",
+                "latitude": 44.9776746211408,
+                "longitude": -93.259416637731704,
+                "Title": "Race struggle",
+                "Page": "9",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-93.259416637731704, 44.9776746211408]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "The Monroe Journal",
+                "City": "Monroe",
+                "State": "NC",
+                "latitude": 34.986513231863498,
+                "longitude": -80.544347202617999,
+                "Title": "Interesting News of the State and Nation. At 105 Mrs. Ruth Watson Cast Democratic Vote. Election Fight Results in the Death of Two--Bryan Attributes Defeat to Wilson and Cox",
+                "Page": "1",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.544347202617999, 34.986513231863498]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Muskegon Chronicle",
+                "City": "Muskegon",
+                "State": "MI",
+                "latitude": 43.234019549635697,
+                "longitude": -86.249575234448997,
+                "Title": "Negros Burn, 2 Whites Dead in South Riot. Race Clash Over Right of Colored Man to Vote Leaves Path of Death. Ex-Yanks on Patrol. Former Service Men Guard Streets of Florida Towns to Prevent Recurrence.",
+                "Page": "1",
+                "Column": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.249575234448997, 43.234019549635697]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Nashville Tennessean",
+                "City": "Nashville",
+                "State": "TN",
+                "latitude": 36.156720708211402,
+                "longitude": -86.776356007042097,
+                "Title": "Florida Race Riot Follows Election, Two White Men Killed, Negro Lynched and Others Dead after Race War",
+                "Page": "A4",
+                "Column": "1-2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.776356007042097, 36.156720708211402]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-04",
+                "Newspaper": "Nashville Banner",
+                "City": "Nashville",
+                "State": "TN",
+                "latitude": 36.156720708211402,
+                "longitude": -86.776356007042097,
+                "Title": "Voting By Negroes In Florida Election. Not Interfered With, According to Affidavits in Refutation of Charges Before the House Census Committee",
+                "Page": "1",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.776356007042097, 36.156720708211402]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "New York Times",
+                "City": "New York",
+                "State": "NY",
+                "latitude": 40.723656999256001,
+                "longitude": -73.995977976771599,
+                "Title": "Kill Two Whites and Six Negroes in Florida Riot, Negro, Barred from Polls, Gathers Comrades, Who Perish When Posse Burns House. One Caught and Lynched. Victim had Threatened Trouble, Taking Shotgun to Booth--Had Not Paid Tax. Negress Reported Slain. She was said to have been in burning house--Two White Victims were Soldiers",
+                "Page": "1",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.995977976771599, 40.723656999256001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The New York Herald",
+                "City": "New York",
+                "State": "NY",
+                "latitude": 40.723656999256001,
+                "longitude": -73.995977976771599,
+                "Title": "Two Whites, 5 Negroes, Die in Ballot Fight. Wholesale Lynching Follows Race Clash in Florida.",
+                "Page": "8",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.995977976771599, 40.723656999256001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "New-York Tribune",
+                "City": "New York",
+                "State": "NY",
+                "latitude": 40.723656999256001,
+                "longitude": -73.995977976771599,
+                "Title": "Two Whites, 6 Negroes Slain in Florida Riot. Five Colored Persons Burned to Death and One Lynched; Twenty Buildings Destroyed",
+                "Page": "1",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.995977976771599, 40.723656999256001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "New York Times",
+                "City": "New York",
+                "State": "NY",
+                "latitude": 40.723656999256001,
+                "longitude": -73.995977976771599,
+                "Title": "Negroes Flee Riot Region, Ocoee Fla., Lacks Labor, Following Election Lynchings",
+                "Page": "15",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.995977976771599, 40.723656999256001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-18",
+                "Newspaper": "New-York Tribune",
+                "City": "New York",
+                "State": "NY",
+                "latitude": 40.723656999256001,
+                "longitude": -73.995977976771599,
+                "Title": "U.S. Inquire Ordered Into Election Riots in Florida",
+                "Page": "8",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.995977976771599, 40.723656999256001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-06",
+                "Newspaper": "New-York Tribune",
+                "City": "New York",
+                "State": "NY",
+                "latitude": 40.723656999256001,
+                "longitude": -73.995977976771599,
+                "Title": "Congressman Denounces Negro League's Leaders - Merely Fuss and Meddle to Keep Selves in Good Positions, Southerner Asserts",
+                "Page": "9",
+                "Column": "3-4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.995977976771599, 40.723656999256001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-06",
+                "Newspaper": "New-York Tribune",
+                "City": "New York",
+                "State": "NY",
+                "latitude": 40.723656999256001,
+                "longitude": -73.995977976771599,
+                "Title": "Congressman Denounces Negro League's Leaders - Merely Fuss and Meddle to Keep Selves in Good Positions, Southerner Asserts",
+                "Page": "9",
+                "Column": "5-6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.995977976771599, 40.723656999256001]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-01",
+                "Newspaper": "New Journal and Guide",
+                "City": "Norfolk",
+                "State": "VA",
+                "latitude": 36.901643132931099,
+                "longitude": -76.238356306282597,
+                "Title": "To Investigate Riots",
+                "Page": "3",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.238356306282597, 36.901643132931099]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Norwich Bulletin",
+                "City": "Norwich",
+                "State": "CT",
+                "latitude": 41.545729374043503,
+                "longitude": -72.081646745627296,
+                "Title": "Fatalities in Election Riot at Ocoee, Fla.",
+                "Page": "1",
+                "Column": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-72.081646745627296, 41.545729374043503]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "The Ocala Evening Star",
+                "City": "Ocala ",
+                "State": "FL",
+                "latitude": 29.184058865471801,
+                "longitude": -82.148914031949204,
+                "Title": "Outbreak at Ocoee",
+                "Page": "1",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.148914031949204, 29.184058865471801]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The Ocala Evening Star",
+                "City": "Ocala ",
+                "State": "FL",
+                "latitude": 29.184058865471801,
+                "longitude": -82.148914031949204,
+                "Title": "A Severe Lesson to the Negroes. Storing Ammunition and Attacking Whites Does Not Pay Them",
+                "Page": "1",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.148914031949204, 29.184058865471801]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "The Ocala Banner",
+                "City": "Ocala ",
+                "State": "FL",
+                "latitude": 29.184058865471801,
+                "longitude": -82.148914031949204,
+                "Title": "Eight Persons Killld[sic] as the Result of Ocoee Riot",
+                "Page": "1",
+                "Column": "5-6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.148914031949204, 29.184058865471801]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-12",
+                "Newspaper": "The Ocala Banner",
+                "City": "Ocala ",
+                "State": "FL",
+                "latitude": 29.184058865471801,
+                "longitude": -82.148914031949204,
+                "Title": "News of the Week",
+                "Page": "2",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.148914031949204, 29.184058865471801]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-24",
+                "Newspaper": "The Ocala Banner",
+                "City": "Ocala ",
+                "State": "FL",
+                "latitude": 29.184058865471801,
+                "longitude": -82.148914031949204,
+                "Title": "News of the Week",
+                "Page": "10",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.148914031949204, 29.184058865471801]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "The Ogden Standard-Examiner",
+                "City": "Ogden",
+                "State": "UT",
+                "latitude": 41.212115781655299,
+                "longitude": -111.979370892278,
+                "Title": "Negroes Die in Election Fight. Florida Mob Burns Five in Houses and Takes Another from Jail",
+                "Page": "7",
+                "Column": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-111.979370892277998, 41.212115781655299]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Omaha Daily Bee",
+                "City": "Omaha",
+                "State": "NE",
+                "latitude": 41.256459048664901,
+                "longitude": -95.948147839365404,
+                "Title": "Seven Men Killed in Election Riot. Six Negroes Lynched and Two Whites Shot in Outbreak in Florida.",
+                "Page": "1",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.948147839365404, 41.256459048664901]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-06",
+                "Newspaper": "Omaha Daily Bee",
+                "City": "Omaha",
+                "State": "NE",
+                "latitude": 41.256459048664901,
+                "longitude": -95.948147839365404,
+                "Title": "Palmer is Asked to Probe Florida Election Riots",
+                "Page": "1",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.948147839365404, 41.256459048664901]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "The Orlando Sentinel",
+                "City": "Orlando",
+                "State": "FL",
+                "latitude": 28.542227973972899,
+                "longitude": -81.378763629271802,
+                "Title": "Two Whites Dead Ocoee Riot. Trouble at Ocoee Claims 2 White Victims",
+                "Page": "1",
+                "Column": "5-6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.378763629271802, 28.542227973972899]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "The Evening Reporter-Star",
+                "City": "Orlando",
+                "State": "FL",
+                "latitude": 28.542227973972899,
+                "longitude": -81.378763629271802,
+                "Title": "Eight Known to be Dead as Result of Ocoee Riot. July Perry Strung from Limb of Tree and Shot to Death at Early Hour This Morning; Negroes Armed Showed Fight. Leo Borgard and Elmer McDaniels Shot in their Tracks when Attempting to Arrest Mose Norman, the Instigator of Affair",
+                "Page": "1",
+                "Column": "3-4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.378763629271802, 28.542227973972899]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1933-09-24",
+                "Newspaper": "Orlando Evening Star",
+                "City": "Orlando",
+                "State": "FL",
+                "latitude": 28.542227973972899,
+                "longitude": -81.378763629271802,
+                "Title": "Poll Taxes and Riots",
+                "Page": "6",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.378763629271802, 28.542227973972899]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-07-24",
+                "Newspaper": "The Pensacola Journal",
+                "City": "Pensacola",
+                "State": "FL",
+                "latitude": 30.414155436214902,
+                "longitude": -87.207676488191197,
+                "Title": "Negro Whipped by Orlando Mob",
+                "Page": "2",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.207676488191197, 30.414155436214902]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-13",
+                "Newspaper": "Phoenix Tribune",
+                "City": "Phoenix",
+                "State": "AZ",
+                "latitude": 33.443088246842699,
+                "longitude": -112.076947505638,
+                "Title": "Black Spot In 1920 Presidential Election is Furnished By Florida",
+                "Page": "3",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-112.076947505638003, 33.443088246842699]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-10",
+                "Newspaper": "The Keowee Courier",
+                "City": "Pickens Court House",
+                "State": "SC",
+                "latitude": 34.882876701252599,
+                "longitude": -82.707564611758301,
+                "Title": "Fearful Results of Election. Riot in Florida--Three Shot--Many Burned--Carried Gun to Polls.",
+                "Page": "3",
+                "Column": "3-4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.707564611758301, 34.882876701252599]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "Richmond Times-Dispatch",
+                "City": "Richmond",
+                "State": "VA",
+                "latitude": 37.520828163625701,
+                "longitude": -77.437302109274796,
+                "Title": "8 are Dead, One Lynched, in Florida Election Riot: Trouble Starts When Negro is Refused Ballot--Posse Hangs July Perry, Colored, to Tree",
+                "Page": "5",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.437302109274796, 37.520828163625701]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The Richmond Palladium and Sun-Telegram",
+                "City": "Richmond",
+                "State": "VA",
+                "latitude": 37.520828163625701,
+                "longitude": -77.437302109274796,
+                "Title": "Service Men Guard Streets of Orlando",
+                "Page": "1",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.437302109274796, 37.520828163625701]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-13",
+                "Newspaper": "Richmond Planet",
+                "City": "Richmond",
+                "State": "VA",
+                "latitude": 37.520828163625701,
+                "longitude": -77.437302109274796,
+                "Title": "Two White, Five Colored, Die in Ballot Fight. Wholesale Lynching Follows Race Clash in Florida.",
+                "Page": "2",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.437302109274796, 37.520828163625701]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-05",
+                "Newspaper": "Richmond Times-Dispatch",
+                "City": "Richmond",
+                "State": "VA",
+                "latitude": 37.520828163625701,
+                "longitude": -77.437302109274796,
+                "Title": "Southern Solons to Prove Charges of Negroes False. Have Many Affidavits From Blacks Denying Election Stories. Charge Only Compaint by New York Ethiopians. Florida Deligation Rsents Attitude of Tinkham, of Massachusetts.",
+                "Page": "1",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.437302109274796, 37.520828163625701]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-08",
+                "Newspaper": "The Richmond Planet",
+                "City": "Richmond",
+                "State": "VA",
+                "latitude": 37.520828163625701,
+                "longitude": -77.437302109274796,
+                "Title": "Trying to Cut Congressional Representation",
+                "Page": "1",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.437302109274796, 37.520828163625701]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "The Rock Island Argus and Daily Union",
+                "City": "Rock Island",
+                "State": "IL",
+                "latitude": 41.4869757414139,
+                "longitude": -90.562951982925497,
+                "Title": "Burn 5 Negroes and Hang Sixth. Two White Men Killed and Several Wounded Preceding Florida Lynching.",
+                "Page": "16",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-90.562951982925497, 41.4869757414139]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "Capital Journal",
+                "City": "Salem",
+                "State": "OR",
+                "latitude": 44.942448200933804,
+                "longitude": -123.031299323228,
+                "Title": "Negro, Refused Vote, Kills 2; Crowds Lynch",
+                "Page": "1",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-123.031299323227998, 44.942448200933804]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-13",
+                "Newspaper": "The Broad Ax",
+                "City": "Salt Lake City",
+                "State": "UT",
+                "latitude": 40.7689260113427,
+                "longitude": -111.89187508513,
+                "Title": "Election Lynching Probe Asked of U.S. Government. Telegram Sent to U.S. Attorney General Palmer by National Equal Rights League on Florida Massacre.",
+                "Page": "2",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-111.891875085129996, 40.7689260113427]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-07",
+                "Newspaper": "San Francisco Chronicle",
+                "City": "San Francisco",
+                "State": "CA",
+                "latitude": 37.760664984280403,
+                "longitude": -122.44069216658301,
+                "Title": "6 Blacks, Two Whites Die in Election Row: Five Negroes Besieged in House and Burned; Fourth Hanged in Florida Town",
+                "Page": "4W",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.440692166583005, 37.760664984280403]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-02-01",
+                "Newspaper": "Cayton's Monthly",
+                "City": "Seattle",
+                "State": "WA",
+                "latitude": 47.621737393962199,
+                "longitude": -122.339325552646,
+                "Title": "Election By Terror In Florida",
+                "Page": "14-15",
+                "Column": "all"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.339325552646002, 47.621737393962199]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "St Louis Post",
+                "City": "St. Louis",
+                "State": "MO",
+                "latitude": 38.632637246550601,
+                "longitude": -90.216005103246403,
+                "Title": "Negroes Leave Florida Town",
+                "Page": "30",
+                "Column": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-90.216005103246403, 38.632637246550601]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "The Tampa Times",
+                "City": "Tampa",
+                "State": "FL",
+                "latitude": 27.9478957301781,
+                "longitude": -82.470380580351303,
+                "Title": "Eight Dead in Orlando Riots. Two White Men, Five Negro Men, One Negro Woman.",
+                "Page": "7",
+                "Column": "4-5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.470380580351303, 27.9478957301781]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-03",
+                "Newspaper": "The Topeka State Journal",
+                "City": "Topeka",
+                "State": "KS",
+                "latitude": 39.040708645004401,
+                "longitude": -95.691560383826697,
+                "Title": "Eight Die in Race Riots. Election Fitht at Ocoee, Florida, Fatal to Eight.",
+                "Page": "7",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.691560383826697, 39.040708645004401]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-13",
+                "Newspaper": "The Tulsa Star",
+                "City": "Tulsa",
+                "State": "OK",
+                "latitude": 36.153883209619202,
+                "longitude": -95.977583295744694,
+                "Title": "Perry Sets Fine Example. Everybody in Florida Knows He Wanted to Vote.",
+                "Page": "1",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.977583295744694, 36.153883209619202]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-01",
+                "Newspaper": "The Tuscaloosa News",
+                "City": "Tuscaloosa",
+                "State": "AL",
+                "latitude": 33.2075564042335,
+                "longitude": -87.553055382839901,
+                "Title": "Grand Jury Investigates",
+                "Page": "1",
+                "Column": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.553055382839901, 33.2075564042335]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The Washington Post",
+                "City": "Washington",
+                "State": "DC",
+                "latitude": 38.889856716458198,
+                "longitude": -77.036529076623495,
+                "Title": "Shotgun at Polls, Tragedy Results - Florida Negro Starts Battle that Costs Lives of Whites and Colored.",
+                "Page": "3",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.036529076623495, 38.889856716458198]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-04",
+                "Newspaper": "The Washington Herald",
+                "City": "Washington",
+                "State": "DC",
+                "latitude": 38.889856716458198,
+                "longitude": -77.036529076623495,
+                "Title": "8 Dead, 10 Hurt in Big Race Riot. White and Black Battle is Caused by Dispute Over Voting in Florida Town.",
+                "Page": "1",
+                "Column": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.036529076623495, 38.889856716458198]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-18",
+                "Newspaper": "The Washington Herald",
+                "City": "Washington",
+                "State": "DC",
+                "latitude": 38.889856716458198,
+                "longitude": -77.036529076623495,
+                "Title": "Probe Into Killing of 30 Negroes Begun",
+                "Page": "12",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.036529076623495, 38.889856716458198]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-12-18",
+                "Newspaper": "Evening Star",
+                "City": "Washington",
+                "State": "DC",
+                "latitude": 38.889856716458198,
+                "longitude": -77.036529076623495,
+                "Title": "U.S. Will Inquire Into Election Riots. Florida Official Instructed in Death of Negroes at Ocoee",
+                "Page": "3",
+                "Column": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.036529076623495, 38.889856716458198]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-12",
+                "Newspaper": "Fulton County Tribune",
+                "City": "Wauseon",
+                "State": "OH",
+                "latitude": 41.553686530232703,
+                "longitude": -84.141381341606206,
+                "Title": "Lynch Six Negroes. Five Burned to Death, One Hanged in Florida. Fight Starts at Voting Booth in Ocoee, Near Orlando, on Election Day",
+                "Page": "6",
+                "Column": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.141381341606206, 41.553686530232703]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1920-11-05",
+                "Newspaper": "Wauwatosa News",
+                "City": "Wauwatosa",
+                "State": "WI",
+                "latitude": 43.058738422709801,
+                "longitude": -88.044172781493302,
+                "Title": "Six Blacks Lynched. One Hanged and Fixe Burned in Florida. Battle Starts at Voting Booth in the Town of Ocoee, Near Orlando.",
+                "Page": "2",
+                "Column": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-88.044172781493302, 43.058738422709801]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Date": "1921-01-15",
+                "Newspaper": "Evening Journal",
+                "City": "Wilmington",
+                "State": "DE",
+                "latitude": 39.746793093812101,
+                "longitude": -75.544591201175095,
+                "Title": "65 Lynched in U.S. Last Year. Total for Past 35 Years Throughout the Country is Place at 2,843. Nation-wide Plan to Fight Ku Klux",
+                "Page": "3",
+                "Column": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.544591201175095, 39.746793093812101]
+            }
+        }
+    ]
+}
