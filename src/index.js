@@ -1,161 +1,134 @@
+// Import CSS.
+import 'leaflet/dist/leaflet.css';
 
-  
-              function setpopup(feature, layer) {
-  
-                  var popupContent = "<p style='text-align:center'><em><span style='font-size: 120%;'>" + feature
-                      .properties.Newspaper + "</span></em><br>" + feature.properties.Date + ", p. " + feature.properties
-                      .Page + ", c. " + feature.properties.Column + "<br>" + feature.properties.City + ", " + feature
-                      .properties.State + "<br><b>" + feature.properties.Title + "</b></p>";
-  
-                  if (feature.properties && feature.properties.popupContent) {
-                      popupContent += feature.properties.popupContent;
-                  }
-                  layer.bindPopup(popupContent);
-              }
-              var center = [45.09388074584755, -100.08388945468975];
-  
-              // base layer is mapbox topo
-              var baseMap = L.tileLayer(
-                  'https://api.mapbox.com/styles/v1/agiroux/ckgjrjbsj09w01aqxz1w7wuqy/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYWdpcm91eCIsImEiOiJjajE0ZmxxdjgwMDRxMnFvZGNuYzFyOHFxIn0.7KcKhzGSwCPb10LuCfWZYg', {
-                      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
-                          '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-                          'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
-                  });
-  
-              var map = L.map('leafletmap', {
-                  layers: [baseMap],
-                  center: center,
-                  minZoom: 4,
-                  maxZoom: 12,
-                  zoom: 4
-              });
-  
-              var paperLayer = L.geoJSON(papers, {
-                  onEachFeature: setpopup
-              }).addTo(map);
-  
-              // set view and zoom
-              map.setView([45.09388074584755, -100.08388945468975], 4); 
-   
-    
-  //TODO: minify, replace w/ modular embed/redesign, and rebuild VRVS usage
-  function leaflet_districts() {
-     
-          //"center" of Florida: 27.6648° N, 81.5158° W
-          var map = L.map('leafletmap').setView([27.6648, -81.5158], 6);
-          var geojson;
-          L.tileLayer(
-                    'https://api.mapbox.com/styles/v1/agiroux/ckgjrjbsj09w01aqxz1w7wuqy/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYWdpcm91eCIsImEiOiJjajE0ZmxxdjgwMDRxMnFvZGNuYzFyOHFxIn0.7KcKhzGSwCPb10LuCfWZYg', {
-                        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
-                            '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-                            'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
-          }).addTo(map);
-  
-          var districtSlices = {};
-  
-          function geoLoader(filename) {
-              var file = '<?php echo get_template_directory_uri(); ?>/library/geojson/' + String(filename) + '.geojson';
-              var dist = L.geoJSON(null, {
-                  onEachFeature: onEachFeature
-              });
-              $.getJSON(file, function(data) {
-                  dist.addData(data);
-              });
-              return dist;
-          }
-  
-          function layerBuilder(filename){
-              geojson = geoLoader(filename);
-              var layer = L.layerGroup([geojson]);
-              districtSlices[filename] = layer;
-          }
-  
-          function zoomToFeature(e) {
-              map.fitBounds(e.target.getBounds());
-          }
-  
-          function onEachFeature(feature, layer) {
-              layer.on({
-              mouseover: highlightFeature,
-              mouseout: resetHighlight,
-              click: zoomToFeature
-              });
-          }
-  
-          function highlightFeature(e) {
-              var layer = e.target;
-  
-              layer.setStyle({
-                  weight: 5,
-                  color: '#b31942',
-                  dashArray: '',
-                  fillOpacity: 0.7
-              });
-  
-              if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-                  layer.bringToFront();
-              }
-          }
-  
-          function resetHighlight(e) {
-              if(geojson !== null) geojson.resetStyle(e.target);
-          }
-  
-          //configure custom controls
-          /*var info = L.control();
-  
-          info.onAdd = function (map) {
-              this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-              this.update();
-              return this._div;
-          };
-  
-          // method that we will use to update the control based on feature properties passed
-          info.update = function (props) {
-              this._div.innerHTML = '<h4>US Population Density</h4>' +  (props ?
-                  '<b>' + props.statename + '</b><br />' + props.district + ' people / mi<sup>2</sup>'
-                  : 'Hover over a state');
-          };
-  
-          info.addTo(map);*/
-          
-          /*
-          layerBuilder('29_to_36');
-          layerBuilder('40_to_42');
-          layerBuilder('43_to_43');
-          layerBuilder('44_to_47');
-          layerBuilder('48_to_57');
-          layerBuilder('58_to_62');
-          layerBuilder('63_to_63');
-          layerBuilder('64_to_68');
-          layerBuilder('69_to_72');
-          layerBuilder('73_to_74');
-          layerBuilder('75_to_77');
-          layerBuilder('78_to_78');
-          layerBuilder('79_to_82');
-          layerBuilder('83_to_87');
-          layerBuilder('88_to_89');
-          layerBuilder('90_to_90');
-          layerBuilder('91_to_92');
-          layerBuilder('93_to_97');
-          layerBuilder('98_to_102');
-          layerBuilder('103_to_104');
-          layerBuilder('105_to_107');
-          layerBuilder('108_to_112');
-          */
-          layerBuilder('1845-1873');
-          layerBuilder('1873-1903');
-          layerBuilder('1903-1913');
-          layerBuilder('1913-1933');
-          layerBuilder('1933-1943');
-          layerBuilder('1943-1953');
-          layerBuilder('1953-1963');
-          layerBuilder('1963-1973');
-          layerBuilder('1973-1983');
-          layerBuilder('1983-1993');
-          layerBuilder('1993-2003');
-          layerBuilder('2003-2013');
-          L.control.layers(districtSlices,null,{collapsed:false}).addTo(map);
-          $('<p id="layer-ctrl-header">FL Districts</p>').insertBefore('div.leaflet-control-layers-base');
-  
-}
+// Import Leaflet as L.
+import * as L from "leaflet";
+
+// Import Bootstrap CSS.
+import "bootstrap/dist/css/bootstrap.min.css";
+
+// Import local CSS.
+import "./index.css";
+
+// Initialize the map
+var map = L.map('map', {
+  scrollWheelZoom: false
+});
+
+// Set the position and zoom level of the map
+map.setView([47.70, 13.35], 7);
+
+/*	Variety of base layers */
+var osm_mapnik = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	maxZoom: 19,
+	attribution: '&copy; OSM Mapnik <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
+
+var osm_bw_mapnik = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
+	maxZoom: 18,
+	attribution: '&copy; OSM Black and White Mapnik<a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+});
+
+var osm_de = L.tileLayer('http://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {
+	maxZoom: 18,
+	attribution: '&copy; OSM Deutschland <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+});
+
+var osm_fr = L.tileLayer('http://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
+	maxZoom: 20,
+	attribution: '&copy; OSM France | &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+});
+
+var osm_hot = L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+	maxZoom: 19,
+	attribution: '&copy; OSM Hot <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>'
+});
+
+var osm_topo = L.tileLayer('http://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+	maxZoom: 17,
+	attribution: 'Map data: &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
+});
+
+var stamen_Toner = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.{ext}', {
+	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	subdomains: 'abcd',
+	minZoom: 0,
+	maxZoom: 20,
+	ext: 'png'
+});
+
+var stamen_TonerBackground = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/toner-background/{z}/{x}/{y}.{ext}', {
+	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	subdomains: 'abcd',
+	minZoom: 0,
+	maxZoom: 20,
+	ext: 'png'
+});
+
+var stamen_TonerLite = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.{ext}', {
+	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	subdomains: 'abcd',
+	minZoom: 0,
+	maxZoom: 20,
+	ext: 'png'
+});
+
+var stamen_Watercolor = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
+	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	subdomains: 'abcd',
+	minZoom: 1,
+	maxZoom: 16,
+	ext: 'png'
+});
+
+var stamen_Terrain = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	subdomains: 'abcd',
+	minZoom: 0,
+	maxZoom: 18,
+	ext: 'png'
+});
+
+var stamen_TerrainBackground = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/terrain-background/{z}/{x}/{y}.{ext}', {
+	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	subdomains: 'abcd',
+	minZoom: 0,
+	maxZoom: 18,
+	ext: 'png'
+});
+
+var esri_WorldImagery = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+});
+
+var esri_WorldTerrain = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Tiles &copy; Esri &mdash; Source: USGS, Esri, TANA, DeLorme, and NPS',
+	maxZoom: 13
+});
+
+var esri_NatGeoWorldMap = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
+	maxZoom: 16
+});
+
+// Create base layers group object
+var baseLayers = {
+	"OSM Mapnik": osm_mapnik,
+	"OSM Black White Mapnik": osm_bw_mapnik,
+	"OSM Germany": osm_de,
+	"OSM France": osm_fr,
+	"OSM Hot": osm_hot,
+	"OSm Topo": osm_topo,
+	"Stamen Toner": stamen_Toner,
+	"Stamen Toner Background": stamen_TonerBackground,
+	"Stamen Toner Lite": stamen_TonerLite,
+	"Stamen Watercolor": stamen_Watercolor,
+	"Stamen Terrain": stamen_Terrain,
+	"Stamen Terrain Background": stamen_TerrainBackground,
+	"ESRI World Imagery": esri_WorldImagery,
+	"ESRI World Terrain": esri_WorldTerrain,
+	"ESRI National Geographic": esri_NatGeoWorldMap
+};
+
+// Add baseLayers to the map
+L.control.layers(baseLayers, null).addTo(map);
