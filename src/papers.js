@@ -45,10 +45,9 @@ const file = "papers/index.geojson";
 $.getJSON(file, (data) => {
 	// Add the GeoJSON data to the dist object.
 	L.geoJSON(data, { onEachFeature: onEachFeature }).addTo(map);
-    //console.log(data);
 
     // Fit the map to the bounds of the GeoJSON data.
-    //map.setView([center], 4);
+    map.setView(center, 4);
 });
 
 
