@@ -35,5 +35,37 @@ L.Icon.Default.mergeOptions({
     shadowUrl: markerShadow,
 });
 
+// When the document is ready...
+// This is necessary because the button is not available until the document is loaded.
+$.when( $.ready ).then(() => {
+    // Hide the button by default.
+    $("#topButton").hide();
+
+    // Get the button.
+    $("#topButton").on("click", () => {
+        // When the user clicks on the button, scroll to the top of the document.
+        $("html, body").animate({ scrollTop: 0 }, "smooth");
+    });
+
+    // When the user scrolls...
+    // This is necessary because the button should only be shown when the user scrolls down.
+    $(window).on("scroll", () => {
+
+        // Get height of header element
+        let headerHeight = $('header').height();
+
+        // When the user scrolls down 20px from the top of the document, show the button.
+        if (document.body.scrollTop > headerHeight || document.documentElement.scrollTop > headerHeight) {
+            $("#topButton").show();
+            $('nav').addClass('sticky');
+            $('#content').addClass('menu-padding');
+        } else {
+            $("#topButton").hide();
+            $('nav').removeClass('sticky');
+            $('#content').removeClass('menu-padding');
+        }
+    });
+});
+
 // Export $ and L for use in other modules.
 export { $, L };
