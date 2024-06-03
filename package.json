@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint src/*.js",
     "build": "webpack",
-    "serve": "serve ./dist",
+    "serve": "serve --no-clipboard ./dist",
     "watch": "nodemon --exec 'npm run build && npm run serve' --watch src"
   },
   "keywords": [],
@@ -18,9 +18,9 @@
     "leaflet": "^1.9.4"
   },
   "devDependencies": {
-    "@eslint/js": "^9.3.0",
+    "@eslint/js": "^9.4.0",
     "css-loader": "^7.1.2",
-    "eslint": "^9.3.0",
+    "eslint": "^9.4.0",
     "file-loader": "^6.2.0",
     "globals": "^15.3.0",
     "nodemon": "^3.1.1",
