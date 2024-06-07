@@ -7,7 +7,14 @@ import { $, L } from "./core.js";
 // In decimal degrees:
 // 28.538518431125024, -81.38901390459614
 // Center of Parramore, FL.
-const centerOfParramore = [28.538518431125024, -81.38901390459614];
+
+// Map is offset.
+//  28°32'15.38"N
+//  81°23'5.44"W
+// In decimal degrees:
+// 28.537605555555556, -81.38484444444444
+
+const centerOfParramore = [28.537605555555556, -81.38484444444444];
 
 // Create a map object centered on Parramore, FL.
 var map = L.map('map').setView(centerOfParramore, 20);
@@ -20,8 +27,8 @@ const baseMap = L.tileLayer(
 			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
 	}).addTo(map);
 
-const imageUrl = './maps/parramore.jpg';
-const errorOverlayUrl = './maps/error.png';
+const imageUrl = './two/maps/parramore.jpg';
+const errorOverlayUrl = './two/maps/error.png';
 const altText = 'Composite image of Parramore, FL.';
 
 // Upper left corner of the image.
