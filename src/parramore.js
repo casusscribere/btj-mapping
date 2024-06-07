@@ -27,8 +27,8 @@ const baseMap = L.tileLayer(
 			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
 	}).addTo(map);
 
-const imageUrl = './two/maps/parramore.jpg';
-const errorOverlayUrl = './two/maps/error.png';
+const imageUrl = 'maps/parramore.jpg';
+const errorOverlayUrl = 'maps/error.png';
 const altText = 'Composite image of Parramore, FL.';
 
 // Upper left corner of the image.
