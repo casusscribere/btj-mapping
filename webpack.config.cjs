@@ -4,8 +4,6 @@ module.exports = {
   mode: 'development',
   entry: {
     core: './src/core.js',
-    districts: './src/districts.js',
-    papers: './src/papers.js',
     parramore: './src/parramore.js',
   },
   output: {
