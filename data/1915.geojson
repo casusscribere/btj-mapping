@@ -1,0 +1,560 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "﻿Geo A. Barker (bill poster)",
+                "street": "412 W. Central Ave.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54180850066715,
+                    -81.38445767455968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.B. Chamberlain Co. (pianos)",
+                "street": "6 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540166398482636,
+                    -81.37930008246673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L.R. Phillips (grocer)",
+                "street": "8 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540168554755947,
+                    -81.37932956469442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bowen & Jaillette (barber shops)",
+                "street": "10 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54016825475595,
+                    -81.37935914690318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.W. Thompson (electrical contacting and supplies)",
+                "street": "11 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540601906457617,
+                    -81.37936117885997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hawkins & Beatty (grocers)",
+                "street": "13 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540597193930328,
+                    -81.37939336536508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.B. Callahan (colored) (physician)",
+                "street": "15 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54067801935598,
+                    -81.37941478578733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.T. Seegar (grocer)",
+                "street": "15 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54067801935598,
+                    -81.37941478578733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "William & Colyer (colored) (tailoring)",
+                "street": "15 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54067801935598,
+                    -81.37941478578733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.B. Harris & Son (col) (barber shops)",
+                "street": "17 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54069131897721,
+                    -81.37944435861762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H.S. Miller (grocer)",
+                "street": "18 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540167794685587,
+                    -81.37946459528834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R.K. Gordon (bakeries)",
+                "street": "18 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540167794685587,
+                    -81.37946459528834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "E.W. Robinson (confectioners)",
+                "street": "19 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54061419274148,
+                    -81.37950233917371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robert Parham (grocer)",
+                "street": "21 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540600811009956,
+                    -81.3795122646755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mrs. L.F. Brigham (books and stationery)",
+                "street": "22 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54016675475596,
+                    -81.37951498248565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A. Forage (grocers)",
+                "street": "25 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540630667271724,
+                    -81.37957598248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "George Chick",
+                "street": "27 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54063381100846,
+                    -81.37966188246672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.F. Miller (shooting gallery)",
+                "street": "34 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540163098482633,
+                    -81.37966216469442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.E. Haywood (restaurants)",
+                "street": "38 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540169467302654,
+                    -81.37973526467549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spanish Restaurant",
+                "street": "42 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540168767302717,
+                    -81.37980578248566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.F. Laubach (grain&comma; feed&comma; etc)",
+                "street": "47-49-51 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540550906253504,
+                    -81.38033662115292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.S. Anderson (men's furnishings)",
+                "street": "104 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539993967314413,
+                    -81.38110880025798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Glenwood (hotels and boarding houses)",
+                "street": "108 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53998324220521,
+                    -81.38113476469441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Ringgold (hotels and boarding houses)",
+                "street": "108 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53998324220521,
+                    -81.38113476469441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.J. Terry (marble works)",
+                "street": "118 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539985654760077,
+                    -81.38116818248562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eugene Dawson (plumbing&comma; steam and gas fitting)",
+                "street": "118 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539985654760077,
+                    -81.38116818248562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.L. Lucius Co. (grocer)",
+                "street": "119 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54040071101894,
+                    -81.3810556757382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Curry & Smith (cigar manufacturers)",
+                "street": "140 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540197365383136,
+                    -81.38163513533603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mrs. M. Dollins (hotels and boarding houses)",
+                "street": "210 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54018542953429,
+                    -81.3819141454622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Palms (hotels and boarding houses)",
+                "street": "310 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54005795475842,
+                    -81.38307965794696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Ferns (hotels and boarding houses)",
+                "street": "402 W. Church St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540126504189107,
+                    -81.38441514260681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schnarr and Yothers (insecticide manufacturers)",
+                "street": "Garland St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542951769894753,
+                    -81.38235794783876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pounds & Pounds (lumber and novelty works)",
+                "street": "N. Gertrude Ave, on S.A.L.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53970634438195,
+                    -81.38079428381366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frank Hyres (building blocks&comma; etc.)",
+                "street": "Cor N. Gertrude and W. Livingston Aves",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.547422389790476,
+                    -81.3808474667162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Freeman Bottling Works",
+                "street": "Gertrude Ave&comma; bwtween Pine and Church Sts.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54085886122514,
+                    -81.38080165422363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.W. Kingsley (wood yard)",
+                "street": "Cor. S. Gertrude Ave. and W. Pine St.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541237635048386,
+                    -81.3808200804274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eldredge Barlow (wood yard)",
+                "street": "Cor. S. Gertrude and South Sts.",
+                "year": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.538557052393408,
+                    -81.38079724375538
+                ]
+            }
+        }
+    ]
+}

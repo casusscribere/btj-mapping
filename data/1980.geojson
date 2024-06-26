@@ -1,0 +1,5990 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "﻿Continental Window & Glass",
+                "street": "1647 Acme St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5279909070242,
+                    -81.40298977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kelly's Fast Express",
+                "street": "1662 Acme St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5275530070438,
+                    -81.40348203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Wonders Inc.",
+                "street": "1703 Acme St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5280670331973,
+                    -81.40378213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Printing",
+                "street": "1718 Acme St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527500607046232,
+                    -81.40407240141249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J Piercey Studios (glass dealers-stained and leaded)",
+                "street": "1720 Acme St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527615493932984,
+                    -81.40420819466533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tri County Landscaping of Orlando Inc.",
+                "street": "1800 Acme St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527637028161344,
+                    -81.40496976296573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mellon-Stuart Co.",
+                "street": "1812 Acme St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527517301956703,
+                    -81.40499556296578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grantair Inc.",
+                "street": "711 W. Amelia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549644475719454,
+                    -81.3896505341296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Haitian Church of the Nazarene",
+                "street": "728 W. Amelia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549014972932977,
+                    -81.39035296296484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nolen Truly Pest Control Inc.",
+                "street": "1000 W. Amelia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549149575719632,
+                    -81.39353426296483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Florida Battery Distributors",
+                "street": "1020 W. Amelia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.548979248638044,
+                    -81.39412556296486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "National Performance Warehouse of Orlando",
+                "street": "1030 W. Amelia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.548948912153865,
+                    -81.39451432883504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greater Orlando Area Legal Services Inc.",
+                "street": "1036 W. Amelia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54902117571621,
+                    -81.3945828322296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Armellini Express Line Inc.",
+                "street": "1045 W. Amelia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54987497571572,
+                    -81.39509276106465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parrish & Bailey PA (lawyers)",
+                "street": "116 America St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.533838227045212,
+                    -81.38074363222995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edward Harris Jr. (consultants)",
+                "street": "124 America St. Apt. 15",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53362868117741,
+                    -81.38127983407529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sears Fiberglass Pools",
+                "street": "300 W. America St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.533975578319925,
+                    -81.38214396106514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reliable Motorcycle Salvage",
+                "street": "1240 W. Anderson St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.536201427207036,
+                    -81.3967533848587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ferguson-Ferguson Decals",
+                "street": "1342 W. Anderson St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.536379793930863,
+                    -81.39898002978263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A R C Body Repair",
+                "street": "1347 W. Anderson St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.536772419328237,
+                    -81.39893600094757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park Plumbing & Hardware Specialties Inc.",
+                "street": "1424 W. Anderson St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53622021937784,
+                    -81.40021872978261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Architectural Tire & Associates Inc. (roofing materials)",
+                "street": "711 Atlanta Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530109379705234,
+                    -81.38356573223011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Plastering & Development Co. Inc.",
+                "street": "1102 Atlanta Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5290065496361,
+                    -81.38389403223016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H & C Services of Orlando",
+                "street": "1104 Atlanta Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.528842675727347,
+                    -81.38376077455997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burkett Construction Inc.",
+                "street": "1107 Atlanta Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52879772794946,
+                    -81.38338723223018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robert A. Huggins General Contractors Inc.",
+                "street": "1115 Atlanta Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.528578954120817,
+                    -81.38337713223018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jimco Stone Centers",
+                "street": "1237 Atlanta Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526998549457687,
+                    -81.38286988990025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H.C. Buchanan Concrete&comma; Inc.",
+                "street": "1600 Atlanta Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.523573849153077,
+                    -81.38325620339525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Capricorn Foods",
+                "street": "1601 Atlanta Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52357295546647,
+                    -81.38248313223029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "East Orlando Garage Inc.",
+                "street": "1834 Atlanta Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52059884888888,
+                    -81.38348593223034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smith Rooming House",
+                "street": "739 Bentley St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54686164291978,
+                    -81.39065122978256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Full Deliverance Church of Jesus",
+                "street": "921 Bentley Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.547187,
+                    -81.393123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tom Skinner Clubs Inc.",
+                "street": "3000 Carter St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53383696387204,
+                    -81.40240530418787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Baptist Thrift Shop",
+                "street": "126 W. Central Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541974094210243,
+                    -81.3813338113856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eitharong Unmarid Art Gallery",
+                "street": "130 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541950781203347,
+                    -81.38141378255051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Neilson & Associates (lawyers)",
+                "street": "135 W. Central Blvd. #200",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U S Sprint",
+                "street": "135 W. Central Blvd. #500",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colonial Service & Mtge. Corp.",
+                "street": "135 W. Central Blvd. #600",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McDonald Computer Corp.",
+                "street": "135 W. Central Blvd. #650",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Great Northern Financial Corp.",
+                "street": "135 W. Central Blvd. #650",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thomas J. Fisher & Co. Inc. (real estate)",
+                "street": "135 W. Central Blvd. #690",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "American Pioneer Savings Bank",
+                "street": "135 W. Central Blvd. #700",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stephanie M. Zorie (attorney)",
+                "street": "135 W. Central Blvd. #820",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ambrette & Tellechea (attorneys)",
+                "street": "135 W. Central Blvd. #850",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "American Pioneer Telephone Inc.",
+                "street": "135 W. Central Blvd. #1050",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Employers Overload",
+                "street": "401 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542461471467174,
+                    -81.38418493653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange County Fire Equipment Inc.",
+                "street": "437 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542330025521185,
+                    -81.3847166898999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alvin R. Holte Realtors",
+                "street": "508 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541553825660433,
+                    -81.38520373222983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Merke's Auto Parts & Metal Co.",
+                "street": "624 W. Central Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541760250579895,
+                    -81.38804200529472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Billy C. Wood Auto Sales",
+                "street": "624 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541760250579895,
+                    -81.38804200529472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Webb's Z World",
+                "street": "666 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541778825623563,
+                    -81.38882473412995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J & J Moraguez (automobile accessories)",
+                "street": "701 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54227855081938,
+                    -81.38927973412991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Osceola Equipment Service",
+                "street": "705 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542424600615103,
+                    -81.38931582063556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autowize Distribution Center",
+                "street": "725 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54294610056825,
+                    -81.38995863412987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pinnacle Supply Corp.",
+                "street": "777b W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542894600572815,
+                    -81.39040986296509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meals on Wheels",
+                "street": "808 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541706400679825,
+                    -81.39095816296518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alley's Beer Tavern",
+                "street": "817 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542097149901604,
+                    -81.39122386296516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "House of Curls",
+                "street": "916 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541849000666993,
+                    -81.39255847830604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Glover Signs",
+                "street": "926 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54184840066698,
+                    -81.39259596296516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A A A Temp Jobs",
+                "street": "1103 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542126100642054,
+                    -81.39455069180033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bernie's Quick Service Tire Co.",
+                "street": "1106 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541372850684017,
+                    -81.39468356296517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A-1 Central Paint & Body",
+                "street": "1107 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542224800633136,
+                    -81.39466876296513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eagle Distributing Co. (video games)",
+                "street": "1130 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54161425076033,
+                    -81.39551646296516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Labor World Employees",
+                "street": "1200 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541816150778303,
+                    -81.39563490529473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Garland Body Works",
+                "street": "1201 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542303650821744,
+                    -81.39590196296511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sunrise Distributors",
+                "street": "1202 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541850800666772,
+                    -81.39583952063555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fussell Game Repair",
+                "street": "1202h W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541850800666772,
+                    -81.39583952063555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flowers Baking Co.",
+                "street": "1330 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541740100676734,
+                    -81.39856780529473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aztec Development Corp.",
+                "street": "1331 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542270700628972,
+                    -81.39859786296513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central West Indian & American Grocery",
+                "street": "2009 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54221122554605,
+                    -81.40605823412996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Newco Inc.",
+                "street": "2009 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54221122554605,
+                    -81.40605823412996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Segrest Bindery",
+                "street": "2112 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541704000679953,
+                    -81.40820436296515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mid-Fla Alignment",
+                "street": "2114 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541684550766654,
+                    -81.40833669180037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pittman Upholstery",
+                "street": "2116 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541583275723767,
+                    -81.40823716296515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Johnstone Supply",
+                "street": "2139 W. Central Blvd.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542475950836973,
+                    -81.4089766629651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sun Bank Office Building",
+                "street": "15 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54067801935598,
+                    -81.37941478578733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Behr's Shoe Center",
+                "street": "41 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54060491100979,
+                    -81.37991958248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosie's Antique Gift Shop",
+                "street": "76 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540200284919212,
+                    -81.3806469978258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phineas Phoggs Ballon Works",
+                "street": "101 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54041457431654,
+                    -81.38090651561706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buffalo Trading Co.",
+                "street": "102 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539894600473627,
+                    -81.38101896284908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lili Marlene's Aviators Pub & Restaurant",
+                "street": "121 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540404385946644,
+                    -81.3811378646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apple Annie's",
+                "street": "125 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54050719848262,
+                    -81.38138018248567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Bryan Hotel",
+                "street": "330 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540051785930917,
+                    -81.38320656469442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hong's Soul Train (clothing)",
+                "street": "332 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54005424220681,
+                    -81.38322354690315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soul Train Fashions",
+                "street": "334 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54005198593094,
+                    -81.38323784690314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Handi-Man Employment Service",
+                "street": "338 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540059254758418,
+                    -81.38327181132068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prayer House of Faith",
+                "street": "440 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539985742205253,
+                    -81.38471676469442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Community Karate",
+                "street": "444 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5399904547599,
+                    -81.38472936469441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rackard's Employment Service",
+                "street": "503 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540293567294363,
+                    -81.38528536469443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tabernacle of Prayer",
+                "street": "527 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54028891102396,
+                    -81.38552148248564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thomas Beauty & Barber Supplies",
+                "street": "532 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540081998482567,
+                    -81.38555461130177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Negril Cove",
+                "street": "536 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540031,
+                    -81.385605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Video Games & Pool Room",
+                "street": "543 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54028299848265,
+                    -81.38569061561705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Church Street Beauty Salon",
+                "street": "553 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54029653610616,
+                    -81.38579244874846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elk's Rest Home",
+                "street": "554 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53983795476338,
+                    -81.38607186899077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frank's Soda Shop",
+                "street": "557 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54029623610622,
+                    -81.38607990520694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Church Street Pool Room",
+                "street": "563 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540312429998085,
+                    -81.38600147023028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Twin Gardens Beauty Salon",
+                "street": "570 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539879554762436,
+                    -81.3863360646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lefty's Pub",
+                "street": "571 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540311001016313,
+                    -81.38624331687228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Regal House",
+                "street": "573 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540322655496144,
+                    -81.38621169073011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tracy Labor",
+                "street": "574 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539877293930456,
+                    -81.38638165861767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C J Motors Inc.",
+                "street": "595 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54079478141182,
+                    -81.38625706536507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Southern Comfort (beauty salon)",
+                "street": "619 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54042799848259,
+                    -81.38777968246674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clyde's Barber Shop",
+                "street": "731 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54030365475294,
+                    -81.39028906469439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "American Legion Post",
+                "street": "741 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5403106422126,
+                    -81.39080563585935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Global Video",
+                "street": "744 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540081135343943,
+                    -81.39058871132067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Professional Rental Services",
+                "street": "747 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5406436547453,
+                    -81.39094624690314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Car Care Specialists",
+                "street": "919 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540346154751997,
+                    -81.39260568248565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phil's Paint & Body Shop",
+                "street": "921 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5403433984826,
+                    -81.39265524690317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Florida Ductwork & Welding",
+                "street": "921 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5403433984826,
+                    -81.39265524690317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Certified Transmissions",
+                "street": "1310 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53989060648957,
+                    -81.39787326536509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Manufacturing Co. Ltd",
+                "street": "1333 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540769818970077,
+                    -81.39881786536505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Southeast Atlantic Corp. Bottling Co. of Florida Inc.",
+                "street": "1414 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53941282604488,
+                    -81.4002421898999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Custom Screens & Home Improvement",
+                "street": "2103 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54038565094619,
+                    -81.40783120339478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morgan Brothers & Supply Inc.",
+                "street": "2120 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53982960084519,
+                    -81.40861928989995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alcove (produce dealer)",
+                "street": "2127 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540359300797448,
+                    -81.40841246106486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galleria Bath Showplace",
+                "street": "2141 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540641300772077,
+                    -81.40927823222988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woody's Automotive Parts",
+                "street": "2201 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540288711023916,
+                    -81.40984978246674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Royal Vaults Inc.",
+                "street": "2300 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539810285920154,
+                    -81.41137388248565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cardell's Paint-Body Shop",
+                "street": "2369 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540299057753828,
+                    -81.41195837236234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laury's Coin Laundromat",
+                "street": "2383 W. Church St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540323250962746,
+                    -81.41214603222988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sav-More Discount Furniture",
+                "street": "39 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55342934743733,
+                    -81.38004847455944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Snelling Temporaries",
+                "street": "51 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5534466952494,
+                    -81.38023969174492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Beauty & Barber  Supply",
+                "street": "53 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553414447441213,
+                    -81.38033731873468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Professional Bowling Supplies",
+                "street": "75 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553426571347813,
+                    -81.38071238989963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First American Bank of Orange County",
+                "street": "105 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553607971282695,
+                    -81.38142136106457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ink Prints",
+                "street": "316 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552787223643712,
+                    -81.38397866106457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charles Antiques",
+                "street": "320 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55286817571409,
+                    -81.38404918989961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laughin Gargoyle Antiques",
+                "street": "322 W. Colonial Dr",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277629967961,
+                    -81.38408686106455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phares M. Heindl (lawyer)",
+                "street": "400 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277255687561,
+                    -81.38440508755683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Donald Hockman (lawyer)",
+                "street": "400 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277255687561,
+                    -81.38440508755683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Patrick M. Magill (lawyer)",
+                "street": "400 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277255687561,
+                    -81.38440508755683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jack P. Nichols (lawyer)",
+                "street": "400 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277255687561,
+                    -81.38440508755683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anthony J. Ortner (lawyer)",
+                "street": "400 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277255687561,
+                    -81.38440508755683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jackson O. Brownlee (lawyer)",
+                "street": "400 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277255687561,
+                    -81.38440508755683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sherry L. Daviso (lawyer)",
+                "street": "400 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277255687561,
+                    -81.38440508755683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Douglas H. Glicken (lawyer)",
+                "street": "400 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277255687561,
+                    -81.38440508755683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Desing-Line",
+                "street": "401 W. Colonial Dr. #3",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55327079848218,
+                    -81.38518998248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avrum N. Abramowitz (insurance)",
+                "street": "401 W. Colonial Dr. #8",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55327079848218,
+                    -81.38518998248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F S A & D Inc. (advertising)",
+                "street": "414 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5529808544689,
+                    -81.38479146469439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grover H. Voss & Associates Inc. (real estate)",
+                "street": "416 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55270461046799,
+                    -81.38483450027685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Michael Price (lawyer)",
+                "street": "425 W. Colonial Dr. #102",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553428454458874,
+                    -81.38580366469438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harper Edmunds & Durant (financial services)",
+                "street": "425 W. Colonial Dr. #103",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553428454458874,
+                    -81.38580366469438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Southern Home Builders Inc.",
+                "street": "425 W. Colonial Dr. #104",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553428454458874,
+                    -81.38580366469438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Larry O. Meredith (accountant)",
+                "street": "425 W. Colonial Dr. #302",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553428454458874,
+                    -81.38580366469438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jack R. Leonard (attorney)",
+                "street": "425 W. Colonial Dr. #303",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553428454458874,
+                    -81.38580366469438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bell & Irwin Appraisals",
+                "street": "509 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553197454464062,
+                    -81.38657648248562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bob Veazey & Assoc.",
+                "street": "513 W. Colonial Dr. #3",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553281142502236,
+                    -81.38689590027688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sonny's Bar-B-Q",
+                "street": "513 W. Colonial Dr. #8",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553281142502236,
+                    -81.38689590027688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malone Beers Glatt (lawyers)",
+                "street": "517 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553137054465417,
+                    -81.38704888248564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Engineering Computer Technologies",
+                "street": "525 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553144210448288,
+                    -81.3872418646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Add-A-Man Temporary Services Inc.",
+                "street": "617 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553232654463283,
+                    -81.38855198248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edward A. Dion (lawyer)",
+                "street": "644 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55279709848218,
+                    -81.38862426469439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hightower & Doane (lawyers)",
+                "street": "702 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55285371788716,
+                    -81.3889159297825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Citrus Country Alarm Systems",
+                "street": "707 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55335589392857,
+                    -81.38924590094747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Douglas P. Matern & Associates (engineers)",
+                "street": "710 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552799317891964,
+                    -81.38946192978254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Michael B. Jones (lawyer)",
+                "street": "710 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552799317891964,
+                    -81.38946192978254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Title Services Inc.",
+                "street": "720 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552766493928594,
+                    -81.38981079420005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Latin American Network Inc. (motion picture film exchanges and distributors)",
+                "street": "721 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553206770002557,
+                    -81.38975716536503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Daze & Sojourner (lawyers)",
+                "street": "730 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552805917891416,
+                    -81.39016616536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wofford Realty",
+                "street": "733 W. Colonial Dr. Ste. 100",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553214093928617,
+                    -81.39007390094747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stahl Real Estate",
+                "street": "733 W. Colonial Dr. Ste. 101",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553214093928617,
+                    -81.39007390094747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "National Credit Managers",
+                "street": "733 W. Colonial Dr. Ste. 201",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553214093928617,
+                    -81.39007390094747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Norris D. Woolfork III (lawyer)",
+                "street": "738 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552824329870592,
+                    -81.39048180094748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bentley Engineers & Architects Inc.",
+                "street": "750 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552833153831152,
+                    -81.39070478745263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robt. D. Stone (consultant)",
+                "street": "751 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553262405889416,
+                    -81.39077709420005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kwik Kopy Printing",
+                "street": "800 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552918866420338,
+                    -81.39098302978256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Homes for America",
+                "street": "905 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553275193928627,
+                    -81.39190346536496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sizzler Steak House",
+                "street": "912 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552856705907672,
+                    -81.39233279420003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malcolm's Hungry Bear",
+                "street": "924 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55267284248867,
+                    -81.39263168248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B P Oil",
+                "street": "1000 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552645066465,
+                    -81.39373368248562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Don's Chevron Service",
+                "street": "1001 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553198942500416,
+                    -81.39379118248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Life Insurance Co. of Florida",
+                "street": "1011 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553205822409183,
+                    -81.39394808248562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Silk's Fifth Avenue",
+                "street": "1013 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553143754465243,
+                    -81.39401675794696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Andrea Lane Furnishings",
+                "street": "1019 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553145866431365,
+                    -81.39430196469436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sun States Finance Co.",
+                "street": "1019 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553145866431365,
+                    -81.39430196469436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Automation Intelligence",
+                "street": "1200 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552488282561974,
+                    -81.3966038806403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J F Molloy & Assoc Inc.",
+                "street": "1221 W. Colonial Dr. Suite 200",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553347823104456,
+                    -81.39618657277045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wico Consulting Co.",
+                "street": "1301 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553191417856848,
+                    -81.39775036536501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaco Contracting Inc.",
+                "street": "1305 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55316542982487,
+                    -81.39780815187014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Welch Realty Inc. Realtor",
+                "street": "1310 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cummins-Allison Corp.",
+                "street": "1310 W. Colonial Dr. Rm 1",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Labors Local 517",
+                "street": "1310 W. Colonial Dr. Rm 8",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spradley Riley Slaughter Campbell & Assoc.",
+                "street": "1310 W. Colonial Dr. Rm 10",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sheet Metal Worker Local No 15",
+                "street": "1310 W. Colonial Dr. Rm 29",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Human Systems Development Association",
+                "street": "1310 W. Colonial Dr. Rm 30",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bob Brauun & Assoc (publisher)",
+                "street": "1310 W. Colonial Dr. Rm 34",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A H Malcolm Co. (investment securities)",
+                "street": "1310 W. Colonial Dr. Rm 35",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reflection Modeling Agency",
+                "street": "1310 W. Colonial Dr. Rm 37",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hartage Homer & Assoc (financial services)",
+                "street": "1325 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55320859392853,
+                    -81.39838360094751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Powell Realty",
+                "street": "1325 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55320859392853,
+                    -81.39838360094751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cramer & Lobb (lawyer)",
+                "street": "1325 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55320859392853,
+                    -81.39838360094751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hattaway & Assoc. (accountants)",
+                "street": "1344 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55269311046852,
+                    -81.3993228646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raidle Realty",
+                "street": "1344 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55269311046852,
+                    -81.3993228646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polar Services",
+                "street": "1344 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55269311046852,
+                    -81.3993228646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Creditors Collection Service of Florida Inc.",
+                "street": "1350 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5526420784541,
+                    -81.3996556646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Cesse Corp. of Florida",
+                "street": "1412 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552692710468552,
+                    -81.40011670027687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rex Development Co.",
+                "street": "1501 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553185454464273,
+                    -81.40090396469438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Rich Building",
+                "street": "1512 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55265335447624,
+                    -81.40115538248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rich Realty of Orlando Inc.",
+                "street": "1512 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55265335447624,
+                    -81.40115538248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robert Rounsaville & Assoc.",
+                "street": "1512 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55265335447624,
+                    -81.40115538248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martin L. Cordell (lawyer)",
+                "street": "1600 W. Colonial Dr. #102",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Port-O-Pit Barbeque",
+                "street": "1600 W. Colonial Dr. #105",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Joseph M. McNamara (engineer)",
+                "street": "1600 W. Colonial Dr. #108",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wm M Douglas (physicians and surgeons)",
+                "street": "1600 W. Colonial Dr. #109",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Identification Systems Co.",
+                "street": "1600 W. Colonial Dr. #110",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Good Gary Insurance",
+                "street": "1600 W. Colonial Dr. #112",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J T Golden (lawyer)",
+                "street": "1600 W. Colonial Dr. #115",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marvin B. Koontz (engineer)",
+                "street": "1600 W. Colonial Dr. #119",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Superior Employment",
+                "street": "1600 W. Colonial Dr. #205",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wilfred A. Sanders (accountant)",
+                "street": "1600 W. Colonial Dr. #212",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fleet Funding",
+                "street": "1801 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55325437571396,
+                    -81.4033042745594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mains Grimes & Associates (real estate)",
+                "street": "1801 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55325437571396,
+                    -81.4033042745594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arterbury Williams Architects",
+                "street": "1810 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552616485036516,
+                    -81.40411217889444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Braga Engineering Co.",
+                "street": "1820 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55260174765995,
+                    -81.40458766106461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Counseling Services",
+                "street": "1900 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552617799693984,
+                    -81.40477013222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centaur (organization)",
+                "street": "1902 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552663075714303,
+                    -81.40476596106458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kangaroo Fill Stop (gasoline station)",
+                "street": "1916 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552589499696374,
+                    -81.40538200339445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sun State Realty",
+                "street": "1999 W. Colonial Dr. #100",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Law Offices of Baron Martin & Treuhaft",
+                "street": "1999 W. Colonial Dr. #104",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Voldness Vocational Services",
+                "street": "1999 W. Colonial Dr. #105",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toshiba Medical Systems",
+                "street": "1999 W. Colonial Dr. #109",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AJ La Sota Inc. (medical supplies)",
+                "street": "1999 W. Colonial Dr. #111",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kuhlman & Co. (advertising)",
+                "street": "1999 W. Colonial Dr. #202",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sterling Software",
+                "street": "1999 W. Colonial Dr. #204",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duncan's Travels",
+                "street": "1999 W. Colonial Dr. #205",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C K L Real Estate Investors Inc.",
+                "street": "1999 W. Colonial Dr. #212",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Veteran Auto Sales & Leasing Inc.",
+                "street": "2000 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552433023707376,
+                    -81.40609080339453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Winslow's Shell",
+                "street": "2001 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553185846038314,
+                    -81.40592105126032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aunt Polly's Pantry",
+                "street": "2030 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55240004771418,
+                    -81.40673440339447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taco Bell",
+                "street": "2107 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55335517571388,
+                    -81.40764678989962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tropic Beauty Supply",
+                "street": "2123 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55392564730377,
+                    -81.4077376033945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colonial Restaurant Equipment Inc.",
+                "street": "2126 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552325399720218,
+                    -81.40876304756966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ameri-Life & Health Insurance",
+                "street": "2128 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552408023711962,
+                    -81.40881546106462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Southeast Associates (insurance)",
+                "street": "2130 1/2 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552279223735088,
+                    -81.40894551873473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alamo Pawn Shop",
+                "street": "2135 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554016175713542,
+                    -81.40775193222946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Sewing Center",
+                "street": "2141 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5533166235487,
+                    -81.40766207455948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Living Well Lady",
+                "street": "2153 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554375199535635,
+                    -81.40780216106451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collier Jaguar",
+                "street": "2200 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552141099736748,
+                    -81.41010476106459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Krystal Company",
+                "street": "2301 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55341867571376,
+                    -81.41014526106451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ponderosa Steak House",
+                "street": "2363 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5533664996264,
+                    -81.41086683222952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Church's Fried Chicken",
+                "street": "2525 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553218951789038,
+                    -81.41205816106452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B P Gulf",
+                "street": "2800 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552401309096336,
+                    -81.4143291212243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Something Slightly Different",
+                "street": "3101 1/2 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554910476226443,
+                    -81.41497975767008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Party Time of Florida Inc.",
+                "street": "3105 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55417342803525,
+                    -81.41586093222946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bible Museum",
+                "street": "3109 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554205004205755,
+                    -81.4162254666004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Fun Machine (amusement machines)",
+                "street": "3123 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553208241788788,
+                    -81.41737984641405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pearl City Restaurant & Lounge",
+                "street": "3125 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554351375713388,
+                    -81.4170223322295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Big Ten Tires",
+                "street": "3136 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552472047694867,
+                    -81.41490853222952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bobbie's Beauty Salon",
+                "street": "3200 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55201849974788,
+                    -81.41527640339449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Table Supply",
+                "street": "3201 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554008133354397,
+                    -81.41588839906437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Washateria",
+                "street": "3225 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553136074297697,
+                    -81.41722718378593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ron's Truck Painting",
+                "street": "3240b W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552376371724232,
+                    -81.41612998989962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Care-A-Lot (clothing)",
+                "street": "3323 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5530530828198,
+                    -81.41769018009533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phil's Mower Mart",
+                "street": "3325 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55304345887949,
+                    -81.41767079359018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ranch House Restaurant",
+                "street": "3336 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552167047776994,
+                    -81.41769413222947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clear Lake Truck Brokers",
+                "street": "3410 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552555835909168,
+                    -81.41848793222951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roy's Auto Repair",
+                "street": "3420A W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55206694780385,
+                    -81.41856376106456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seat Cover Kingdom",
+                "street": "3450 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551913951672862,
+                    -81.41876213222952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diamond Auto Sales",
+                "street": "3490 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551465099797788,
+                    -81.41977473222958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carter's Barber Shop",
+                "street": "3496 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552062295869717,
+                    -81.4199277322296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WKIS News Talk",
+                "street": "3500 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55209242376859,
+                    -81.42042030339452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pirozzi Chevron Food Mart",
+                "street": "3501 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553222023565844,
+                    -81.42035873222949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Payless Shoe Source",
+                "street": "3520 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552219199729777,
+                    -81.42118347455956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Master Host Inns",
+                "street": "3600 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552336647731238,
+                    -81.42155543222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hertz Car Sales",
+                "street": "3701 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55330829963169,
+                    -81.42281186106449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colonial Mitsubishi",
+                "street": "3776 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551236748027158,
+                    -81.4240995610646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metro Hyundai",
+                "street": "3780 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551737627600385,
+                    -81.42468156106453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wilson Bros. Inc. (food brokers)",
+                "street": "3788 W. Colonial Dr.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552392309621908,
+                    -81.42500576902357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clarence M. Gilbert (physicians and surgeons)",
+                "street": "31 Columbia St. Ste. 1",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.529079801812646,
+                    -81.37810220339512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robert W. Thrailkill (physicians and surgeons)",
+                "street": "31 Columbia St. Ste. 2",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.529079801812646,
+                    -81.37810220339512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harold R. Torrance (physicians and surgeons)",
+                "street": "31 Columbia St. Ste. 6",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.529079801812646,
+                    -81.37810220339512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mark Blaydes (physicians and surgeons)",
+                "street": "45 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52766524951676,
+                    -81.37839210339516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lepley Apartments",
+                "street": "52 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527656328154468,
+                    -81.37875383223013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dorothy T. Lloyd (physicians and surgeons)",
+                "street": "60c Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52761827572786,
+                    -81.37896638990033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robert D. Bast (physcians and surgeons)",
+                "street": "60f Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52761827572786,
+                    -81.37896638990033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Florida Pulmonary Physicians PA",
+                "street": "60f Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52761827572786,
+                    -81.37896638990033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Juan J. Herran (physicians and surgeons)",
+                "street": "60f Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52761827572786,
+                    -81.37896638990033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alan R. Varraux (physicians and surgeons)",
+                "street": "60f Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52761827572786,
+                    -81.37896638990033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Columbia Professional Building",
+                "street": "61 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52882040183593,
+                    -81.3790257322301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carducci-Orthopedics Professional Association",
+                "street": "62 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527653801941,
+                    -81.37934773223019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "June F. Kennedy (audiologist)",
+                "street": "95 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52810565424821,
+                    -81.38048588990019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Treatment Alternatives to Street Crime",
+                "street": "100 W. Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527664054366806,
+                    -81.38065768990026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mothers Against Drunk Drivers",
+                "street": "100 W. Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527664054366806,
+                    -81.38065768990026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shaliaja S. Nadkarni (physicians and surgeons)",
+                "street": "115 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52812784955789,
+                    -81.38125116106525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robert N. Serros MD PA",
+                "street": "115 W. Columbia",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52812784955789,
+                    -81.38125116106525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange Medical Press",
+                "street": "415 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.528067475727774,
+                    -81.38419024572505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ewasko's Litho Services",
+                "street": "421 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5280797280784,
+                    -81.3845251610652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shenk's Specialty Cars",
+                "street": "425 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52807200190331,
+                    -81.38456600524042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Birth Temple of Peace",
+                "street": "601 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527757701931566,
+                    -81.38754793223013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vince's Auto Body",
+                "street": "1220 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527697532995276,
+                    -81.39592060339513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Florida Motor Home Repair",
+                "street": "1241 Columbia St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52820780189113,
+                    -81.39661183223022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mica-Maid Kitchens",
+                "street": "74 W. Concord St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55066877571543,
+                    -81.38047563222963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Concord Corners Rooms",
+                "street": "401 W. Concord Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551018665243582,
+                    -81.38423750523987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dot Apartments",
+                "street": "623 W. Concord St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551186455945224,
+                    -81.38809330119723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Design Services Unlimited",
+                "street": "1301 W. Concord St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55115502393697,
+                    -81.39764633222957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sunshine Taxi-Limousine & Transportation Service",
+                "street": "106 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54087964222518,
+                    -81.38502323768574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jennings Battery Service",
+                "street": "1105 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52894037572741,
+                    -81.38408286106517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D Anna Building Roofing",
+                "street": "1107 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.528795723508,
+                    -81.38459536106522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WOKB Radio Station",
+                "street": "1111 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52863667572735,
+                    -81.38426576106517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Cylinder Head & Block Exchange",
+                "street": "1514 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.524164422682343,
+                    -81.38489576106527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Regional Medical Center Federal Credit Union",
+                "street": "1700 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52253267573074,
+                    -81.3849361322303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Airsport Air Boats Inc.",
+                "street": "1719a S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.522034402446558,
+                    -81.38431943223031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Byer's Mike Fleet Service",
+                "street": "1804 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.521665473252362,
+                    -81.38511365767009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gimondo Custom Welding",
+                "street": "1806 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.521615075731177,
+                    -81.38500130339528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando-Quali-Tique Auto Repr.",
+                "street": "1828 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52086027573162,
+                    -81.3850922033953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Cylinder Head & Block Exchange",
+                "street": "1840 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.520507702583895,
+                    -81.38510293223038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Engine World USA Inc.",
+                "street": "1840 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.520507702583895,
+                    -81.38510293223038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Dominion Freight Lines",
+                "street": "2009 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.518809248729735,
+                    -81.38417253223042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "American Cast Iron Pipe Co.",
+                "street": "2033 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5185284703996,
+                    -81.3846023015501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Southern Scenic & Theatrical Supply",
+                "street": "2111 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.517830148642922,
+                    -81.38385743223041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Everbest Inc.",
+                "street": "2111a S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.517830148642922,
+                    -81.38385743223041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wholesale Business Products",
+                "street": "2218 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51678390291872,
+                    -81.38494743223048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roquemore Oil Co.",
+                "street": "2741 S. Division Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51366360319946,
+                    -81.38352456106553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Graves Brothers Refrigeration Supplies Inc.",
+                "street": "416 S. Garland Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53662717572308,
+                    -81.38126863222989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "E C Kinney Building & Painting Contractors",
+                "street": "462 S. Garland Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53623102483394,
+                    -81.38126973222998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sun Country Electric Inc.",
+                "street": "462 S. Garland Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53623102483394,
+                    -81.38126973222998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Accent Glass Co. Inc.",
+                "street": "529 N. Garland Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.550635351559098,
+                    -81.3815573898997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paul J Ford & Co (engineers)",
+                "street": "731 N. Garland Ave. Rm. 101",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554147271089303,
+                    -81.38111150339452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wm H Baker (investment securities)",
+                "street": "749 N. Garland Ave. Rm. 1",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55451982333275,
+                    -81.3812107322295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metropolitan Life Insurance Co.",
+                "street": "731 N. Garland Ave. Rm. 300",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554147271089303,
+                    -81.38111150339452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Danis Properties (real estate)",
+                "street": "817 N. Garland Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55561278914697,
+                    -81.3811361610645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Danis-Shook (real estate)",
+                "street": "817 N. Garland Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55561278914697,
+                    -81.3811361610645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida League of Financial Institution",
+                "street": "825 N. Garland Ave. Ste. 300",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55575655201485,
+                    -81.38088673222948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "County Express Corp.",
+                "street": "837 N. Garland Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55611882304559,
+                    -81.38076773222949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tracy Dent Enterprises (advertising)",
+                "street": "837 N. Garland Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55611882304559,
+                    -81.38076773222949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell Plumbing",
+                "street": "725 S. Goldwyn Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.532070601543623,
+                    -81.41755320339506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wm. C. King (dentist)",
+                "street": "809 S. Goldwyn Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53126384983664,
+                    -81.41778690339508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potts Cleaners",
+                "street": "907 S. Goldwyn Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53129312395322,
+                    -81.4177035322301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ebony Family Restaurant & Catering Service",
+                "street": "913 S. Goldwyn Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.531121175726067,
+                    -81.41752920339502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sirilus Grocery",
+                "street": "927 S. Goldwyn Ave. Ste. 3",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Philadelphia Hoagie Shop",
+                "street": "927 S. Goldwyn Ave. Ste. 5",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Audrianne's Boutique Elegance",
+                "street": "927 S. Goldwyn Ave. Ste. 7",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Souvenir Photo Studio",
+                "street": "927 S. Goldwyn Ave. Ste. 8",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Celebrity Clothing Store",
+                "street": "927 S. Goldwyn Ave. Ste. 11",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Right Step (shoe dealer)",
+                "street": "927 S. Goldwyn Ave. Ste. 15",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Candy's Girl",
+                "street": "927 S. Goldwyn Ave. Ste. 17",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M H S O C (health care service)",
+                "street": "927 S. Goldwyn Ave. Ste. 200",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Last Day Deliverance Church",
+                "street": "927 S. Goldwyn Ave. Ste. 215",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "David Wilson III (lawyer)",
+                "street": "927 S. Goldwyn Ave. Ste. 222",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rainbow Construction",
+                "street": "927 S. Goldwyn Ave. Ste. 226",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El-Bethel Realty Inc.",
+                "street": "927 S. Goldwyn Ave. Ste. 229",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bahia Shrine Temple (Circus)",
+                "street": "56 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53114910162635,
+                    -81.37845060339511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Red Fez Lounge",
+                "street": "60 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530560033759762,
+                    -81.37886360902344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Construction Development Corp.",
+                "street": "100 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530802545795368,
+                    -81.38009272978265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lionel C. Abbott (physicians and surgeons)",
+                "street": "200 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530873706894074,
+                    -81.38103716536513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raymond C. Cottrell (physicians and surgeons)",
+                "street": "200 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530873706894074,
+                    -81.38103716536513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allen K. Holcomb (physicians and surgeons)",
+                "street": "200 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530873706894074,
+                    -81.38103716536513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "John J. Kennedy (physicians and surgeons)",
+                "street": "200 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530873706894074,
+                    -81.38103716536513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thomas C. Marbury (physicians and surgeons)",
+                "street": "200 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530873706894074,
+                    -81.38103716536513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robt. Stonerock Jr. (physicians and surgeons)",
+                "street": "200 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530873706894074,
+                    -81.38103716536513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edward R. Uhlemann (physicians and surgeons)",
+                "street": "200 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530873706894074,
+                    -81.38103716536513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Florida Paper Co.",
+                "street": "325 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53145589848294,
+                    -81.3836402002769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metropolitan Alcoholism Council Inc.",
+                "street": "712 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530663632847748,
+                    -81.38948332978269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Henry's Portion Meats",
+                "street": "1355 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.531458206867878,
+                    -81.39959872978267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "West Indian American Supper Club",
+                "street": "1377 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.531416719808032,
+                    -81.39965105861768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morris Roofing Co.",
+                "street": "1512 W. Gore St. Ste. 100",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53089410689323,
+                    -81.4010513009476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P I E (trucking)",
+                "street": "1724 W. Gore St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530579632858917,
+                    -81.40386146536517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hickey's Auto Clinic",
+                "street": "1321 Grand Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52673754943444,
+                    -81.39799666106526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vassar E. Lowe (bookkeeping)",
+                "street": "1412 Grand Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526287002063782,
+                    -81.39944396106527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Concrete Inc.",
+                "street": "1416 Grand Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526266849392623,
+                    -81.3996643033951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McDonald Automotive",
+                "street": "1417 Grand Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526566102038927,
+                    -81.39970113223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charlie's Auto Repair",
+                "street": "1501 Grand Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526701975728567,
+                    -81.40027473223019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wm C Jomes (real estate)",
+                "street": "114 W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51632899484551,
+                    -81.37984717890123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dorsi M. Wells (real estate)",
+                "street": "114 W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51632899484551,
+                    -81.37984717890123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "American Associates Co. Inc. (roofing materials)",
+                "street": "114 W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51632899484551,
+                    -81.37984717890123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F J R Food Distributors",
+                "street": "118b W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51639264851509,
+                    -81.37985718990056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Four Seasons Supply",
+                "street": "118c W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51639264851509,
+                    -81.37985718990056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cardello Electric Supply Co.",
+                "street": "118e and f W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51639264851509,
+                    -81.37985718990056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Equipment Supply Co.",
+                "street": "118n W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51639264851509,
+                    -81.37985718990056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Image 7 (box mfrs)",
+                "street": "315 W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516875775733872,
+                    -81.38181376106552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Signworks",
+                "street": "315 W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516875775733872,
+                    -81.38181376106552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Central Commerce Center",
+                "street": "315a W. Grant St,",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516875775733872,
+                    -81.38181376106552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hospitality Galleries",
+                "street": "315b W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516875775733872,
+                    -81.38181376106552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Top Auto",
+                "street": "315m W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516875775733872,
+                    -81.38181376106552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vigorrento Foods Inc.",
+                "street": "380 W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516139202976873,
+                    -81.38249116106547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Atkins Paper Inc.",
+                "street": "460 W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51639074851493,
+                    -81.38393866106547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Royal Business Forms Inc.",
+                "street": "543 W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516726057306688,
+                    -81.38620021873557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A C R Wholesale Air Conditionng Supply",
+                "street": "549 W. Grant St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516850984454667,
+                    -81.38644494757062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ed Rivara Inc. (display designers and manufacturers)",
+                "street": "312 Hames Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.546158524833867,
+                    -81.39647100339462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ideal Foods Inc.",
+                "street": "530 Hames Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.550359893928967,
+                    -81.39627532978254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Midtown Cycles",
+                "street": "532 Hames Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.550808893928934,
+                    -81.3963296009475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "US Federal Building",
+                "street": "80 N. Hughey Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.543441200520103,
+                    -81.38321217455967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Huber Construction Co.",
+                "street": "228 S. Hughey Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53994462594928,
+                    -81.3828632610649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oakridge Investments",
+                "street": "228 S. Hughey Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53994462594928,
+                    -81.3828632610649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moore Management Co. (real estate)",
+                "street": "228 S. Hughey Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53994462594928,
+                    -81.3828632610649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Felicity Musical Instrument Works Inc.",
+                "street": "408 S. Hughey Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53912040091257,
+                    -81.38296269180047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Graphic Arts Associates",
+                "street": "632 S. Hughey Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53349612711007,
+                    -81.3828368629655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F D R Roofing Inc.",
+                "street": "718 S. Hughey Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.532548401504094,
+                    -81.38293746296551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trinity Group Fastening Systems Inc.",
+                "street": "806 S. Hughey Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.532140175729,
+                    -81.38304293413036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dobson Woods & Water",
+                "street": "850 S. Hughey Ave.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.531396249851962,
+                    -81.38296430529518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ed's Quick Shop",
+                "street": "801 W. Jackson St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53931795055261,
+                    -81.39123336106492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Highway Equipment & Supply",
+                "street": "1017 W. Jackson St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539458593930497,
+                    -81.3940658297826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C & M Core Distributors",
+                "street": "1215 W. Jefferson St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54518232643095,
+                    -81.39604343222967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Precision Tire Service Inc.",
+                "street": "1230 W. Jefferson St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.544768325083478,
+                    -81.39673000339468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Velma's Salon of Beauty",
+                "street": "1236 W. Kaley St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51975704871275,
+                    -81.39620420330436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bakery-Confectionery & Tobacco Worker Local 103",
+                "street": "1238 W. Kaley St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.519706648708286,
+                    -81.39635916097535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seven Eleven",
+                "street": "1240 W. Kaley St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51972490265448,
+                    -81.3964080610653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robin Kitchen & Bath Cabinetry",
+                "street": "1308 1/2 W. Kaley St.",
+                "year": "1987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51977310264996,
+                    -81.39808216106542
+                ]
+            }
+        }
+    ]
+}

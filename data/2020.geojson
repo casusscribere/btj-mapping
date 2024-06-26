@@ -1,0 +1,6320 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "﻿Exploria Stadium",
+                "street": "655 W. Church St.",
+                "year": "2017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540525306461067,
+                    -81.3882809297826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J Henry's Barber Shop",
+                "street": "644 W. Church St.",
+                "year": "2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53998909393037,
+                    -81.38882845861764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Creative Car Audio",
+                "street": "1636 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5277921939329,
+                    -81.4025915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Roofing Depot Corp",
+                "street": "1647 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5279909070242,
+                    -81.40298977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Superior Artistic Textures",
+                "street": "1650 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527682807038,
+                    -81.40303659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Florida Metal Shop",
+                "street": "1662 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5275530070438,
+                    -81.40348203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GLOBAL WHOLESALE USED CLOTHING + SHOES DISTRIBUTION HQ",
+                "street": "1701 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.528227946257,
+                    -81.40390607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AMERICAN VINTAGE FACTORY OUTLET",
+                "street": "1701 Acme St. A",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.528227946257,
+                    -81.40390607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piercey Studios",
+                "street": "1714 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5275271594954,
+                    -81.40384166583013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Masonry Accessories&comma; Inc",
+                "street": "1717 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.528057159376864,
+                    -81.40409876583011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "World Drivetrain",
+                "street": "1724 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527532066592666,
+                    -81.40463097749765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Universal Roofing Inc",
+                "street": "1808 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527642654376095,
+                    -81.40517506296575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dave's Dumpsters",
+                "street": "1812 Acme St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527517301956703,
+                    -81.40499556296578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Art Tech Hair Studio",
+                "street": "2700 Alamo Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.514562872938324,
+                    -81.38764803218956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Club Vision",
+                "street": "47 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549536999974816,
+                    -81.38016379180003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange Technical College - Main Campus",
+                "street": "301 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55042939989442,
+                    -81.38384670529436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange County Public Schools",
+                "street": "445 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549999999933114,
+                    -81.38494186296481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EA Orlando",
+                "street": "515 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5500837515137,
+                    -81.38584376296475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Creative Village",
+                "street": "600 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549299197111065,
+                    -81.38669416296484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amelia Court Apartments",
+                "street": "659 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549819499949383,
+                    -81.38850636296478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Absolute Painting Group",
+                "street": "711 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549644475719454,
+                    -81.3896505341296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Votum Construction",
+                "street": "711 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549644475719454,
+                    -81.3896505341296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allen Brothers",
+                "street": "721 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549749875719325,
+                    -81.39022839180002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gerber Collision & Glass",
+                "street": "909 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549848072634344,
+                    -81.39268212063523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "12 Volt USA",
+                "street": "1020 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.548979248638044,
+                    -81.39412556296486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HID Pro / Premier Auto Designs",
+                "street": "1030 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.548948912153865,
+                    -81.39451432883504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crown Cleaning Supplies & Equipment",
+                "street": "1035 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55002414835346,
+                    -81.3949801322296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linde LLC",
+                "street": "1043 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5498834319365,
+                    -81.39501227236222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ricky Joseph&comma; REALTOR",
+                "street": "1201 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54950599997403,
+                    -81.39566713222965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CosPro Marketing",
+                "street": "1216 W. Amelia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.548958572949736,
+                    -81.39582964756977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lloyd's of Shelton Auto Glass",
+                "street": "136 America St Unit 34",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53356270140927,
+                    -81.3812261899001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crystal Event Planner",
+                "street": "728 W. Anderson St,",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.536229667567135,
+                    -81.39022388246674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "033 Towing & Wrecker",
+                "street": "732 W. Anderson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53625356756558,
+                    -81.39044158248565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Easy Car Repair & Service (permanently closed)",
+                "street": "1240 W. Anderson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.536201427207036,
+                    -81.3967533848587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IDrive Rent a Car and Sales",
+                "street": "1246 W. Anderson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.536129880775427,
+                    -81.39683588150368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "iTransit - Collision/Repair Facility",
+                "street": "1424 W. Anderson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53622021937784,
+                    -81.40021872978261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nozzle Master Diesel Injection Specialist",
+                "street": "1438 W. Anderson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53627795753659,
+                    -81.40090582978263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HMI Enterprise LLC",
+                "street": "805 Arlington St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552371899716164,
+                    -81.39140473222952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gallery iron works",
+                "street": "912 Arlington St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551905913096135,
+                    -81.39263975005949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McRae Art Studios",
+                "street": "1000 Arlington St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551834799764396,
+                    -81.39385290339442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anchor Insurance Agency",
+                "street": "1339 Arlington St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55215572375728,
+                    -81.3991345610646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coffee Roasters Alliance LLC",
+                "street": "1220 Atlanta Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527150980765214,
+                    -81.38346016106527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fontana Coffee & Tea",
+                "street": "1220 Atlanta Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527150980765214,
+                    -81.38346016106527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Brewing",
+                "street": "1301 Atlanta Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5264321546979,
+                    -81.38261193223025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sonoco Recycling",
+                "street": "1417 Atlanta Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.524649628693645,
+                    -81.38249386106533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taylor Farms",
+                "street": "1601 Atlanta Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52357295546647,
+                    -81.38248313223029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frost Custom Cabinetry",
+                "street": "1830 Atlanta Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52068482940489,
+                    -81.3834816610654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Well water services inc",
+                "street": "813 Avondale Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.531958579042715,
+                    -81.38720653223002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Agricultural And Mechanical University - College of Law",
+                "street": "201 Beggs Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.544588711380374,
+                    -81.38317037368688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Octavia Beauty Products",
+                "street": "739 Bentley St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54686164291978,
+                    -81.39065122978256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Black Bottom House of Prayer",
+                "street": "921 Bentley Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.547187,
+                    -81.393123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sudcess",
+                "street": "1027 Bentley St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.546867106176514,
+                    -81.39443796536506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Griffin Park Housing Project",
+                "street": "520 Callahan Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53274371618121,
+                    -81.38577065119999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ghost White",
+                "street": "1606 Camerbur Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.528639601852287,
+                    -81.40195673223013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "induzone llc",
+                "street": "1609 Camerbur Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52837047572755,
+                    -81.40193673223013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C&B Glass&comma; Mirror And Shower Doors",
+                "street": "1612 Camerbur Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52837047572755,
+                    -81.40192600339509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Fun Party Rentals",
+                "street": "1615 Camerbur Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5286222018537,
+                    -81.40216013223021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Slate-Lite North America",
+                "street": "1620 Camerbur Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52839012802267,
+                    -81.40236358990022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nikki's Place",
+                "street": "742 W. Carter St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.534548758251205,
+                    -81.3907871868652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAIRWINDS Credit Union",
+                "street": "135 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OSD Displays",
+                "street": "135 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cuban American Cafe",
+                "street": "135 W. Central Blvd. #160",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tower Realty Partners&comma; Inc.",
+                "street": "135 W. Central Blvd. #900",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542350706379146,
+                    -81.38140932978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "US Middle District Court",
+                "street": "401 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542461471467174,
+                    -81.38418493653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U.S. Marshals Service Courthouse",
+                "street": "401 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542461471467174,
+                    -81.38418493653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Masjid Al-Haqq",
+                "street": "545 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542328175723462,
+                    -81.38687437830596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "725 West Warehouse @ Stadium",
+                "street": "725 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54294610056825,
+                    -81.38995863412987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "National Oak Distributors",
+                "street": "777 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542894600572815,
+                    -81.39040986296509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Velasquez Goods",
+                "street": "777 W. Central Blvd. STE 83",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542894600572815,
+                    -81.39040986296509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parramore Christian Academy",
+                "street": "800 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541780675723746,
+                    -81.39067506296514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A K Holcomb Construction",
+                "street": "822 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54165795060746,
+                    -81.39146246296515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange County Public Works",
+                "street": "823 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54256107572331,
+                    -81.39160240529469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange County Health Department",
+                "street": "832 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541144725737468,
+                    -81.39197903413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Motion Industries - Miller Bearings",
+                "street": "912 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54190880066158,
+                    -81.39249369180034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zambranos Custom",
+                "street": "917 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54224885081684,
+                    -81.39275403412988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lemon Chasers Automotive LLC",
+                "street": "917 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54224885081684,
+                    -81.39275403412988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Westartwalls",
+                "street": "1011 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54236577572339,
+                    -81.39382063412995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wrap'n Rollz",
+                "street": "1019 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542379076148432,
+                    -81.39380249180033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baxter Restoration",
+                "street": "1106 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541372850684017,
+                    -81.39468356296517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CCC Auto Group",
+                "street": "1107 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542224800633136,
+                    -81.39466876296513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Division Nine",
+                "street": "1130 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54161425076033,
+                    -81.39551646296516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Best Quality Auto Repair",
+                "street": "1133 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542336475723356,
+                    -81.39549543412993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jlv Auto Sales",
+                "street": "1133 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542336475723356,
+                    -81.39549543412993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PeopleReady",
+                "street": "1201 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542303650821744,
+                    -81.39590196296511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raz Barber Shop & Hair Salon",
+                "street": "1204 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54188280066397,
+                    -81.39586750714119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MD Classic Machine Shop",
+                "street": "1215 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542224900633137,
+                    -81.39644013412992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Station 441",
+                "street": "1310 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541669175723907,
+                    -81.39782486296514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A & A Electric Motors & Pump",
+                "street": "1320 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541681550766363,
+                    -81.39815773413007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fann Emblem & Embroidery Co",
+                "street": "1330 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541740100676734,
+                    -81.39856780529473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Junk Cars Orlando Florida",
+                "street": "1331 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542270700628972,
+                    -81.39859786296513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santana Transmission",
+                "street": "1340 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541692150767403,
+                    -81.39897850529472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FinishMaster&comma; Inc",
+                "street": "1407 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542356000621336,
+                    -81.39980306296515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heart 2 Heart community outreach",
+                "street": "1415 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542169300638072,
+                    -81.4001758764595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Priceless Bar-B-Que By Ray",
+                "street": "1831 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542302550434044,
+                    -81.40526186296515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hebni Nutrition Consultants&comma; Inc.",
+                "street": "2009 W. Central Blvd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54221122554605,
+                    -81.40605823412996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Native Social Bar",
+                "street": "27 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54063381100846,
+                    -81.37966188246672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chillers",
+                "street": "33 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54061094221925,
+                    -81.37976650027689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hamburger Mary's",
+                "street": "110 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540179370011792,
+                    -81.38098626420593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Church Street Station",
+                "street": "127 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540512098482587,
+                    -81.3813677646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harry Buffalo",
+                "street": "129 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54044148594837,
+                    -81.3814848002769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amway Center",
+                "street": "400 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539251873671216,
+                    -81.38396164305482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Big Storm Brewing Co.",
+                "street": "430 W. Church St",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539992711037197,
+                    -81.38468268248566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Webster University",
+                "street": "501 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540635,
+                    -8.385271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TravelClick&comma; an Amadeus company",
+                "street": "501 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540635,
+                    -8.385271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HD Supply",
+                "street": "501 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540635,
+                    -8.385271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The District Gastrobar",
+                "street": "534 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5399916547599,
+                    -81.38561018248565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Night Shade Lounge",
+                "street": "536 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540031,
+                    -81.385605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Neu Bloom Floral and Event Designs",
+                "street": "595 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54079478141182,
+                    -81.38625706536507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SonJae's Hair and Beauty Bar",
+                "street": "595 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54079478141182,
+                    -81.38625706536507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Popcorn Junkie",
+                "street": "595 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54079478141182,
+                    -81.38625706536507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le House Vietnamese",
+                "street": "595 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54079478141182,
+                    -81.38625706536507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chloe Lane Embroidery",
+                "street": "595 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54079478141182,
+                    -81.38625706536507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flamingos Deli Shop",
+                "street": "595 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54079478141182,
+                    -81.38625706536507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wet orange hair studio",
+                "street": "595 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54079478141182,
+                    -81.38625706536507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greater Refuge Memorial Church",
+                "street": "596 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539980006485433,
+                    -81.38682072978261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pat's Machine & Engineering",
+                "street": "630 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539886311041954,
+                    -81.3881896646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Express Homestyle",
+                "street": "712 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540005911036584,
+                    -81.38971416469442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewall Bar (permanently closed)",
+                "street": "741 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5403106422126,
+                    -81.39080563585935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Resort furniture liquidators",
+                "street": "747 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5406436547453,
+                    -81.39094624690314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Interstruct&comma; Inc",
+                "street": "814 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539855881369963,
+                    -81.3917754653651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Baby Food Center - WIC Store",
+                "street": "820 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539940793930437,
+                    -81.39196876536509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando WIC And Nutrition Services Center",
+                "street": "901 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540416088962274,
+                    -81.39231376787404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pet Vet Care FL",
+                "street": "912 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539815245589647,
+                    -81.39282491921442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1010 West",
+                "street": "1010 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53994080935244,
+                    -81.39361740736152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Broken Strings Brewery",
+                "street": "1012 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53987348950911,
+                    -81.39376710908024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BLP Racing Products&comma; LLC.",
+                "street": "1015 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540381943649923,
+                    -81.39380891190096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Florida Insurance School",
+                "street": "1016 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540010122526184,
+                    -81.39465931147816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wall Crawl&comma; LLC",
+                "street": "1016 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540010122526184,
+                    -81.39465931147816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Lab Orlando",
+                "street": "1016 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540010122526184,
+                    -81.39465931147816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Teach For America",
+                "street": "1016 W. Church St. Suite B",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540010122526184,
+                    -81.39465931147816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Home From Rome",
+                "street": "1029 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540526555163176,
+                    -81.39423731033868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange County Republican Executive Committee",
+                "street": "1101 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540321319010353,
+                    -81.39442716536506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ONE ENTERPRISES INC",
+                "street": "1107 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540461781396992,
+                    -81.39453990094756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fahrenheit Propane",
+                "street": "1118 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539956993930396,
+                    -81.39514922978263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nick's Auto Repair FL",
+                "street": "1124 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540031781377706,
+                    -81.39544930094758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sergio's Auto Body Shop",
+                "street": "1220 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53996713159817,
+                    -81.39643476536507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Online Personal Loans",
+                "street": "1226 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53990599393045,
+                    -81.39664400094757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dream Maker",
+                "street": "1310 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53989060648957,
+                    -81.39787326536509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trade Show Expo",
+                "street": "1315 W. Church St. Suite 300",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540416331537813,
+                    -81.39780876536508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Synergy Foam&comma; LLC.",
+                "street": "1321 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54049991899422,
+                    -81.39812550094759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmer Auto Body & Glass",
+                "street": "1341 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54039201900397,
+                    -81.39893062978261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tabernacle of Praise Ministries",
+                "street": "2019 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.540379825574213,
+                    -81.40630510339473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "International Church of the Savior",
+                "street": "2392 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539865076209402,
+                    -81.41265916106487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Advance Auto Parts",
+                "street": "2406 W. Church St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53966882599882,
+                    -81.41293503222987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Camping World Stadium (Orlando Stadium&comma; Tangerine Bowl&comma; Municipal Stadium&comma; Florida Citrus Bowl)",
+                "street": "1 Citrus Bowl Place",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53889370051822,
+                    -81.40336397889698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Foodie Catering",
+                "street": "213 Clear Lake Way",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539611551154167,
+                    -81.3949156899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HD Orlando Indoor Sports Center",
+                "street": "320 Clear Lake Way",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.538649376645008,
+                    -81.3964197322299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amerinational Management Services&comma; Inc.",
+                "street": "105 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553607971282695,
+                    -81.38142136106457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crowne Plaza Orlando-Downtown&comma; an IHG Hotel",
+                "street": "304 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552270206420186,
+                    -81.38348347365306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guido Graphics",
+                "street": "316 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552787223643712,
+                    -81.38397866106457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Omar Zoobi (pharmacy)",
+                "street": "318 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552833975714066,
+                    -81.38403518989959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sneaker Games",
+                "street": "322 W. Colonial Dr",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277629967961,
+                    -81.38408686106455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Art of Fades",
+                "street": "322 W Colonial Dr",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55277629967961,
+                    -81.38408686106455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "American Protection Services and Investigations",
+                "street": "401 W. Colonial Dr. #5",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55327079848218,
+                    -81.38518998248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vazquez & Poudat&comma; PLLC",
+                "street": "401 W. Colonial Dr. #7",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55327079848218,
+                    -81.38518998248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hennen Michael W (attorney)",
+                "street": "425 W. Colonial Dr. #204",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553428454458874,
+                    -81.38580366469438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G Charles Wohlust Law Office",
+                "street": "445 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553244454462956,
+                    -81.38612658248564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smith Thompson Shaw Colon & Power&comma; P.A.",
+                "street": "509 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553197454464062,
+                    -81.38657648248562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Solo Fuego Music Group",
+                "street": "513 W. Colonial Dr. #6",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553281142502236,
+                    -81.38689590027688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Suarez Law Group: Anthony Suarez",
+                "street": "517 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553137054465417,
+                    -81.38704888248564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maxwell Gold Investigations",
+                "street": "523 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55315995446487,
+                    -81.38723148248562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7-Eleven",
+                "street": "605 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553250742501593,
+                    -81.38784606469439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hanson Michael A (attorney)",
+                "street": "617 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553232654463283,
+                    -81.38855198248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Graphic Signs Inc in Orlando",
+                "street": "646 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55266041047001,
+                    -81.38876678248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bulgogi House Korean Restaurant",
+                "street": "705 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553184805501044,
+                    -81.3891551911753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abimael Sanabia (audiologist)",
+                "street": "710 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552799317891964,
+                    -81.38946192978254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Right at Home",
+                "street": "711 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55334589392848,
+                    -81.38931162978254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Digestive and Liver Center of Florida",
+                "street": "721 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553206770002557,
+                    -81.38975716536503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collaborative Function Inc",
+                "street": "726 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552780605911092,
+                    -81.3900241297825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Financial Accounting Services",
+                "street": "730 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552805917891416,
+                    -81.39016616536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haoyunlai Massage Spa",
+                "street": "734 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552803905910107,
+                    -81.39030473652993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Compass Pointe Funeral Services",
+                "street": "737 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553252481967455,
+                    -81.39040662978255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Jaspon Firm",
+                "street": "738 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552824329870592,
+                    -81.39048180094748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ron's Miniature Shop&comma; Inc.",
+                "street": "751 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553262405889416,
+                    -81.39077709420005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wheelzy",
+                "street": "812 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552783181946523,
+                    -81.39157149420008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Law Office of Jane E. Carey&comma; P.A.",
+                "street": "905 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553275193928627,
+                    -81.39190346536496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar",
+                "street": "918 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552727812571288,
+                    -81.39239542193657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PCS Tile",
+                "street": "924 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55267284248867,
+                    -81.39263168248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ambassador hotel",
+                "street": "929 W.Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553750010421226,
+                    -81.39274444690314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Logan Car Rental Inc.",
+                "street": "1001 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553198942500416,
+                    -81.39379118248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Fierce Trap",
+                "street": "1011 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553205822409183,
+                    -81.39394808248562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Xinh Xinh",
+                "street": "1015 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553203154463894,
+                    -81.39406900027689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Luxurii Enterprises LLC",
+                "street": "1017 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553252386521045,
+                    -81.39415254690317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Three Masks INC",
+                "street": "1023 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55313003438316,
+                    -81.3944548646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quattry's Bench Express Jewelers",
+                "street": "1023B W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55313003438316,
+                    -81.3944548646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bushman #1 Art Gallery & Event Center",
+                "street": "1025 W. Colonial Dr. #1023",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55324627838654,
+                    -81.39452162911189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dustin's Nail Supply",
+                "street": "1100 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5527621544738,
+                    -81.39430138248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIGN DEPOT",
+                "street": "1100 W. Colonial Dr. Unit 1",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5527621544738,
+                    -81.39430138248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lifted Smoke Shop West Colonial",
+                "street": "1115 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553258410443217,
+                    -81.39497744690314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wawa",
+                "street": "1200 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552488282561974,
+                    -81.3966038806403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thermin Cancelo&comma; Realtor",
+                "street": "1221 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553347823104456,
+                    -81.39618657277045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Koyfman Dental",
+                "street": "1255 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553209441782705,
+                    -81.39720225861757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Milton & Associates Inc",
+                "street": "1310 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lashed by Ronni",
+                "street": "1310 W. Colonial Dr. Suite 12",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haven Of Hope Food Pantry",
+                "street": "1310 W. Colonial Dr. Suite 25 - 26",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blanks And Vinyl Store",
+                "street": "1310 W. Colonial Dr. suite 31",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552564729905484,
+                    -81.39815236536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North American Credit Consultants LLC",
+                "street": "1320 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552675993928702,
+                    -81.39835092978252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fassett&comma; Anthony & Taylor&comma; P.A.",
+                "street": "1325 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55320859392853,
+                    -81.39838360094751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Neilson & Associates",
+                "street": "1332 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552600143437296,
+                    -81.3988366856033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Ticket Clinic - A Law Firm",
+                "street": "1333 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553231186520097,
+                    -81.39876130027686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Keith Turner Law Office (attorney referral service)",
+                "street": "1337 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55331869848222,
+                    -81.39920168248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Nunez Law Firm",
+                "street": "1337 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55331869848222,
+                    -81.39920168248561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maria Hoyos (therapist)",
+                "street": "1339 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553271154462404,
+                    -81.39927244690314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anderson and Associates&comma; P.A.",
+                "street": "1339 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553271154462404,
+                    -81.39927244690314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Douglas H Glicken Law Offices",
+                "street": "1344 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55269311046852,
+                    -81.3993228646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Millenium Realty Center",
+                "street": "1350 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5526420784541,
+                    -81.3996556646944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Life Christian Center of Orlando",
+                "street": "1403 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553276878383105,
+                    -81.39973366469441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Votum Construction&comma; LLC",
+                "street": "1405 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55331185446145,
+                    -81.40016888248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Motorola",
+                "street": "1412 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552692710468552,
+                    -81.40011670027687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cybear Interactive",
+                "street": "1501 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553185454464273,
+                    -81.40090396469438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Premier Orthopedic Of Orlando",
+                "street": "1512 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55265335447624,
+                    -81.40115538248563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Orthodontics",
+                "street": "1525 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553138298482203,
+                    -81.40134590027687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Melrose Management",
+                "street": "1600 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55263579848219,
+                    -81.4021165180681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gasdick Stanton Early&comma; PA (attorney)",
+                "street": "1601 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55318569848223,
+                    -81.40207954690314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Rawls Group - Business Succession Planners: Orlando&comma; FL",
+                "street": "1700 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552596519034864,
+                    -81.402865500386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marsha Maile (social worker)",
+                "street": "1703 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553253883833978,
+                    -81.40288260119722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yvette Register - State Farm Insurance Agent",
+                "street": "1716 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552626599693184,
+                    -81.40348203222953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brahma Kumaris Meditation Center",
+                "street": "1801 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55325437571396,
+                    -81.4033042745594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Medical Injury Care Provider Network",
+                "street": "1805 W. Colonial Dr. A",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55319085178646,
+                    -81.40405833222952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Ivanor Law Firm",
+                "street": "1805 W. Colonial Dr. D",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55319085178646,
+                    -81.40405833222952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smith & Williams Trial Group&comma; PLLC.",
+                "street": "1820 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55260174765995,
+                    -81.40458766106461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walk for Life",
+                "street": "1851 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55317242357477,
+                    -81.40444813222948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family First Firm -  Medicaid & Elder Law Attorneys",
+                "street": "1901 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553190547501494,
+                    -81.40493110339445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golden Phoenix Spa",
+                "street": "1904 W. Colonial Dr. B",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552610199694605,
+                    -81.40501696106458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Municipal Lien Search",
+                "street": "1999 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553177699643427,
+                    -81.40539273222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Motor Car Concepts II Inc.",
+                "street": "2010 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552470947695173,
+                    -81.4060689033945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Best Western Orlando West",
+                "street": "2014 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55213929147022,
+                    -81.4064567745595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hotel Orlando",
+                "street": "2030 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55240004771418,
+                    -81.40673440339447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taste of Chengdu 成都味道",
+                "street": "2030 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55240004771418,
+                    -81.40673440339447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wings & Hibachi Cajun Seafood",
+                "street": "2107 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55335517571388,
+                    -81.40764678989962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phantom Fireworks of Orlando",
+                "street": "2110 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55229867571445,
+                    -81.40775408989965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Luxury Hair Import",
+                "street": "2111 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553693171252316,
+                    -81.40774048989957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caribbean One Stop",
+                "street": "2117 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55378187571369,
+                    -81.40774333222949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elegant Beauty Supplies Superstores",
+                "street": "2120 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552313123729014,
+                    -81.40840881873473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CaptainFish Market",
+                "street": "2121 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554373775713312,
+                    -81.40899358989957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Best Seafood Place",
+                "street": "2122 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5523334477321,
+                    -81.40855916106463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Showtyme Int'l Hair & More",
+                "street": "2123 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55392564730377,
+                    -81.4077376033945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Direct Auto Insurance",
+                "street": "2126 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552325399720218,
+                    -81.40876304756966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The ManBib Barber",
+                "street": "2130 W. Colonial Dr. Suite 5",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552279223735088,
+                    -81.40894551873473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZG ADVERTISING Where you are in control",
+                "street": "2135 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554016175713542,
+                    -81.40775193222946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bridge To Independence Private School",
+                "street": "2138 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552267599725354,
+                    -81.40922460339455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Speed Car",
+                "street": "2150 W. Colonial Dr. f",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55230309972212,
+                    -81.4097067187347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magic Mall",
+                "street": "2155 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55481449949602,
+                    -81.40933010154919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Global AutoHaus",
+                "street": "2195 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553471395238258,
+                    -81.40943926106458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Value Pawn & Jewelry",
+                "street": "2355 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5534529474309,
+                    -81.4104418322295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cash America Pawn",
+                "street": "2363 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5533664996264,
+                    -81.41086683222952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAW Wheels & Tires",
+                "street": "2395 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553312323549555,
+                    -81.41120420339446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Authentic Gyros & Grill",
+                "street": "2401 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553341847460764,
+                    -81.4101691033945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Royal Motors of Orlando",
+                "street": "2413 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553297075713854,
+                    -81.41169320339445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange County Sheriff's Office",
+                "street": "2500 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551695823839886,
+                    -81.4118991898996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "International Harvest Church - Food Distribution Center",
+                "street": "2520 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55258797571426,
+                    -81.41175446106458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JD Solve IT",
+                "street": "2528 W. Colonial Drive Suite B",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.550570272371807,
+                    -81.41233720339457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Squeeky's Car Wash",
+                "street": "2605 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553679783877467,
+                    -81.41326777236215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Checkers",
+                "street": "2750 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55243452370722,
+                    -81.41332463222952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7-Eleven",
+                "street": "3000 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552151223758138,
+                    -81.41439786106454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McDonald's",
+                "street": "3005 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.553342951799934,
+                    -81.41507403222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "#1 Beauty Supply",
+                "street": "3109 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554205004205755,
+                    -81.4162254666004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Royal One Tires",
+                "street": "3136 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552472047694867,
+                    -81.41490853222952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pathlight HOME",
+                "street": "3200 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55201849974788,
+                    -81.41527640339449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maxwell Terrace Apartments",
+                "street": "3200 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55201849974788,
+                    -81.41527640339449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parkwood Plaza",
+                "street": "3201 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.554008133354397,
+                    -81.41588839906437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "African Choice Food Market",
+                "street": "3336 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552167047776994,
+                    -81.41769413222947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Budget Inn",
+                "street": "3600 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552336647731238,
+                    -81.42155543222954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quality Inn & Suites",
+                "street": "3956 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551654317994686,
+                    -81.42810763652997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Classic Honda Orlando",
+                "street": "4000 W. Colonial Dr.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552028117961132,
+                    -81.42903039420011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Retina Institute",
+                "street": "95 Columbia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52810565424821,
+                    -81.38048588990019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "City of Orlando Parks Division",
+                "street": "1206 Columbia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5275748757279,
+                    -81.39525580339513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quality Automotive Repairs",
+                "street": "1220 Columbia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527697532995276,
+                    -81.39592060339513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Del Rio Heavy Equipment Repair LLC",
+                "street": "1236 Columbia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.527652428155136,
+                    -81.39627906106523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flash Electric-Central Fl",
+                "street": "1239 Columbia St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52822890188923,
+                    -81.3963720033951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supreme Faces",
+                "street": "1012 Colyer St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53753902638107,
+                    -81.39371510339484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lexington Court Apartments",
+                "street": "315 Concord St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551293651617723,
+                    -81.38352456106458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Concord Court Apartments",
+                "street": "680 Concord St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.550578272368988,
+                    -81.38854761873475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Emmanuel United Methodist Church",
+                "street": "701 Concord St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55145097571498,
+                    -81.38939753222958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Serra Top Carpet Cleaning",
+                "street": "811 Concord St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551342861285526,
+                    -81.39155765005967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Office Techs Furniture",
+                "street": "1016 Concord St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55112517571506,
+                    -81.39424623222953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sis Clay Jewelry",
+                "street": "1340 Concord St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.550714824015895,
+                    -81.39906448989969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACCEL MOTORSPORTS INC",
+                "street": "511 Conroy St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.524862428985678,
+                    -81.38506265514647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D&D Smith Constructors&comma; LLC",
+                "street": "519 Conroy St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.524901033993256,
+                    -81.38559583785852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liles Electric Inc",
+                "street": "520 Conroy St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52446360222797,
+                    -81.38553528990033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Inmates of the Cross Ministries",
+                "street": "1123 W. Conroy St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.524925913149175,
+                    -81.39604287889959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prestige Auto Trending",
+                "street": "1240 W. Conroy St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.524305402242188,
+                    -81.39612223223021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "King Wheel Repair",
+                "street": "1230 Cypress St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.531948164794105,
+                    -81.39644775006327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tade Rubber Co.",
+                "street": "1212 Dewitt Dr,",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.543184292466886,
+                    -81.39619554068572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sophia's Deli",
+                "street": "356 S. Division St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53858408131325,
+                    -81.38509192978263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magic Spot",
+                "street": "368 S. Division St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.538438606554713,
+                    -81.38505812978259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repaint Florida LLC",
+                "street": "1011 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.529640001762136,
+                    -81.38460903223013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mears Transportation - Human Resource Office",
+                "street": "1017 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52945637572701,
+                    -81.38442818990019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roberts Oxygen",
+                "street": "1105 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52894037572741,
+                    -81.38408286106517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MarshallXport Corporation",
+                "street": "1111 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52863667572735,
+                    -81.38426576106517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barton Engineering Solutions",
+                "street": "1120 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52781874953046,
+                    -81.38504983223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Health Center for Innovation",
+                "street": "1126 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52765134951559,
+                    -81.3849594322301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alsco Uniforms",
+                "street": "1213 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52745747572798,
+                    -81.38405803223017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Health ELLiE Education Center",
+                "street": "1309 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.525886622989418,
+                    -81.38428253223016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Powered By Ford",
+                "street": "1520 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.523998322652577,
+                    -81.38492040339524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Volt Electrical Services",
+                "street": "1610 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.523207975730354,
+                    -81.38501703223035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comtel Networks LLC",
+                "street": "1700 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52253267573074,
+                    -81.3849361322303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "American Eagle Concrete Services",
+                "street": "1705 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.522966802362582,
+                    -81.38439396106534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRS Wireless",
+                "street": "1711 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.522629349069437,
+                    -81.38442643223026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barnes Supply Corporation",
+                "street": "1719 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.522034402446558,
+                    -81.38431943223031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Custom Welding By Law",
+                "street": "1800 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.521822448997618,
+                    -81.38510288990035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "World of Independence",
+                "street": "1804 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.521665473252362,
+                    -81.38511365767009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NIS Print",
+                "street": "1809 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.521840529197895,
+                    -81.3843252322303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Teer Audio Visual",
+                "street": "1814 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.521312775731488,
+                    -81.38509220339527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zelznak Inc",
+                "street": "1820 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52112234893531,
+                    -81.38511366106535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLX Courier",
+                "street": "1824 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52088454891424,
+                    -81.3850540033953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Black Leaf Signs",
+                "street": "1840 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.520507702583895,
+                    -81.38510293223038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Conrad Yelvington Distributors&comma; Shop",
+                "street": "1921 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.519257548769616,
+                    -81.38388996106544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ASI Landscape Management",
+                "street": "2007 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.519259594846833,
+                    -81.38406688990048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Würth",
+                "street": "2077 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.518347921645525,
+                    -81.38445993223041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cumberland International Trucks",
+                "street": "2110 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.517852775733303,
+                    -81.38548943223041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vital Signs of Orlando Inc",
+                "street": "2111 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.517830148642922,
+                    -81.38385743223041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Austin Historical",
+                "street": "2113 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.517810921549614,
+                    -81.38442646106546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Preferred Materials",
+                "street": "2201 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.517314402871165,
+                    -81.38447666106543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maruti Transportation",
+                "street": "2301 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516240157437327,
+                    -81.38434533223048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Airgas Store",
+                "street": "2601 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51533650304906,
+                    -81.38419030339541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aramark Uniform Services",
+                "street": "2741 S. Division Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51366360319946,
+                    -81.38352456106553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUNSHINE PRESCHOOL INC",
+                "street": "16 S. Dollins Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541293938109924,
+                    -81.40780777889654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greater Tomorrow Christian Academy",
+                "street": "16 S. Dollins Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.541293938109924,
+                    -81.40780777889654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Push.",
+                "street": "101 Ernestine St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.532861610986075,
+                    -81.38037819012793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Panama Jack",
+                "street": "230 Ernestine St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.532232368128774,
+                    -81.38227382978263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mid-Florida Pools&comma; Inc",
+                "street": "714 Franklin Ln.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53355106711515,
+                    -81.38243560210731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CEO Chicks",
+                "street": "101 S. Garland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54102067572069,
+                    -81.38129156106484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reviox&comma; LLC",
+                "street": "101 S. Garland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54102067572069,
+                    -81.38129156106484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PlanSource",
+                "street": "101 S. Garland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54102067572069,
+                    -81.38129156106484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hellbrand Leatherworks at Woodgrain Gallery",
+                "street": "101 S. Garland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54102067572069,
+                    -81.38129156106484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "StreamFluence",
+                "street": "101 S. Garland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54102067572069,
+                    -81.38129156106484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MÜV Dispensary Orlando - Garland",
+                "street": "101 S. Garland Ave. St 110",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54102067572069,
+                    -81.38129156106484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Church Street Plaza",
+                "street": "225 S. Garland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53949860087493,
+                    -81.3813476899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esquire Cleaners",
+                "street": "255 N. Garland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54528025108285,
+                    -81.38166736106474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AC Hotel by Marriott Orlando Downtown",
+                "street": "333 S. Garland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53903923831606,
+                    -81.38098492122688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lynx Central Station",
+                "street": "455 N. Garland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.548447751364492,
+                    -81.38144160339456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Christian Service Center Daily Bread - Soup Kitchen",
+                "street": "24 Glenn Ln.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5410857505921,
+                    -81.39075767889659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Axiom Bank",
+                "street": "715 S. Goldwyn Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.532387749936532,
+                    -81.4177035322301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cornerstone Conceptions&comma; Inc.",
+                "street": "927 S. Goldwyn Ave. Ste. 211",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53053625359449,
+                    -81.41774953223015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Associates in Urogynecology",
+                "street": "70 W. Gore St. Suite 201",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530541493931675,
+                    -81.37934776536511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beyond the Leash Dog Training",
+                "street": "115 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53135973275424,
+                    -81.38072515861772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Premium Sign Shop Pros",
+                "street": "201 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53129628098826,
+                    -81.38095536536517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tax Relief Settlement",
+                "street": "325 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53145589848294,
+                    -81.3836402002769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "In Bloom Florist",
+                "street": "325 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53145589848294,
+                    -81.3836402002769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U-Haul Neighborhood Dealer",
+                "street": "626 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530900119854348,
+                    -81.38859222978266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Al's Liquor",
+                "street": "700 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530718093931597,
+                    -81.38927646536514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JCB Construction Inc",
+                "street": "800 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530751780964028,
+                    -81.39007189420018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Superior Design",
+                "street": "820 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530803706897157,
+                    -81.39133090094762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pro Gear & Transmission",
+                "street": "906 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.530789893931708,
+                    -81.39162769420018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R L Burns&comma; Inc.",
+                "street": "1203 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53134370687291,
+                    -81.39527186536515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sisom Thin Film",
+                "street": "1209 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.531357906872373,
+                    -81.39556386536516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Happy Times Learning Academy",
+                "street": "1215 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.531352919813752,
+                    -81.39572199420019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GORE STREET CARRIER ANNEX",
+                "street": "1325 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53147048099612,
+                    -81.39853100094759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Coffee Roasters&comma; Inc.",
+                "street": "1401 W. Gore St. # 3",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53149212678948,
+                    -81.39987636415357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alpha Roofing And Sheet Metal",
+                "street": "1477 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53128420687566,
+                    -81.40060856536512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fulmore Chiropractic",
+                "street": "1500 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53093581985106,
+                    -81.4006647365301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bail Bonds By Dina Edwards",
+                "street": "1512 W. Gore St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53089410689323,
+                    -81.4010513009476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chama Business Center",
+                "street": "1512 W. Gore St. suite d",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53089410689323,
+                    -81.4010513009476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grand Avenue Neighborhood Center",
+                "street": "800 Grand St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.525601422938497,
+                    -81.39047204174558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grand Market",
+                "street": "950 Grand St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526376507373154,
+                    -81.39283293223029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Keystone Automotive",
+                "street": "1010 Grand St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526087002081972,
+                    -81.39328573223025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "City of Orlando Parks Operations",
+                "street": "1075 Grand St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52714430198668,
+                    -81.39495728990026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HIGH QUALITY AUTO SALES ( Used Auto Parts )",
+                "street": "1200 Grand St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526141902077075,
+                    -81.39524256106522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caroll's Catering and Special Events",
+                "street": "1317 Grand St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526706454624247,
+                    -81.39773736106525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Optimum Car Care LLC",
+                "street": "1322 Grand St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52622902305053,
+                    -81.39819098990026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Titam America",
+                "street": "420 W. Grant St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516378248513846,
+                    -81.38319173223043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Kitchen and Bath Gallery",
+                "street": "440 W. Grant St a",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516265075734196,
+                    -81.38367110339536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spectra Gutter Systems Orlando",
+                "street": "507 W. Grant St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51672325730764,
+                    -81.38507276106543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DC Foam Inc (Carpet Pad Recycling)",
+                "street": "523 W. Grant St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516716557309437,
+                    -81.38550273223046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Husky Floors",
+                "street": "531 W. Grant St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516868684448408,
+                    -81.38582221873553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Flower Market",
+                "street": "535 W. Grant St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516884475733836,
+                    -81.38591893223041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jack the Plumbing Pro",
+                "street": "535 W. Grant St. STE 159",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516884475733836,
+                    -81.38591893223041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grant Street Flower Market",
+                "street": "537 W. Grant St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516726784499248,
+                    -81.38596458990051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "US Installation Group",
+                "street": "543 W. Grant St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516726057306688,
+                    -81.38620021873557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Best Choice Nuts Candy & Spec",
+                "street": "549 W. Grant St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516850984454667,
+                    -81.38644494757062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LandiManticS",
+                "street": "1605 W. Grant St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.516513167584836,
+                    -81.40181723657128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Energy Solutions LLC",
+                "street": "501 Hames Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54964070817244,
+                    -81.39568768756132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laranna Luxury Events",
+                "street": "503 Hames Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549737506047684,
+                    -81.39577266536502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spinout Guest Laundries",
+                "street": "511 Hames Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.549802693929003,
+                    -81.39578692978257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ameriscapes Landscape Management",
+                "street": "532 Hames Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.550808893928934,
+                    -81.3963296009475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Triangle Reprographics Inc",
+                "street": "850 S. Hughey Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.531396249851962,
+                    -81.38296430529518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Commercial Millworks Inc",
+                "street": "1120 S. Hughey Ave. a",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52845304959029,
+                    -81.38266407646012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C & S Supply of Orlando Inc",
+                "street": "1120 S. Hughey Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52845304959029,
+                    -81.38266407646012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Unique Auto",
+                "street": "1325 Indiana St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.525925459000476,
+                    -81.39816066282278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sky Gallery",
+                "street": "1524 Indiana St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.525302675732743,
+                    -81.40031707646027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CRASH CREW CONSTRUCTION&comma; LLC",
+                "street": "1732 Indiana St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.525510449328834,
+                    -81.40435736296588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Youth Life Worship & Praise Center",
+                "street": "580 W. Jackson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.538972400925903,
+                    -81.38663209180048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Faith Workers",
+                "street": "726 W. Jackson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.538973125323157,
+                    -81.39011760339483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jr Food Services",
+                "street": "801 W. Jackson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53931795055261,
+                    -81.39123336106492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "USA Auto Motors",
+                "street": "1001 W. Jackson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539461281352388,
+                    -81.3933437297826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cloud 9 Services&comma; LLC",
+                "street": "1201 W. Jackson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.539469581352748,
+                    -81.39565510094758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "All Florida Septic ",
+                "street": "1203 W. Jackson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53964948136076,
+                    -81.3960052653651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Architectural Sheet Metal Manufacturing",
+                "street": "1203 W. Jackson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53964948136076,
+                    -81.3960052653651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Herns' Yard Care",
+                "street": "1240 W. Jackson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53893929393056,
+                    -81.39656792978262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lift Orlando",
+                "street": "2043 Jacobs Pl.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.534146900315303,
+                    -81.40741372122778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jerry Harvey Audio",
+                "street": "111 W. Jefferson St.Unit 300",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.544959493929735,
+                    -81.38122143652998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blaze Energy",
+                "street": "601 W. Jefferson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54494186840822,
+                    -81.38720942692636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ABC Delta Airlines Orlando Maintenace",
+                "street": "1019 W. Jefferson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54512697571837,
+                    -81.3940635322298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sprockets Speed Shop",
+                "street": "1215 W. Jefferson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54518232643095,
+                    -81.39604343222967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Environmental Recycling Inc",
+                "street": "1230 W. Jefferson St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.544768325083478,
+                    -81.39673000339468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "United Deliverance Church",
+                "street": "428 Jernigan St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53718309732949,
+                    -81.39220334354077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trademark Metals Recycling",
+                "street": "317 W. Kaley St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52062687573183,
+                    -81.38245583223035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Labor Finders Orlando",
+                "street": "401 W. Kaley St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.520428975732013,
+                    -81.38339633223035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Companies of Nassal",
+                "street": "415 W. Kaley St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.520509375731887,
+                    -81.3837982033953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Auto Mall",
+                "street": "515 W. Kaley St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.520547675732008,
+                    -81.38533020339527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaley Square",
+                "street": "1030 Kaley Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.519739702551778,
+                    -81.39416873213985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rebuilding Together of Central Florida",
+                "street": "1030 Kaley Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.519739702551778,
+                    -81.39416873213985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Emmanuel Fellowship and Worship Center",
+                "street": "1030 Kaley Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.519739702551778,
+                    -81.39416873213985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pax Villa Funeral Homes",
+                "street": "1236 W. Kaley St.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51975704871275,
+                    -81.39620420330436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reboth Church",
+                "street": "1316 Kaley Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.519725521890845,
+                    -81.39853783223033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bethel Tabernacle",
+                "street": "1401 Kaley Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.52026474885909,
+                    -81.39939517456028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOFLLC",
+                "street": "1430 Kaley Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.519783234308655,
+                    -81.40048990094769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Unlimited Stone Designs",
+                "street": "26 Kent Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.542945913113684,
+                    -81.40081995006115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Domingos Enterprise",
+                "street": "231 Kent Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.54491327571851,
+                    -81.40004630339469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pattern LLC",
+                "street": "2845 L B McLeod Rd.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51025739929414,
+                    -81.41368347890236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Full Gospel Faith Fellowship Church (FGFFCORLANDO)",
+                "street": "3009 Lauressa Ln.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.511209806532673,
+                    -81.41013371873566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shree Hanuman Mandir",
+                "street": "3119 Lauressa Ln.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51031754797534,
+                    -81.41017953223061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Day Nursery",
+                "street": "626 Lake Dot Cir.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.552120675976738,
+                    -81.38796959999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EXPECT EXCEPTIONAL!",
+                "street": "618 S. Lakeland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53487190034603,
+                    -81.40665632122769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boys & Girls Club of Central Florida",
+                "street": "700 S. Lakeland Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.534122150090603,
+                    -81.40673026106509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DnDz Photography",
+                "street": "506 S. Lee Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53612085209302,
+                    -81.39130176106494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The True Apostolic Church of Jesus Christ",
+                "street": "716 S. Lee Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53408087572434,
+                    -81.39154790339498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kingdom Hall of Jehovah's Witnesses",
+                "street": "1701 S. Lee Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.523521402312873,
+                    -81.39059133223024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salvation Army Men's Shelter",
+                "street": "624 Lexington Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.551907437139416,
+                    -81.38447655005947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Downtown Arts Collective",
+                "street": "643 Lexington Ave.",
+                "year": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55261407571441,
+                    -81.38407393222951
+                ]
+            }
+        }
+    ]
+}
