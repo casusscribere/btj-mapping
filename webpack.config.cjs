@@ -5,6 +5,7 @@ module.exports = {
   entry: {
     core: './src/core.js',
     parramore: './src/parramore.js',
+    businesses: './src/businesses.js'
   },
   output: {
     filename: '[name].js',

@@ -4,15 +4,17 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lou Henry (restaurant) (for colored only)",
+                "name": "﻿Lou Henry (restaurant) (for colored only)",
                 "street": "7 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.54060015474621,
+                "longitude": -81.37932716467552
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54060015474621,
-                    -81.37932716467552
+                    -81.37932716467552,
+                    28.54060015474621
                 ]
             }
         },
@@ -21,13 +23,15 @@
             "properties": {
                 "name": "J.A. Colyer (colored) (tailoring)",
                 "street": "15 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.54067801935598,
+                "longitude": -81.37941478578733
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54067801935598,
-                    -81.37941478578733
+                    -81.37941478578733,
+                    28.54067801935598
                 ]
             }
         },
@@ -36,13 +40,15 @@
             "properties": {
                 "name": "Lucy Taylor (restaurant) (for colored only)",
                 "street": "18 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540167794685587,
+                "longitude": -81.37946459528834
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540167794685587,
-                    -81.37946459528834
+                    -81.37946459528834,
+                    28.540167794685587
                 ]
             }
         },
@@ -51,13 +57,15 @@
             "properties": {
                 "name": "J.B. Rinaldi (fruit store)",
                 "street": "19 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.54061419274148,
+                "longitude": -81.37950233917371
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54061419274148,
-                    -81.37950233917371
+                    -81.37950233917371,
+                    28.54061419274148
                 ]
             }
         },
@@ -66,13 +74,15 @@
             "properties": {
                 "name": "M.Z. Rinaldi (grocer)",
                 "street": "19 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.54061419274148,
+                "longitude": -81.37950233917371
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54061419274148,
-                    -81.37950233917371
+                    -81.37950233917371,
+                    28.54061419274148
                 ]
             }
         },
@@ -81,13 +91,15 @@
             "properties": {
                 "name": "Ben Hansford (restaurants) (for colored only)",
                 "street": "20 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540164102050785,
+                "longitude": -81.37948924439327
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540164102050785,
-                    -81.37948924439327
+                    -81.37948924439327,
+                    28.540164102050785
                 ]
             }
         },
@@ -96,13 +108,15 @@
             "properties": {
                 "name": "A.D. Bell (grocer)",
                 "street": "21 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540600811009956,
+                "longitude": -81.3795122646755
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540600811009956,
-                    -81.3795122646755
+                    -81.3795122646755,
+                    28.540600811009956
                 ]
             }
         },
@@ -111,13 +125,15 @@
             "properties": {
                 "name": "Anderson Fish and Oyster Co. (markets)",
                 "street": "22 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.54016675475596,
+                "longitude": -81.37951498248565
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54016675475596,
-                    -81.37951498248565
+                    -81.37951498248565,
+                    28.54016675475596
                 ]
             }
         },
@@ -126,13 +142,15 @@
             "properties": {
                 "name": "Grover's Transfer (transfer and hauling)",
                 "street": "22 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.54016675475596,
+                "longitude": -81.37951498248565
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54016675475596,
-                    -81.37951498248565
+                    -81.37951498248565,
+                    28.54016675475596
                 ]
             }
         },
@@ -141,13 +159,15 @@
             "properties": {
                 "name": "Aro-Pepsin (manufacturer)",
                 "street": "23 W. Church. sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540436327655552,
+                "longitude": -81.37953662653074
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540436327655552,
-                    -81.37953662653074
+                    -81.37953662653074,
+                    28.540436327655552
                 ]
             }
         },
@@ -156,13 +176,15 @@
             "properties": {
                 "name": "Phillips & Co. (grocer)",
                 "street": "25 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540630667271724,
+                "longitude": -81.37957598248563
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540630667271724,
-                    -81.37957598248563
+                    -81.37957598248563,
+                    28.540630667271724
                 ]
             }
         },
@@ -171,13 +193,15 @@
             "properties": {
                 "name": "Clark-Kincaid Co. (furniture; racket and department stores)",
                 "street": "26-30 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540163256491446,
+                "longitude": -81.37956813701922
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540163256491446,
-                    -81.37956813701922
+                    -81.37956813701922,
+                    28.540163256491446
                 ]
             }
         },
@@ -186,13 +210,15 @@
             "properties": {
                 "name": "J.W. Vestal",
                 "street": "27 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.54063381100846,
+                "longitude": -81.37966188246672
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54063381100846,
-                    -81.37966188246672
+                    -81.37966188246672,
+                    28.54063381100846
                 ]
             }
         },
@@ -201,28 +227,32 @@
             "properties": {
                 "name": "J Schnarr & Co. (Schnarr's Insecticide manufacturer)",
                 "street": "27 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.54063381100846,
+                "longitude": -81.37966188246672
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54063381100846,
-                    -81.37966188246672
+                    -81.37966188246672,
+                    28.54063381100846
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "P.F. Laubach (grain, feed, etc)",
+                "name": "P.F. Laubach (grain; feed; etc)",
                 "street": "34 W. Church",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540163098482633,
+                "longitude": -81.37966216469442
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540163098482633,
-                    -81.37966216469442
+                    -81.37966216469442,
+                    28.540163098482633
                 ]
             }
         },
@@ -231,13 +261,15 @@
             "properties": {
                 "name": "Orlando Fish Co (fish only markets)",
                 "street": "34 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540163098482633,
+                "longitude": -81.37966216469442
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540163098482633,
-                    -81.37966216469442
+                    -81.37966216469442,
+                    28.540163098482633
                 ]
             }
         },
@@ -246,13 +278,15 @@
             "properties": {
                 "name": "J. Waldecker (shooting gallery)",
                 "street": "34 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540163098482633,
+                "longitude": -81.37966216469442
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540163098482633,
-                    -81.37966216469442
+                    -81.37966216469442,
+                    28.540163098482633
                 ]
             }
         },
@@ -261,28 +295,32 @@
             "properties": {
                 "name": "Mrs. H.J. Sandlin (European Restaurant and Hotel)",
                 "street": "42 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540168767302717,
+                "longitude": -81.37980578248566
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540168767302717,
-                    -81.37980578248566
+                    -81.37980578248566,
+                    28.540168767302717
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Arlington House (hotels and boarding houses)",
+                "name": "Arlington House (hotels and borading houses)",
                 "street": "108 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.53998324220521,
+                "longitude": -81.38113476469441
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.53998324220521,
-                    -81.38113476469441
+                    -81.38113476469441,
+                    28.53998324220521
                 ]
             }
         },
@@ -291,13 +329,15 @@
             "properties": {
                 "name": "Thomas House (hotels and boarding houses)",
                 "street": "116 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540179811028825,
+                "longitude": -81.38106948248564
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540179811028825,
-                    -81.38106948248564
+                    -81.38106948248564,
+                    28.540179811028825
                 ]
             }
         },
@@ -306,13 +346,15 @@
             "properties": {
                 "name": "Robert Parham (grocer)",
                 "street": "118 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.539985654760077,
+                "longitude": -81.38116818248562
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.539985654760077,
-                    -81.38116818248562
+                    -81.38116818248562,
+                    28.539985654760077
                 ]
             }
         },
@@ -321,13 +363,15 @@
             "properties": {
                 "name": "Fred J. Wadford (furniture new and 2d hand)",
                 "street": "W. Church, cor Garland&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.540212148662867,
+                "longitude": -81.38174745304485
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540212148662867,
-                    -81.38174745304485
+                    -81.38174745304485,
+                    28.540212148662867
                 ]
             }
         },
@@ -336,13 +380,15 @@
             "properties": {
                 "name": "Mrs. J.A. Barker (hotels and boarding houses)",
                 "street": "310 W. Church",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.54005795475842,
+                "longitude": -81.38307965794696
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54005795475842,
-                    -81.38307965794696
+                    -81.38307965794696,
+                    28.54005795475842
                 ]
             }
         },
@@ -351,13 +397,15 @@
             "properties": {
                 "name": "Magnolia Lodge No. 56 - Knights of Pythius",
                 "street": "554 W. Church St.",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.53983795476338,
+                "longitude": -81.38607186899077
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.53983795476338,
-                    -81.38607186899077
+                    -81.38607186899077,
+                    28.53983795476338
                 ]
             }
         },
@@ -366,13 +414,15 @@
             "properties": {
                 "name": "Ebenezer United Methodist Church",
                 "street": "596 W. Church St.",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.539980006485433,
+                "longitude": -81.38682072978261
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.539980006485433,
-                    -81.38682072978261
+                    -81.38682072978261,
+                    28.539980006485433
                 ]
             }
         },
@@ -381,13 +431,15 @@
             "properties": {
                 "name": "Z. Phillips (grocer)",
                 "street": "600 W. Church&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.539907454332916,
+                "longitude": -81.38715436240496
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.539907454332916,
-                    -81.38715436240496
+                    -81.38715436240496,
+                    28.539907454332916
                 ]
             }
         },
@@ -396,28 +448,32 @@
             "properties": {
                 "name": "J.L. Empie (boats manufacturers)",
                 "street": "107 Garland&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.543951277927203,
+                "longitude": -81.38186618926015
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.543951277927203,
-                    -81.38186618926015
+                    -81.38186618926015,
+                    28.543951277927203
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Hyres & Pounds (lumber, novelty works)",
+                "name": "Hyres & Pounds (lumber; novelty works)",
                 "street": "N. Gertrude Ave&comma; on S.A.L.",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.53970634438195,
+                "longitude": -81.38079428381366
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.53970634438195,
-                    -81.38079428381366
+                    -81.38079428381366,
+                    28.53970634438195
                 ]
             }
         },
@@ -426,13 +482,15 @@
             "properties": {
                 "name": "A.C. Crooms (col) (grocer)",
                 "street": "Lime&comma; sw",
-                "year": "1909"
+                "year": "1909",
+                "latitude": 28.53884713812826,
+                "longitude": -81.38808261600703
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.53884713812826,
-                    -81.38808261600703
+                    -81.38808261600703,
+                    28.53884713812826
                 ]
             }
         }

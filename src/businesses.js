@@ -11,26 +11,13 @@ const baseMap = L.tileLayer(
 			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
 	});
 
-// Create array of GeoJSON files decade slices.
-const districtGeoJSONFiles = [
-    '1845-1873',
-    '1873-1903',
-    '1903-1913',
-    '1913-1933',
-    '1933-1943',
-    '1943-1953',
-    '1953-1963',
-    '1963-1973',
-    '1973-1983',
-    '1983-1993',
-    '1993-2003',
-    '2003-2013'
-];
 
 function onEachFeature(feature, layer) {
   
-    let popupContent = "<p style='text-align:center'><em><span style='font-size: 120%;'>" + feature
-        .properties.Name + "</span></em><br>" + feature.properties.Address + "</b></p>";
+    let popupContent =`<p class='popup'><em>${feature
+        .properties.name}</em><br>Address: ${feature
+            .properties.street}<br>Year: ${feature
+                .properties.year}</p>`;
 
     if (feature.properties && feature.properties.popupContent) {
         popupContent += feature.properties.popupContent;
@@ -39,16 +26,16 @@ function onEachFeature(feature, layer) {
     layer.bindPopup(popupContent);
 }
 
-// This is the center of the map.
-const centerOfParramore = [28.537605555555556, -81.38484444444444];
+// This is the center of the Parramore.
+const center = [28.537605555555556, -81.38484444444444];
 
 // Create a map object.
 let map = L.map('map', {
     layers: [baseMap],
-    center: centerOfParramore,
-    minZoom: 4,
-    maxZoom: 12,
-    zoom: 4
+    center: center,
+    minZoom: 16,
+    maxZoom: 22,
+    zoom: 20
 });
 
 const imageUrl = 'maps/parramore.jpg';
@@ -83,6 +70,20 @@ L.imageOverlay(imageUrl, latLngBounds, {
 L.rectangle(latLngBounds).addTo(map);
 map.fitBounds(latLngBounds);
 
+// Create array to hold GeoJSON filenames.
+const districtGeoJSONFiles = [
+    "1910",
+    "1915",
+    "1930",
+    "1940",
+    "1950",
+    "1960",
+    "1970",
+    "1980",
+    "1990",
+    "2020"
+];
+
 // Create an group object to store GeoJSON objects.
 let geoJSONGroup;
 
@@ -99,7 +100,7 @@ let districtSlices = {};
  */
 function geoLoader(filename) {
 	// Assemble the path to the GeoJSON file.
-	let file = `./businesses/${filename}.geojson`;
+	let file = `./geojson/${filename}.geojson`;
 	
 	// Create a GeoJSON object.
 	// The onEachFeature option is a function that will be called once for each feature in the GeoJSON data.
@@ -140,4 +141,4 @@ districtGeoJSONFiles.forEach(layerBuilder);
 L.control.layers(districtSlices, null, {collapsed: false}).addTo(map);
 
 // Add a header to the layer control.
-$('<p id="layer-ctrl-header">Businesses</p>').insertBefore('div.leaflet-control-layers-base');
+$('<p id="layer-ctrl-header">Businesses Per Time Period</p>').insertBefore('div.leaflet-control-layers-base');

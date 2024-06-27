@@ -6,13 +6,15 @@
             "properties": {
                 "name": "﻿Floyd and Purcell Beauty Salon",
                 "street": "706 Bentley Ave.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.546836,
+                "longitude": -81.38941
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.546836,
-                    -81.38941
+                    -81.38941,
+                    28.546836
                 ]
             }
         },
@@ -21,13 +23,15 @@
             "properties": {
                 "name": "Freddie L. Maxwell (notary public)",
                 "street": "737 W. Carter St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.534881440758866,
+                "longitude": -81.39066008120484
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.534881440758866,
-                    -81.39066008120484
+                    -81.39066008120484,
+                    28.534881440758866
                 ]
             }
         },
@@ -36,13 +40,15 @@
             "properties": {
                 "name": "Holmes' Wood Yard",
                 "street": "900 W. Carter St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.534636403042427,
+                "longitude": -81.39210605538956
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.534636403042427,
-                    -81.39210605538956
+                    -81.39210605538956,
+                    28.534636403042427
                 ]
             }
         },
@@ -51,13 +57,15 @@
             "properties": {
                 "name": "Merritt's Pool Room",
                 "street": "516 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.540031,
+                "longitude": -81.385358
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540031,
-                    -81.385358
+                    -81.385358,
+                    28.540031
                 ]
             }
         },
@@ -66,13 +74,15 @@
             "properties": {
                 "name": "Bill's Shoe Rebuilder & Walker's Radio Service",
                 "street": "525 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.540286554753333,
+                "longitude": -81.38546515610167
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540286554753333,
-                    -81.38546515610167
+                    -81.38546515610167,
+                    28.540286554753333
                 ]
             }
         },
@@ -81,13 +91,15 @@
             "properties": {
                 "name": "Washington's Radio Service",
                 "street": "525 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.540286554753333,
+                "longitude": -81.38546515610167
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540286554753333,
-                    -81.38546515610167
+                    -81.38546515610167,
+                    28.540286554753333
                 ]
             }
         },
@@ -96,13 +108,15 @@
             "properties": {
                 "name": "O. A. Beacham (notary public)",
                 "street": "539 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.54029497983564,
+                "longitude": -81.38565796899074
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54029497983564,
-                    -81.38565796899074
+                    -81.38565796899074,
+                    28.54029497983564
                 ]
             }
         },
@@ -111,13 +125,15 @@
             "properties": {
                 "name": "John's Pool Room",
                 "street": "563 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.540312429998085,
+                "longitude": -81.38600147023028
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540312429998085,
-                    -81.38600147023028
+                    -81.38600147023028,
+                    28.540312429998085
                 ]
             }
         },
@@ -126,13 +142,15 @@
             "properties": {
                 "name": "The Central Florida Colored Business School",
                 "street": "573 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.540322655496144,
+                "longitude": -81.38621169073011
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540322655496144,
-                    -81.38621169073011
+                    -81.38621169073011,
+                    28.540322655496144
                 ]
             }
         },
@@ -141,13 +159,15 @@
             "properties": {
                 "name": "L. A. Braboy&comma; D.D.S.",
                 "street": "575 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.54029523155405,
+                "longitude": -81.3862684899317
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54029523155405,
-                    -81.3862684899317
+                    -81.3862684899317,
+                    28.54029523155405
                 ]
             }
         },
@@ -156,13 +176,15 @@
             "properties": {
                 "name": "Central Florida Colored Business School",
                 "street": "575 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.54029523155405,
+                "longitude": -81.3862684899317
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54029523155405,
-                    -81.3862684899317
+                    -81.3862684899317,
+                    28.54029523155405
                 ]
             }
         },
@@ -171,13 +193,15 @@
             "properties": {
                 "name": "Imperial Mutual Hospitalization Protection Asso.",
                 "street": "589 1/2 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.540322606796128,
+                "longitude": -81.38630641017403
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540322606796128,
-                    -81.38630641017403
+                    -81.38630641017403,
+                    28.540322606796128
                 ]
             }
         },
@@ -186,13 +210,15 @@
             "properties": {
                 "name": "Coleman's Radio Service",
                 "street": "606 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.539856465938254,
+                "longitude": -81.38729352227247
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.539856465938254,
-                    -81.38729352227247
+                    -81.38729352227247,
+                    28.539856465938254
                 ]
             }
         },
@@ -201,13 +227,15 @@
             "properties": {
                 "name": "Paradise Smoke Shoppe",
                 "street": "608 W. Church St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.53985557263614,
+                "longitude": -81.38731770552224
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.53985557263614,
-                    -81.38731770552224
+                    -81.38731770552224,
+                    28.53985557263614
                 ]
             }
         },
@@ -216,13 +244,15 @@
             "properties": {
                 "name": "Fair & Square Auto Co.",
                 "street": "909 W. Church",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.54033508251212,
+                "longitude": -81.39240020119736
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54033508251212,
-                    -81.39240020119736
+                    -81.39240020119736,
+                    28.54033508251212
                 ]
             }
         },
@@ -231,13 +261,15 @@
             "properties": {
                 "name": "Faith Holy Temple",
                 "street": "114 N. Division St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.543323905936663,
+                "longitude": -81.38480734816575
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.543323905936663,
-                    -81.38480734816575
+                    -81.38480734816575,
+                    28.543323905936663
                 ]
             }
         },
@@ -246,13 +278,15 @@
             "properties": {
                 "name": "Ed's Place",
                 "street": "126 S. Division St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.54068593871623,
+                "longitude": -81.3850986864127
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54068593871623,
-                    -81.3850986864127
+                    -81.3850986864127,
+                    28.54068593871623
                 ]
             }
         },
@@ -261,13 +295,15 @@
             "properties": {
                 "name": "Central Florida Times Press",
                 "street": "130 S. Division St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.540665593930257,
+                "longitude": -81.38510892978262
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.540665593930257,
-                    -81.38510892978262
+                    -81.38510892978262,
+                    28.540665593930257
                 ]
             }
         },
@@ -276,13 +312,15 @@
             "properties": {
                 "name": "Griffen Park Sweet Shop",
                 "street": "723 S. Division St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.534125842665425,
+                "longitude": -81.38464175861769
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.534125842665425,
-                    -81.38464175861769
+                    -81.38464175861769,
+                    28.534125842665425
                 ]
             }
         },
@@ -291,13 +329,15 @@
             "properties": {
                 "name": "Buddie's Auto Parts Shop",
                 "street": "745 Easy St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.533099529188956,
+                "longitude": -81.39628758248567
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.533099529188956,
-                    -81.39628758248567
+                    -81.39628758248567,
+                    28.533099529188956
                 ]
             }
         },
@@ -306,13 +346,15 @@
             "properties": {
                 "name": "Curfy's Wood Yard",
                 "street": "108 Garden St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.544198651282326,
+                "longitude": -81.39069617889592
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.544198651282326,
-                    -81.39069617889592
+                    -81.39069617889592,
+                    28.544198651282326
                 ]
             }
         },
@@ -321,13 +363,15 @@
             "properties": {
                 "name": "North End Beer Garden and Lunch",
                 "street": "235 N. Hughey St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.545889775717857,
+                "longitude": -81.38278963222967
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.545889775717857,
-                    -81.38278963222967
+                    -81.38278963222967,
+                    28.545889775717857
                 ]
             }
         },
@@ -336,13 +380,15 @@
             "properties": {
                 "name": "Zimmerman's Coffee Shop",
                 "street": "500 W. Jackson St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.538985850526622,
+                "longitude": -81.38541150529484
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.538985850526622,
-                    -81.38541150529484
+                    -81.38541150529484,
+                    28.538985850526622
                 ]
             }
         },
@@ -351,13 +397,15 @@
             "properties": {
                 "name": "Sweetie's Beauty Box",
                 "street": "205 W. Jefferson St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.54477530627035,
+                "longitude": -81.38187707395775
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.54477530627035,
-                    -81.38187707395775
+                    -81.38187707395775,
+                    28.54477530627035
                 ]
             }
         },
@@ -366,13 +414,15 @@
             "properties": {
                 "name": "Croom's Kindergarten",
                 "street": "609 W. Jefferson St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.544930805719368,
+                "longitude": -81.38730113657442
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.544930805719368,
-                    -81.38730113657442
+                    -81.38730113657442,
+                    28.544930805719368
                 ]
             }
         },
@@ -381,13 +431,15 @@
             "properties": {
                 "name": "Walker's Beer Garden",
                 "street": "220 Lincoln St.",
-                "year": "1949"
+                "year": "1949",
+                "latitude": 28.544997338626654,
+                "longitude": -81.38815038127002
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.544997338626654,
-                    -81.38815038127002
+                    -81.38815038127002,
+                    28.544997338626654
                 ]
             }
         }
