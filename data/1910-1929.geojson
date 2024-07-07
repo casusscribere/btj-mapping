@@ -1,0 +1,1705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "﻿J.L. Empie (boats manufacturers)",
+                "street": "107 Garland; sw",
+                "year": "1910-1929",
+                "latitude": 28.543951277927203,
+                "longitude": -81.38186618926015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38186618926015,
+                    28.543951277927203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.A. Colyer (colored) (tailoring)",
+                "street": "15 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54067801935598,
+                "longitude": -81.37941478578733
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37941478578733,
+                    28.54067801935598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.W. Vestal",
+                "street": "27 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54063381100846,
+                "longitude": -81.37966188246672
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37966188246672,
+                    28.54063381100846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J Schnarr & Co. (Schnarr's Insecticide manufacturer)",
+                "street": "27 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54063381100846,
+                "longitude": -81.37966188246672
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37966188246672,
+                    28.54063381100846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phillips & Co. (grocer)",
+                "street": "25 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540630667271724,
+                "longitude": -81.37957598248563
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37957598248563,
+                    28.540630667271724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.B. Rinaldi (fruit store)",
+                "street": "19 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54061419274148,
+                "longitude": -81.37950233917371
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37950233917371,
+                    28.54061419274148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M.Z. Rinaldi (grocer)",
+                "street": "19 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54061419274148,
+                "longitude": -81.37950233917371
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37950233917371,
+                    28.54061419274148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.D. Bell (grocer)",
+                "street": "21 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540600811009956,
+                "longitude": -81.3795122646755
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3795122646755,
+                    28.540600811009956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lou Henry (restaurant) (for colored only)",
+                "street": "7 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54060015474621,
+                "longitude": -81.37932716467552
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37932716467552,
+                    28.54060015474621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aro-Pepsin (manufacturer)",
+                "street": "23 W. Church. sw",
+                "year": "1910-1929",
+                "latitude": 28.540436327655552,
+                "longitude": -81.37953662653074
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37953662653074,
+                    28.540436327655552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fred J. Wadford (furniture new and 2d hand)",
+                "street": "W. Church;+A20 cor Garland; sw",
+                "year": "1910-1929",
+                "latitude": 28.540212148662867,
+                "longitude": -81.38174745304485
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38174745304485,
+                    28.540212148662867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thomas House (hotels and boarding houses)",
+                "street": "116 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540179811028825,
+                "longitude": -81.38106948248564
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38106948248564,
+                    28.540179811028825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mrs. H.J. Sandlin (European Restaurant and Hotel)",
+                "street": "42 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540168767302717,
+                "longitude": -81.37980578248566
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37980578248566,
+                    28.540168767302717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lucy Taylor (restaurant) (for colored only)",
+                "street": "18 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540167794685587,
+                "longitude": -81.37946459528834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37946459528834,
+                    28.540167794685587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anderson Fish and Oyster Co. (markets)",
+                "street": "22 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54016675475596,
+                "longitude": -81.37951498248565
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37951498248565,
+                    28.54016675475596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grover's Transfer (transfer and hauling)",
+                "street": "22 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54016675475596,
+                "longitude": -81.37951498248565
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37951498248565,
+                    28.54016675475596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ben Hansford (restaurants) (for colored only)",
+                "street": "20 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540164102050785,
+                "longitude": -81.37948924439327
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37948924439327,
+                    28.540164102050785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clark-Kincaid Co. (furniture; racket and department stores)",
+                "street": "26-30 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540163256491446,
+                "longitude": -81.37956813701922
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37956813701922,
+                    28.540163256491446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.F. Laubach (grain; feed; etc)",
+                "street": "34 W. Church",
+                "year": "1910-1929",
+                "latitude": 28.540163098482633,
+                "longitude": -81.37966216469442
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37966216469442,
+                    28.540163098482633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Fish Co (fish only markets)",
+                "street": "34 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540163098482633,
+                "longitude": -81.37966216469442
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37966216469442,
+                    28.540163098482633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J. Waldecker (shooting gallery)",
+                "street": "34 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540163098482633,
+                "longitude": -81.37966216469442
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37966216469442,
+                    28.540163098482633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mrs. J.A. Barker (hotels and boarding houses)",
+                "street": "310 W. Church",
+                "year": "1910-1929",
+                "latitude": 28.54005795475842,
+                "longitude": -81.38307965794696
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38307965794696,
+                    28.54005795475842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robert Parham (grocer)",
+                "street": "118 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.539985654760077,
+                "longitude": -81.38116818248562
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38116818248562,
+                    28.539985654760077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arlington House (hotels and borading houses)",
+                "street": "108 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.53998324220521,
+                "longitude": -81.38113476469441
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38113476469441,
+                    28.53998324220521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ebenezer United Methodist Church",
+                "street": "596 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.539980006485433,
+                "longitude": -81.38682072978261
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38682072978261,
+                    28.539980006485433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Z. Phillips (grocer)",
+                "street": "600 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.539907454332916,
+                "longitude": -81.38715436240496
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38715436240496,
+                    28.539907454332916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magnolia Lodge No. 56 - Knights of Pythius",
+                "street": "554 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.53983795476338,
+                "longitude": -81.38607186899077
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38607186899077,
+                    28.53983795476338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hyres & Pounds (lumber; novelty works)",
+                "street": "N. Gertrude Ave&comma; on S.A.L.",
+                "year": "1910-1929",
+                "latitude": 28.53970634438195,
+                "longitude": -81.38079428381366
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38079428381366,
+                    28.53970634438195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.C. Crooms (col) (grocer)",
+                "street": "Lime; sw",
+                "year": "1910-1929",
+                "latitude": 28.53884713812826,
+                "longitude": -81.38808261600703
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38808261600703,
+                    28.53884713812826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Bottling Works",
+                "street": "207 Garland; sw",
+                "year": "1910-1929",
+                "latitude": 28.545076862809807,
+                "longitude": -81.3813704533947
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3813704533947,
+                    28.545076862809807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.M.E. Church",
+                "street": "corner Veach and Beggs Sts.",
+                "year": "1910-1929",
+                "latitude": 28.542845789102724,
+                "longitude": -81.38348187745227
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38348187745227,
+                    28.542845789102724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Primitive Baptist Church",
+                "street": "Douglass St.",
+                "year": "1910-1929",
+                "latitude": 28.542839549627185,
+                "longitude": -81.38822803119179
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38822803119179,
+                    28.542839549627185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chas McDowell (real estate)",
+                "street": "707 W. Central Ace.",
+                "year": "1910-1929",
+                "latitude": 28.542434025506026,
+                "longitude": -81.38938109364685
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38938109364685,
+                    28.542434025506026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phillips Manufacturing Co. (window making machinery; etc.)",
+                "street": "101 W. Central Ave.",
+                "year": "1910-1929",
+                "latitude": 28.542132943766614,
+                "longitude": -81.38093866536511
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38093866536511,
+                    28.542132943766614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pearl Gloss Laundry",
+                "street": "605 W. Central",
+                "year": "1910-1929",
+                "latitude": 28.54211714988189,
+                "longitude": -81.38719406481162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38719406481162,
+                    28.54211714988189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Claude Nolan (agcy Cadillac) (garages and repairing)",
+                "street": "cor W. Central and Gertrude Aves.",
+                "year": "1910-1929",
+                "latitude": 28.541955208849572,
+                "longitude": -81.38141427619611
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38141427619611,
+                    28.541955208849572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Juan Garage (agcy Studebaker) (garages and reparing)",
+                "street": "entrance from W. Central Ave&comma; rear San Juan Hotel",
+                "year": "1910-1929",
+                "latitude": 28.541955208849572,
+                "longitude": -81.38141427619611
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38141427619611,
+                    28.541955208849572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Child's Cottage (hotels and boarding houses)",
+                "street": "206 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.5419350820119,
+                "longitude": -81.3819844758031
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3819844758031,
+                    28.5419350820119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chapman House (hotels and boarding houses)",
+                "street": "308 W. Central Ave.",
+                "year": "1910-1929",
+                "latitude": 28.541915993930076,
+                "longitude": -81.38325589420012
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38325589420012,
+                    28.541915993930076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.F. Allen (florist)",
+                "street": "720 W. Central Ave.",
+                "year": "1910-1929",
+                "latitude": 28.5414955507498,
+                "longitude": -81.38963376296513
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38963376296513,
+                    28.5414955507498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.E. Nicholson (bakery and grocer)",
+                "street": "17 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54069131897721,
+                "longitude": -81.37944435861762
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37944435861762,
+                    28.54069131897721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Masonic Hall",
+                "street": "Middle Street",
+                "year": "1910-1929",
+                "latitude": 28.540674493930318,
+                "longitude": -81.38509840094757
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38509840094757,
+                    28.540674493930318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M. Martin (transfer and hauling)",
+                "street": "25 1/2 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540630667271724,
+                "longitude": -81.37957598248563
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37957598248563,
+                    28.540630667271724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Pharmacy",
+                "street": "23 W. Church. sw",
+                "year": "1910-1929",
+                "latitude": 28.540436327655552,
+                "longitude": -81.37953662653074
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37953662653074,
+                    28.540436327655552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Lawrence (hotels and boarding houses)",
+                "street": "101 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54041457431654,
+                "longitude": -81.38090651561706
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38090651561706,
+                    28.54041457431654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N.A. Mathes (shoe repair)",
+                "street": "103 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540400974397183,
+                "longitude": -81.38091847944305
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38091847944305,
+                    28.540400974397183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jordan & Chett (for colored only) (barber shop)",
+                "street": "24 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54017126730256,
+                "longitude": -81.37954178248565
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37954178248565,
+                    28.54017126730256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dann's Transfer (transfer and hauling) (packages and baggage)",
+                "street": "38 W. Church; nw",
+                "year": "1910-1929",
+                "latitude": 28.540169467302654,
+                "longitude": -81.37973526467549
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37973526467549,
+                    28.540169467302654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T.W. Mathews (contractor; plumbing; steam and gas fitting)",
+                "street": "40 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540169067302763,
+                "longitude": -81.37977991132068
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37977991132068,
+                    28.540169067302763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "E.R. Long (grocer)",
+                "street": "214 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540168354035643,
+                "longitude": -81.38216102544929
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38216102544929,
+                    28.540168354035643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phoenix House (hotels and boarding houses)",
+                "street": "406 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.54013111673749,
+                "longitude": -81.38446602236446
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38446602236446,
+                    28.54013111673749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.L. Loveless (painting; decorating and paper hanging)",
+                "street": "618 W. Church; sw",
+                "year": "1910-1929",
+                "latitude": 28.540027714083873,
+                "longitude": -81.38782141805237
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38782141805237,
+                    28.540027714083873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Odd Fellows' Hall",
+                "street": "504 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540006998482657,
+                "longitude": -81.38524236469442
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38524236469442,
+                    28.540006998482657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Odd Fellows' Temple",
+                "street": "600 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.539907454332916,
+                "longitude": -81.38715436240496
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38715436240496,
+                    28.539907454332916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cohoon Bros - Turtle meats; soup; clam chowder; etc-(canning plant)",
+                "street": "S. Gertrude Ave.; sw",
+                "year": "1910-1929",
+                "latitude": 28.53970634438195,
+                "longitude": -81.38079428381366
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38079428381366,
+                    28.53970634438195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cottage Home (hotels and boarding houses)",
+                "street": "cor W. Jackson and Boone",
+                "year": "1910-1929",
+                "latitude": 28.539087408058585,
+                "longitude": -81.38013831802195
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38013831802195,
+                    28.539087408058585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Atlantic Coast Line Railroad",
+                "street": "76 W. Church",
+                "year": "1910-1929",
+                "latitude": 28.540200284919212,
+                "longitude": -81.3806469978258
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3806469978258,
+                    28.540200284919212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Joseph Bumby Hardware",
+                "street": "102-118 W. Church",
+                "year": "1910-1929",
+                "latitude": 28.540002948700316,
+                "longitude": -81.38115658248564
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38115658248564,
+                    28.540002948700316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shiloh Baptist Church",
+                "street": "600 W. Jackson",
+                "year": "1910-1929",
+                "latitude": 28.539270038661623,
+                "longitude": -81.38698056272163
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38698056272163,
+                    28.539270038661623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seventh-day Adventist Church",
+                "street": "784 W. Carter",
+                "year": "1910-1929",
+                "latitude": 28.53454268047904,
+                "longitude": -81.39123814690318
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39123814690318,
+                    28.53454268047904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seaboard Coastline Railroad",
+                "street": "76 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540200284919212,
+                "longitude": -81.3806469978258
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3806469978258,
+                    28.540200284919212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frank Hyres (building blocks; etc.)",
+                "street": "Cor N. Gertrude and W. Livingston Aves",
+                "year": "1910-1929",
+                "latitude": 28.547422389790476,
+                "longitude": -81.3808474667162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3808474667162,
+                    28.547422389790476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schnarr and Yothers (insecticide manufacturers)",
+                "street": "Garland St.",
+                "year": "1910-1929",
+                "latitude": 28.542951769894753,
+                "longitude": -81.38235794783876
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38235794783876,
+                    28.542951769894753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Geo A. Barker (bill poster)",
+                "street": "412 W. Central Ave.",
+                "year": "1910-1929",
+                "latitude": 28.54180850066715,
+                "longitude": -81.38445767455968
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38445767455968,
+                    28.54180850066715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.W. Kingsley (wood yard)",
+                "street": "Cor. S. Gertrude Ave. and W. Pine St.",
+                "year": "1910-1929",
+                "latitude": 28.541237635048386,
+                "longitude": -81.3808200804274
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3808200804274,
+                    28.541237635048386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Freeman Bottling Works",
+                "street": "Gertrude Ave&comma; bwtween Pine and Church Sts.",
+                "year": "1910-1929",
+                "latitude": 28.54085886122514,
+                "longitude": -81.38080165422363
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38080165422363,
+                    28.54085886122514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.B. Harris & Son (col) (barber shops)",
+                "street": "17 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54069131897721,
+                "longitude": -81.37944435861762
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37944435861762,
+                    28.54069131897721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.B. Callahan (colored) (physician)",
+                "street": "15 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54067801935598,
+                "longitude": -81.37941478578733
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37941478578733,
+                    28.54067801935598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.T. Seegar (grocer)",
+                "street": "15 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54067801935598,
+                "longitude": -81.37941478578733
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37941478578733,
+                    28.54067801935598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "William & Colyer (colored) (tailoring)",
+                "street": "15 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54067801935598,
+                "longitude": -81.37941478578733
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37941478578733,
+                    28.54067801935598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "George Chick",
+                "street": "27 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54063381100846,
+                "longitude": -81.37966188246672
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37966188246672,
+                    28.54063381100846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A. Forage (grocers)",
+                "street": "25 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540630667271724,
+                "longitude": -81.37957598248563
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37957598248563,
+                    28.540630667271724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "E.W. Robinson (confectioners)",
+                "street": "19 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54061419274148,
+                "longitude": -81.37950233917371
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37950233917371,
+                    28.54061419274148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.W. Thompson (electrical contacting and supplies)",
+                "street": "11 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540601906457617,
+                "longitude": -81.37936117885997
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37936117885997,
+                    28.540601906457617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robert Parham (grocer)",
+                "street": "21 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540600811009956,
+                "longitude": -81.3795122646755
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3795122646755,
+                    28.540600811009956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hawkins & Beatty (grocers)",
+                "street": "13 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540597193930328,
+                "longitude": -81.37939336536508
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37939336536508,
+                    28.540597193930328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.F. Laubach (grain; feed; etc)",
+                "street": "47-49-51 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540550906253504,
+                "longitude": -81.38033662115292
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38033662115292,
+                    28.540550906253504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.L. Lucius Co. (grocer)",
+                "street": "119 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54040071101894,
+                "longitude": -81.3810556757382
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3810556757382,
+                    28.54040071101894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Curry & Smith (cigar manufacturers)",
+                "street": "140 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540197365383136,
+                "longitude": -81.38163513533603
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38163513533603,
+                    28.540197365383136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mrs. M. Dollins (hotels and boarding houses)",
+                "street": "210 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54018542953429,
+                "longitude": -81.3819141454622
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3819141454622,
+                    28.54018542953429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.E. Haywood (restaurants)",
+                "street": "38 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540169467302654,
+                "longitude": -81.37973526467549
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37973526467549,
+                    28.540169467302654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spanish Restaurant",
+                "street": "42 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540168767302717,
+                "longitude": -81.37980578248566
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37980578248566,
+                    28.540168767302717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L.R. Phillips (grocer)",
+                "street": "8 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540168554755947,
+                "longitude": -81.37932956469442
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37932956469442,
+                    28.540168554755947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bowen & Jaillette (barber shops)",
+                "street": "10 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54016825475595,
+                "longitude": -81.37935914690318
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37935914690318,
+                    28.54016825475595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H.S. Miller (grocer)",
+                "street": "18 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540167794685587,
+                "longitude": -81.37946459528834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37946459528834,
+                    28.540167794685587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R.K. Gordon (bakeries)",
+                "street": "18 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540167794685587,
+                "longitude": -81.37946459528834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37946459528834,
+                    28.540167794685587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mrs. L.F. Brigham (books and stationery)",
+                "street": "22 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54016675475596,
+                "longitude": -81.37951498248565
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37951498248565,
+                    28.54016675475596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.B. Chamberlain Co. (pianos)",
+                "street": "6 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540166398482636,
+                "longitude": -81.37930008246673
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37930008246673,
+                    28.540166398482636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.F. Miller (shooting gallery)",
+                "street": "34 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540163098482633,
+                "longitude": -81.37966216469442
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37966216469442,
+                    28.540163098482633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Ferns (hotels and boarding houses)",
+                "street": "402 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.540126504189107,
+                "longitude": -81.38441514260681
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38441514260681,
+                    28.540126504189107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Palms (hotels and boarding houses)",
+                "street": "310 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.54005795475842,
+                "longitude": -81.38307965794696
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38307965794696,
+                    28.54005795475842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.S. Anderson (men's furnishings)",
+                "street": "104 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.539993967314413,
+                "longitude": -81.38110880025798
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38110880025798,
+                    28.539993967314413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.J. Terry (marble works)",
+                "street": "118 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.539985654760077,
+                "longitude": -81.38116818248562
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38116818248562,
+                    28.539985654760077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eugene Dawson (plumbing; steam and gas fitting)",
+                "street": "118 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.539985654760077,
+                "longitude": -81.38116818248562
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38116818248562,
+                    28.539985654760077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Glenwood (hotels and boarding houses)",
+                "street": "108 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.53998324220521,
+                "longitude": -81.38113476469441
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38113476469441,
+                    28.53998324220521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Ringgold (hotels and boarding houses)",
+                "street": "108 W. Church St.",
+                "year": "1910-1929",
+                "latitude": 28.53998324220521,
+                "longitude": -81.38113476469441
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38113476469441,
+                    28.53998324220521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pounds & Pounds (lumber; novelty works)",
+                "street": "N. Gertrude Ave&comma; on S.A.L.",
+                "year": "1910-1929",
+                "latitude": 28.53970634438195,
+                "longitude": -81.38079428381366
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38079428381366,
+                    28.53970634438195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eldredge Barlow (wood yard)",
+                "street": "Cor. S. Gertrude and South Sts.",
+                "year": "1910-1929",
+                "latitude": 28.538557052393408,
+                "longitude": -81.38079724375538
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38079724375538,
+                    28.538557052393408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grand United Order of Odd Fellows &emdash; Orlando South Lodge No. 2629",
+                "street": "128 S. Division",
+                "year": "1910-1929",
+                "latitude": 28.540674493930318,
+                "longitude": -81.38509840094757
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38509840094757,
+                    28.540674493930318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woodford James Maxey House (aka Maxey-Crooms House)",
+                "street": "638 W. Anderson St.",
+                "year": "1910-1929",
+                "latitude": 28.536397726585818,
+                "longitude": -81.38825943222994
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38825943222994,
+                    28.536397726585818
+                ]
+            }
+        }
+    ]
+}

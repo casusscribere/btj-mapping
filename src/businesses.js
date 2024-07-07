@@ -72,16 +72,15 @@ map.fitBounds(latLngBounds);
 
 // Create array to hold GeoJSON filenames.
 const districtGeoJSONFiles = [
-    "1910",
-    "1915",
-    "1930",
-    "1940",
-    "1950",
-    "1960",
-    "1970",
-    "1980",
-    "1990",
-    "2020"
+    "1910-1929",
+    "1930-1939",
+    "1940-1949",
+    "1950-1959",
+    "1960-1969",
+    "1970-1979",
+    "1980-1989",
+    "1990-1999",
+    "2015-2022"
 ];
 
 // Create an group object to store GeoJSON objects.

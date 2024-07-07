@@ -15,16 +15,17 @@
   "dependencies": {
     "@fboes/geojson": "^1.4.1",
     "bootstrap": "^5.3.3",
+    "consola": "^3.2.3",
     "csv-parse": "^5.5.6",
     "jquery": "^3.7.1",
     "leaflet": "^1.9.4"
   },
   "devDependencies": {
-    "@eslint/js": "^9.5.0",
+    "@eslint/js": "^9.6.0",
     "css-loader": "^7.1.2",
-    "eslint": "^9.5.0",
+    "eslint": "^9.6.0",
     "file-loader": "^6.2.0",
-    "globals": "^15.6.0",
+    "globals": "^15.8.0",
     "nodemon": "^3.1.4",
     "serve": "^14.2.3",
     "style-loader": "^4.0.0",

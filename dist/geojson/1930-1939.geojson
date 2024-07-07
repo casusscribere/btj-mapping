@@ -1,0 +1,3184 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lucas Shoe Shine Parlor",
+                "street": "574 W. Church St.",
+                "year": "1930-1939",
+                "latitude": 28.539877293930456,
+                "longitude": -81.38638165861767
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38638165861767,
+                    28.539877293930456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Albert E. Slauson (contractor)",
+                "street": "57 W. Colonial",
+                "year": "1930-1939",
+                "latitude": 28.553471895238097,
+                "longitude": -81.38047876290987
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38047876290987,
+                    28.553471895238097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amherst Apartments",
+                "street": "209 W. Colonial Dr.",
+                "year": "1930-1939",
+                "latitude": 28.553173105893368,
+                "longitude": -81.38248005861756
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38248005861756,
+                    28.553173105893368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Boston Grocery",
+                "street": "1101 W. Colonial",
+                "year": "1930-1939",
+                "latitude": 28.553048313982245,
+                "longitude": -81.39465557818926
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39465557818926,
+                    28.553048313982245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duval & Wade (filling station)",
+                "street": "200 W. Colonial",
+                "year": "1930-1939",
+                "latitude": 28.553009285135907,
+                "longitude": -81.38289793035236
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38289793035236,
+                    28.553009285135907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C. Jay Balliet (plumber)",
+                "street": "312 W. Colonial",
+                "year": "1930-1939",
+                "latitude": 28.55290692193718,
+                "longitude": -81.38386613998757
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38386613998757,
+                    28.55290692193718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amherst Grocery",
+                "street": "314 W. Colonial",
+                "year": "1930-1939",
+                "latitude": 28.5529059093393,
+                "longitude": -81.38392099239915
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38392099239915,
+                    28.5529059093393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "West Colonial Garage",
+                "street": "62 W. Colonial Dr.",
+                "year": "1930-1939",
+                "latitude": 28.55290319966821,
+                "longitude": -81.38065448989964
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38065448989964,
+                    28.55290319966821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H.M. Jarvis (attorney)",
+                "street": "69 W. Concord",
+                "year": "1930-1939",
+                "latitude": 28.551257527514778,
+                "longitude": -81.38026046106462
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38026046106462,
+                    28.551257527514778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Linen & Towel Supply Co. Inc.",
+                "street": "69 W. Concord",
+                "year": "1930-1939",
+                "latitude": 28.551257527514778,
+                "longitude": -81.38026046106462
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38026046106462,
+                    28.551257527514778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Steam Laundry Co Inc.",
+                "street": "43 W. Concord",
+                "year": "1930-1939",
+                "latitude": 28.551218113097434,
+                "longitude": -81.37995225005965
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37995225005965,
+                    28.551218113097434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hendershot Grocery & Meat Market",
+                "street": "401 W. Concord",
+                "year": "1930-1939",
+                "latitude": 28.551018665243582,
+                "longitude": -81.38423750523987
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38423750523987,
+                    28.551018665243582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fosgates Markets Inc.",
+                "street": "63 W. Amelia",
+                "year": "1930-1939",
+                "latitude": 28.54986897571921,
+                "longitude": -81.38061166296482
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38061166296482,
+                    28.54986897571921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hewett Well Driving & Machinery",
+                "street": "1015 W. Amelia",
+                "year": "1930-1939",
+                "latitude": 28.54960504846969,
+                "longitude": -81.39406639180001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39406639180001,
+                    28.54960504846969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Minter's Service Station",
+                "street": "201 W. Amelia",
+                "year": "1930-1939",
+                "latitude": 28.549411799986057,
+                "longitude": -81.3819566629648
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3819566629648,
+                    28.549411799986057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meiner's Grocery",
+                "street": "202 W. Amelia",
+                "year": "1930-1939",
+                "latitude": 28.54941089998613,
+                "longitude": -81.38203304947046
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38203304947046,
+                    28.54941089998613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H.A. Ballou (plumber)",
+                "street": "202 W. Amelia",
+                "year": "1930-1939",
+                "latitude": 28.54941089998613,
+                "longitude": -81.38203304947046
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38203304947046,
+                    28.54941089998613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Standard Garage",
+                "street": "108 W. Amelia",
+                "year": "1930-1939",
+                "latitude": 28.54927962427724,
+                "longitude": -81.38113999364649
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38113999364649,
+                    28.54927962427724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Wholesale Co. (grocers)",
+                "street": "100 W. Amelia",
+                "year": "1930-1939",
+                "latitude": 28.549265412139356,
+                "longitude": -81.38106248650732
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38106248650732,
+                    28.549265412139356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Produce Co.",
+                "street": "100 W. Amelia",
+                "year": "1930-1939",
+                "latitude": 28.549265412139356,
+                "longitude": -81.38106248650732
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38106248650732,
+                    28.549265412139356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Open Air Poultry Market",
+                "street": "68 W. Amelia",
+                "year": "1930-1939",
+                "latitude": 28.549262199999575,
+                "longitude": -81.38021399180005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38021399180005,
+                    28.549262199999575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "City Transfer Co.",
+                "street": "528 N. Garland",
+                "year": "1930-1939",
+                "latitude": 28.548840472992012,
+                "longitude": -81.3819957052399
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3819957052399,
+                    28.548840472992012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Electric Fruit Marking Co.",
+                "street": "377 N. Garland",
+                "year": "1930-1939",
+                "latitude": 28.547052500194848,
+                "longitude": -81.38184596106471
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38184596106471,
+                    28.547052500194848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pounds & Batey Crate Co. (cooperage)",
+                "street": "400 N. Garland",
+                "year": "1930-1939",
+                "latitude": 28.545927149455594,
+                "longitude": -81.38247211873484
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38247211873484,
+                    28.545927149455594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Auto Storage Co.",
+                "street": "41 W. Jefferson",
+                "year": "1930-1939",
+                "latitude": 28.544922418597967,
+                "longitude": -81.38010036536505
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38010036536505,
+                    28.544922418597967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Warehouse & Storage Co.",
+                "street": "63 W. Jefferson",
+                "year": "1930-1939",
+                "latitude": 28.54488283093769,
+                "longitude": -81.38063932978258
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38063932978258,
+                    28.54488283093769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.B.C. Transfer Company (general hauling)",
+                "street": "63 W. Jefferson",
+                "year": "1930-1939",
+                "latitude": 28.54488283093769,
+                "longitude": -81.38063932978258
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38063932978258,
+                    28.54488283093769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "California Spray Chemical Co.",
+                "street": "61 W. Jefferson",
+                "year": "1930-1939",
+                "latitude": 28.544720993929744,
+                "longitude": -81.38063926536508
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38063926536508,
+                    28.544720993929744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Howard Grocery Co.",
+                "street": "130 Gertrude Ave.",
+                "year": "1930-1939",
+                "latitude": 28.544155925193454,
+                "longitude": -81.38133508989982
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38133508989982,
+                    28.544155925193454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dixie Press (printers)",
+                "street": "126 S. Gertrude",
+                "year": "1930-1939",
+                "latitude": 28.544090550977074,
+                "longitude": -81.38129237455969
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38129237455969,
+                    28.544090550977074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Atlas Mfg Co (machine shops)",
+                "street": "26 N. Gertrude",
+                "year": "1930-1939",
+                "latitude": 28.543866400481757,
+                "longitude": -81.38101053222974
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38101053222974,
+                    28.543866400481757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Billingley Machine Shop",
+                "street": "26 N. Gertrude",
+                "year": "1930-1939",
+                "latitude": 28.543866400481757,
+                "longitude": -81.38101053222974
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38101053222974,
+                    28.543866400481757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pickett Lumber Co.",
+                "street": "42 N. Gertrude",
+                "year": "1930-1939",
+                "latitude": 28.54382870142569,
+                "longitude": -81.38103198989981
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38103198989981,
+                    28.54382870142569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greater Orlando Emplyment Bureau",
+                "street": "77 N. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.543444674926285,
+                "longitude": -81.38291091873494
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38291091873494,
+                    28.543444674926285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Coffee Co. Inc.",
+                "street": "94 N. Garland",
+                "year": "1930-1939",
+                "latitude": 28.542979675093015,
+                "longitude": -81.38236573222976
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38236573222976,
+                    28.542979675093015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jones' Service Station (automobile service)",
+                "street": "44 S. Garland",
+                "year": "1930-1939",
+                "latitude": 28.542946706352367,
+                "longitude": -81.38237109420012
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38237109420012,
+                    28.542946706352367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Furniture & Auction Co.",
+                "street": "48 N. Garland",
+                "year": "1930-1939",
+                "latitude": 28.542931808222395,
+                "longitude": -81.38238520566571
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38238520566571,
+                    28.542931808222395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Paper Co.",
+                "street": "46 N. Garland",
+                "year": "1930-1939",
+                "latitude": 28.542927856661468,
+                "longitude": -81.38237109420017
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38237109420017,
+                    28.542927856661468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ayers Electric Co. ofc (electrical contractor)",
+                "street": "56 N. Garland",
+                "year": "1930-1939",
+                "latitude": 28.542923126027812,
+                "longitude": -81.38238718989984
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38238718989984,
+                    28.542923126027812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "W.E. Smythe & Son (automobile dealer)",
+                "street": "535 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.542539400604802,
+                "longitude": -81.38654546296513
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38654546296513,
+                    28.542539400604802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Richards Auto Top Shop",
+                "street": "539 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54241317572336,
+                "longitude": -81.3867015629651
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3867015629651,
+                    28.54241317572336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L.B. Fort Inc. (garage)",
+                "street": "539 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54241317572336,
+                "longitude": -81.3867015629651
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3867015629651,
+                    28.54241317572336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange County Duco Co (paints)",
+                "street": "539 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54241317572336,
+                "longitude": -81.3867015629651
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3867015629651,
+                    28.54241317572336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clark-Brewer (tractors)",
+                "street": "531 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.542406087553623,
+                "longitude": -81.38648635767039
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38648635767039,
+                    28.542406087553623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Pharmacy",
+                "street": "429 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54233965042045,
+                "longitude": -81.38463766106487
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38463766106487,
+                    28.54233965042045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Soda Fountain",
+                "street": "429 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54233965042045,
+                "longitude": -81.38463766106487
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38463766106487,
+                    28.54233965042045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Exide Battery & Elec Svc Co",
+                "street": "503 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.542324300620724,
+                "longitude": -81.38518883222977
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38518883222977,
+                    28.542324300620724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nash Sales & Service (automobile dealer)",
+                "street": "447 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54232050062098,
+                "longitude": -81.38476688989991
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38476688989991,
+                    28.54232050062098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Independent Wrecker Co. (automobile service)",
+                "street": "711 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.54227755081933,
+                "longitude": -81.38957246296515
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38957246296515,
+                    28.54227755081933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bills Yellow Wrecker",
+                "street": "711 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.54227755081933,
+                "longitude": -81.38957246296515
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38957246296515,
+                    28.54227755081933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gulf Refining Co. (filling station)",
+                "street": "137 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.542252293930076,
+                "longitude": -81.38140262978261
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38140262978261,
+                    28.542252293930076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Armature Works&comma; Inc.",
+                "street": "611 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.542204475723548,
+                "longitude": -81.38724086296511
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38724086296511,
+                    28.542204475723548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coite W. Hill Inc. (automobile trucks)",
+                "street": "1229 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.542190850811597,
+                "longitude": -81.39687706296517
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39687706296517,
+                    28.542190850811597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T.K. Johnson Inc. (automobile dealer)",
+                "street": "615 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54219076263255,
+                "longitude": -81.3874809288352
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3874809288352,
+                    28.54219076263255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hotel Roberts",
+                "street": "409 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.542175425549036,
+                "longitude": -81.38431036106479
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38431036106479,
+                    28.542175425549036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Gear & Parts (automobile equipment)",
+                "street": "405 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54216403328088,
+                "longitude": -81.38419413785844
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38419413785844,
+                    28.54216403328088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Al Hupple (shock absorbers; batteries)",
+                "street": "333 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54214656776821,
+                "longitude": -81.3841924065393
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3841924065393,
+                    28.54214656776821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oldsmobile Agency (automobile dealer)",
+                "street": "501 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.542145227362603,
+                "longitude": -81.38507081504432
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38507081504432,
+                    28.542145227362603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barnes & Son (automobile service)",
+                "street": "501 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.542145227362603,
+                "longitude": -81.38507081504432
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38507081504432,
+                    28.542145227362603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berts' Top & Body Shop (automobile service)",
+                "street": "501 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.542145227362603,
+                "longitude": -81.38507081504432
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38507081504432,
+                    28.542145227362603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seaboard Oil Co. Station (filling station)",
+                "street": "103 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54212473130828,
+                "longitude": -81.38096236536506
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38096236536506,
+                    28.54212473130828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fariss & Fariss (automobile dealer)",
+                "street": "115 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.542122531308603,
+                "longitude": -81.38107050094753
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38107050094753,
+                    28.542122531308603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Tire Co.",
+                "street": "118 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.542098118249214,
+                "longitude": -81.38123319604543
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38123319604543,
+                    28.542098118249214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Standard Oil Co. (filling station)",
+                "street": "601 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.54209810004265,
+                "longitude": -81.38710313597645
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38710313597645,
+                    28.54209810004265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seaboard Air Line Railroad",
+                "street": "61 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.542038570676443,
+                "longitude": -81.3810153734409
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3810153734409,
+                    28.542038570676443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.F. Sallas (plumbers)",
+                "street": "107 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.542025725575787,
+                "longitude": -81.38288160339475
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38288160339475,
+                    28.542025725575787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Sign Studio",
+                "street": "126 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.541974094210243,
+                "longitude": -81.3813338113856
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3813338113856,
+                    28.541974094210243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dale Foster Inc. Service Station",
+                "street": "104 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54197146928134,
+                "longitude": -81.38113129604538
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38113129604538,
+                    28.54197146928134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miller O. Phillps Inc. (automobile dealer)",
+                "street": "106 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.541970669280875,
+                "longitude": -81.38113516721036
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38113516721036,
+                    28.541970669280875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dean Reynolds Co. (automobile dealer)",
+                "street": "138 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.54196376927784,
+                "longitude": -81.38138385187018
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38138385187018,
+                    28.54196376927784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Auto Supply Company",
+                "street": "310 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.541934643802172,
+                "longitude": -81.3833323383753
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3833323383753,
+                    28.541934643802172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Glass Co.",
+                "street": "220 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.541924057074954,
+                "longitude": -81.38217246230825
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38217246230825,
+                    28.541924057074954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Howard C. Kiehl (contractor; decorator; painter)",
+                "street": "500 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54190960419076,
+                "longitude": -81.38506008620926
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38506008620926,
+                    28.54190960419076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carmichael & Johnson (filling station; tires)",
+                "street": "300 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.541898818868944,
+                "longitude": -81.38315346536506
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38315346536506,
+                    28.541898818868944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Leonardy's Cleaners",
+                "street": "418 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54182725055812,
+                "longitude": -81.3845265610649
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3845265610649,
+                    28.54182725055812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bell's Square Deal Garage",
+                "street": "632 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54180030067129,
+                "longitude": -81.38843013412992
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38843013412992,
+                    28.54180030067129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Medlock Tractor Co.",
+                "street": "632 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54180030067129,
+                "longitude": -81.38843013412992
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38843013412992,
+                    28.54180030067129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.T. Walker Radiator Shop",
+                "street": "628 W. Central",
+                "year": "1930-1939",
+                "latitude": 28.54179310067193,
+                "longitude": -81.38822196296516
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38822196296516,
+                    28.54179310067193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shirriff Ice Cream Co.",
+                "street": "128 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.540961225766853,
+                "longitude": -81.38287587455979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38287587455979,
+                    28.540961225766853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hart's Market",
+                "street": "132 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.540909150694105,
+                "longitude": -81.38292821873496
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38292821873496,
+                    28.540909150694105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hughey St. Market",
+                "street": "132 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.540909150694105,
+                "longitude": -81.38292821873496
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38292821873496,
+                    28.540909150694105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U.S. Post Office",
+                "street": "115 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.5408190508295,
+                "longitude": -81.38283283222987
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38283283222987,
+                    28.5408190508295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morse Printing Co.",
+                "street": "119 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.5408190508295,
+                "longitude": -81.38283283222987
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38283283222987,
+                    28.5408190508295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hinchey Iron Works",
+                "street": "221 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.540753075563956,
+                "longitude": -81.38282210339486
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38282210339486,
+                    28.540753075563956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baker Bros. Co. Inc. (meat markets)",
+                "street": "17 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54069131897721,
+                "longitude": -81.37944435861762
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37944435861762,
+                    28.54069131897721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hyer & Davis (investments)",
+                "street": "17 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54069131897721,
+                "longitude": -81.37944435861762
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37944435861762,
+                    28.54069131897721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Standard Oil Co. (filling station)",
+                "street": "645 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540640693930307,
+                "longitude": -81.38818296536512
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38818296536512,
+                    28.540640693930307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Federal Clothing Store",
+                "street": "25 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540630667271724,
+                "longitude": -81.37957598248563
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37957598248563,
+                    28.540630667271724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safer's National Grocery",
+                "street": "125 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54050719848262,
+                "longitude": -81.38138018248567
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38138018248567,
+                    28.54050719848262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Turners Furniture Exchng",
+                "street": "211 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540502779193133,
+                "longitude": -81.38223917084048
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38223917084048,
+                    28.540502779193133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Manuels Fish & Poultry Market",
+                "street": "211 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540502779193133,
+                "longitude": -81.38223917084048
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38223917084048,
+                    28.540502779193133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dr. J.B. Callahan (physicians & surgeons)",
+                "street": "243 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540502636078475,
+                "longitude": -81.38252102360399
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38252102360399,
+                    28.540502636078475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange Furniture Co.",
+                "street": "229 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54049345474866,
+                "longitude": -81.38233310212216
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38233310212216,
+                    28.54049345474866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A & A Store (dry goods; women's apparel)",
+                "street": "145 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54048985474871,
+                "longitude": -81.38158943340832
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38158943340832,
+                    28.54048985474871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wolfe's Orlando Auto Wrecking Co.",
+                "street": "711 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540470598482617,
+                "longitude": -81.38967260027688
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38967260027688,
+                    28.540470598482617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Siemmons Store (dry goods)",
+                "street": "129 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54044148594837,
+                "longitude": -81.3814848002769
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3814848002769,
+                    28.54044148594837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rialto Theatre",
+                "street": "45 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540437481268405,
+                "longitude": -81.38007118287403
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38007118287403,
+                    28.540437481268405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.A. Brooks (radios)",
+                "street": "61 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540427386843653,
+                "longitude": -81.38057932911194
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38057932911194,
+                    28.540427386843653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barkis Cigar Store",
+                "street": "71 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540427086843966,
+                "longitude": -81.38065143770464
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38065143770464,
+                    28.540427086843966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cullen's Transfer Co.",
+                "street": "71 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540427086843966,
+                "longitude": -81.38065143770464
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38065143770464,
+                    28.540427086843966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Battery Service Co",
+                "street": "1011 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540410167286538,
+                "longitude": -81.3934832646944
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3934832646944,
+                    28.540410167286538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pearl Hotel",
+                "street": "117 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540407498482622,
+                "longitude": -81.38103054015572
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38103054015572,
+                    28.540407498482622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Williams Department Store",
+                "street": "115 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540392124175323,
+                "longitude": -81.38103297326822
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38103297326822,
+                    28.540392124175323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dr. S.A. Tillman (col) (dentist)",
+                "street": "407 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540370954751413,
+                "longitude": -81.38408536469441
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38408536469441,
+                    28.540370954751413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Three Friends Furniture Co.",
+                "street": "247 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540365056072492,
+                "longitude": -81.38257514998796
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38257514998796,
+                    28.540365056072492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fifty-Fifty Service Station",
+                "street": "923 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54034525475199,
+                "longitude": -81.39269944690315
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39269944690315,
+                    28.54034525475199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Purcell & Co. (clothing)",
+                "street": "315 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540340254752127,
+                "longitude": -81.38319148248564
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38319148248564,
+                    28.540340254752127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Serros Fish & Poultry Co.",
+                "street": "311 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54033779848262,
+                "longitude": -81.38317394690316
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38317394690316,
+                    28.54033779848262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shanly's Sundry Store",
+                "street": "413 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54033745475216,
+                "longitude": -81.3842579646944
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3842579646944,
+                    28.54033745475216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "John Jorgenson Fish Co.",
+                "street": "323 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540336313383904,
+                "longitude": -81.38323681084783
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38323681084783,
+                    28.540336313383904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mather Wagoner Furniture Co.",
+                "street": "301 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540330554752334,
+                "longitude": -81.38311168248562
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38311168248562,
+                    28.540330554752334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dr. William Monroe Wells (physicians & surgeons)",
+                "street": "445 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540312998482644,
+                "longitude": -81.38472658248564
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38472658248564,
+                    28.540312998482644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dr. C.L. Eccleston (dentist)",
+                "street": "555 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540305761187515,
+                "longitude": -81.38602200765804
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38602200765804,
+                    28.540305761187515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dr. I. Sylvester Hankins (phyisicians & surgeons)",
+                "street": "555 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540305761187515,
+                "longitude": -81.38602200765804
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38602200765804,
+                    28.540305761187515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.G. Baker (insurance)",
+                "street": "527 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54028891102396,
+                "longitude": -81.38552148248564
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38552148248564,
+                    28.54028891102396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taylor's Drug Store",
+                "street": "447 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540281198482614,
+                "longitude": -81.38473254690315
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38473254690315,
+                    28.540281198482614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dr. H.W. Wooden (physicians & surgeons)",
+                "street": "447 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540281198482614,
+                "longitude": -81.38473254690315
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38473254690315,
+                    28.540281198482614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Modern Cleaners",
+                "street": "62 W. Church ",
+                "year": "1930-1939",
+                "latitude": 28.540269516802454,
+                "longitude": -81.38056860027689
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38056860027689,
+                    28.540269516802454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Purcell Battery & Radiator Svs Co",
+                "street": "609 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540257436830284,
+                "longitude": -81.3873961646755
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3873961646755,
+                    28.540257436830284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "W.H. Swan & Co. Inc. (dry goods)",
+                "street": "50 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54023415376487,
+                "longitude": -81.38025967452666
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38025967452666,
+                    28.54023415376487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "James Fish & Poultry Market",
+                "street": "132 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540205711027657,
+                "longitude": -81.38157436469439
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38157436469439,
+                    28.540205711027657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taylor's Service Station",
+                "street": "1001 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54019534296154,
+                "longitude": -81.39322630212219
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39322630212219,
+                    28.54019534296154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F & F Ladies Shop",
+                "street": "46 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54019405381265,
+                "longitude": -81.37985364848245
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37985364848245,
+                    28.54019405381265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Household Hardware",
+                "street": "218 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540185973035033,
+                "longitude": -81.38218226593389
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38218226593389,
+                    28.540185973035033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Teague Furniture Co.",
+                "street": "116 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540179811028825,
+                "longitude": -81.38106948248564
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38106948248564,
+                    28.540179811028825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chas Vogt Transfer Co",
+                "street": "116 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540179811028825,
+                "longitude": -81.38106948248564
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38106948248564,
+                    28.540179811028825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.J. Cohen & Co. (department store)",
+                "street": "42 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540168767302717,
+                "longitude": -81.37980578248566
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37980578248566,
+                    28.540168767302717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tyree-Persons Stores Inc. (department store)",
+                "street": "10 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54016825475595,
+                "longitude": -81.37935914690318
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37935914690318,
+                    28.54016825475595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "United Markets Inc. (Store No. 7)",
+                "street": "20 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540164102050785,
+                "longitude": -81.37948924439327
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37948924439327,
+                    28.540164102050785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bookhardt Paint Co.",
+                "street": "224 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540157697756385,
+                "longitude": -81.38229223649309
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38229223649309,
+                    28.540157697756385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dixie Cafe",
+                "street": "500 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540104897718592,
+                "longitude": -81.38501175549587
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38501175549587,
+                    28.540104897718592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barker Poster Advertising Co. (signs)",
+                "street": "1232 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540101755897723,
+                "longitude": -81.3969010009476
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3969010009476,
+                    28.540101755897723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davis Furniture Co.",
+                "street": "326 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540053942206793,
+                "longitude": -81.38317528246672
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38317528246672,
+                    28.540053942206793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hillman Dry Goods Co.",
+                "street": "334 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54005198593094,
+                "longitude": -81.38323784690314
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38323784690314,
+                    28.54005198593094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sanitary Market",
+                "street": "522 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540041,
+                "longitude": -81.385428
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.385428,
+                    28.540041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I.P. Davis (dentist(=)",
+                "street": "512 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540031,
+                "longitude": -81.385314
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.385314,
+                    28.540031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Looke's Service Station",
+                "street": "618 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540027714083873,
+                "longitude": -81.38782141805237
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38782141805237,
+                    28.540027714083873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gleason Baily Co. (agricultural implements)",
+                "street": "1016 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540010122526184,
+                "longitude": -81.39465931147816
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39465931147816,
+                    28.540010122526184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.P. Hanft (insurance)",
+                "street": "504 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540006998482657,
+                "longitude": -81.38524236469442
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38524236469442,
+                    28.540006998482657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stone & Butler Funeral Home",
+                "street": "546 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.539928679876592,
+                "longitude": -81.38600120027688
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38600120027688,
+                    28.539928679876592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Russ Mattress Co. Inc.",
+                "street": "1122 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.53989073160842,
+                "longitude": -81.39523236536505
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39523236536505,
+                    28.53989073160842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.J. Joiner (grocers)",
+                "street": "2000 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.539880007584113,
+                "longitude": -81.40565790119739
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.40565790119739,
+                    28.539880007584113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Auto Paint Shop",
+                "street": "1018 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.539878186136374,
+                "longitude": -81.39452276510102
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39452276510102,
+                    28.539878186136374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bridges Grocery",
+                "street": "808 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.539849281369595,
+                "longitude": -81.39155872978262
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39155872978262,
+                    28.539849281369595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.A. Prange Brake Lining Sta.",
+                "street": "1014 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.53946546372607,
+                "longitude": -81.39400782319355
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39400782319355,
+                    28.53946546372607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reo Service Garage",
+                "street": "2137 W. Jackson",
+                "year": "1930-1939",
+                "latitude": 28.53919507572158,
+                "longitude": -81.4083866322299
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.4083866322299,
+                    28.53919507572158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hotel Marie",
+                "street": "432 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.53888460010494,
+                "longitude": -81.3829979629653
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3829979629653,
+                    28.53888460010494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mike Gazil (grocers)",
+                "street": "428 Jernigan",
+                "year": "1930-1939",
+                "latitude": 28.53718309732949,
+                "longitude": -81.39220334354077
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39220334354077,
+                    28.53718309732949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New England Market",
+                "street": "603 S. Division",
+                "year": "1930-1939",
+                "latitude": 28.534735032300848,
+                "longitude": -81.38468225861769
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38468225861769,
+                    28.534735032300848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deeb's Grocery",
+                "street": "818 W. Carter",
+                "year": "1930-1939",
+                "latitude": 28.534630458584886,
+                "longitude": -81.3917948018946
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3917948018946,
+                    28.534630458584886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "John's Market",
+                "street": "908 Carter",
+                "year": "1930-1939",
+                "latitude": 28.534611148427246,
+                "longitude": -81.392292873654
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.392292873654,
+                    28.534611148427246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.J. Caldwell Sheet Metal Works",
+                "street": "322 America",
+                "year": "1930-1939",
+                "latitude": 28.53395770720952,
+                "longitude": -81.38226236098323
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38226236098323,
+                    28.53395770720952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ron's Drug Store",
+                "street": "640 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.533578778465674,
+                "longitude": -81.38284326296554
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38284326296554,
+                    28.533578778465674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange Lumber Co.",
+                "street": "628 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.533435950033237,
+                "longitude": -81.38285512063592
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38285512063592,
+                    28.533435950033237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carter Lumber Co.",
+                "street": "740 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.53247365307728,
+                "longitude": -81.3826857476247
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3826857476247,
+                    28.53247365307728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "W.R. Carmichael (automobile service)",
+                "street": "Gore Ave.",
+                "year": "1930-1939",
+                "latitude": 28.53133800749787,
+                "longitude": -81.37673406877063
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37673406877063,
+                    28.53133800749787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sam Fekany (grocers)",
+                "street": "600 W. Gore",
+                "year": "1930-1939",
+                "latitude": 28.531092219837166,
+                "longitude": -81.38823992978269
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38823992978269,
+                    28.531092219837166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.B. Reuter (lumber)",
+                "street": "120 W. Gore Ave.",
+                "year": "1930-1939",
+                "latitude": 28.53106713850288,
+                "longitude": -81.38023270094759
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38023270094759,
+                    28.53106713850288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Howell Sanitarium",
+                "street": "200 W. Gore",
+                "year": "1930-1939",
+                "latitude": 28.530873706894074,
+                "longitude": -81.38103716536513
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38103716536513,
+                    28.530873706894074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "United Grocery Co.",
+                "street": "500 W. Gore",
+                "year": "1930-1939",
+                "latitude": 28.530761137385955,
+                "longitude": -81.3849640002769
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3849640002769,
+                    28.530761137385955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McLeod Line Inc. (transfer company)",
+                "street": "920 S. Hughey",
+                "year": "1930-1939",
+                "latitude": 28.530303549754837,
+                "longitude": -81.38278223413046
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38278223413046,
+                    28.530303549754837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parisian Cleaners",
+                "street": "1112 S. Division",
+                "year": "1930-1939",
+                "latitude": 28.52972458962393,
+                "longitude": -81.38496646106512
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38496646106512,
+                    28.52972458962393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sun Oil Co. (filling station)",
+                "street": "1221 Atlanta Ave.",
+                "year": "1930-1939",
+                "latitude": 28.527130675728287,
+                "longitude": -81.38269178990024
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38269178990024,
+                    28.527130675728287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saunders Independent Oil Co. (filling station)",
+                "street": "1251 Atlanta Ave.",
+                "year": "1930-1939",
+                "latitude": 28.526893523168813,
+                "longitude": -81.3826771610652
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3826771610652,
+                    28.526893523168813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Certified Sales & Service Corp. (millwork)",
+                "street": "1307 Atlanta",
+                "year": "1930-1939",
+                "latitude": 28.526302175728667,
+                "longitude": -81.38265543223025
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38265543223025,
+                    28.526302175728667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blackwood Cleaners",
+                "street": "98 N. Garland",
+                "year": "1930-1939",
+                "latitude": 28.543564013656006,
+                "longitude": -81.38240864756993
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38240864756993,
+                    28.543564013656006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Furniture Co. Inc.",
+                "street": "141 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540452854484474,
+                "longitude": -81.38159124443317
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38159124443317,
+                    28.540452854484474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Hotel",
+                "street": "24 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.54017126730256,
+                "longitude": -81.37954178248565
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37954178248565,
+                    28.54017126730256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Douberley Grocery",
+                "street": "532 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540081998482567,
+                "longitude": -81.38555461130177
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38555461130177,
+                    28.540081998482567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Texas Co. (gasoline-wholesale)",
+                "street": "1239 Atlanta Ave.",
+                "year": "1930-1939",
+                "latitude": 28.526987549456646,
+                "longitude": -81.3826786610652
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3826786610652,
+                    28.526987549456646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sinclair Refining Co.",
+                "street": "1417 Atlanta Ave.",
+                "year": "1930-1939",
+                "latitude": 28.524649628693645,
+                "longitude": -81.38249386106533
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38249386106533,
+                    28.524649628693645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Herman's Loan Office&comma; Inc. (pawnbroker)",
+                "street": "27 W. Church St.",
+                "year": "1930-1939",
+                "latitude": 28.54063381100846,
+                "longitude": -81.37966188246672
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37966188246672,
+                    28.54063381100846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Emrich's Pharmacy",
+                "street": "33 W. Church St.",
+                "year": "1930-1939",
+                "latitude": 28.54061094221925,
+                "longitude": -81.37976650027689
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.37976650027689,
+                    28.54061094221925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Citrus Growers Assn",
+                "street": "103 W. Concord Ave.",
+                "year": "1930-1939",
+                "latitude": 28.551005233725995,
+                "longitude": -81.38091057889473
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38091057889473,
+                    28.551005233725995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Agricultural Supply Co.",
+                "street": "1040 W. Amelia ",
+                "year": "1930-1939",
+                "latitude": 28.548997148629667,
+                "longitude": -81.39519483222963
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39519483222963,
+                    28.548997148629667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gibbs Machine",
+                "street": "375 N. Garland",
+                "year": "1930-1939",
+                "latitude": 28.547004651236193,
+                "longitude": -81.38183473222969
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38183473222969,
+                    28.547004651236193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Cigar & Tobacco Co.",
+                "street": "630 W. Central Ave.",
+                "year": "1930-1939",
+                "latitude": 28.541808825618315,
+                "longitude": -81.38832272063557
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38832272063557,
+                    28.541808825618315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hutchinson Tractor Equipment",
+                "street": "1216 W. Central Blvd.",
+                "year": "1930-1939",
+                "latitude": 28.541801400671243,
+                "longitude": -81.39610833412992
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39610833412992,
+                    28.541801400671243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando Coca-Cola Bottling Co.",
+                "street": "325 W. Gore",
+                "year": "1930-1939",
+                "latitude": 28.53145589848294,
+                "longitude": -81.3836402002769
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3836402002769,
+                    28.53145589848294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thomas Lumber Company",
+                "street": "231 W. Gore St.",
+                "year": "1930-1939",
+                "latitude": 28.531504055139138,
+                "longitude": -81.38178358601056
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38178358601056,
+                    28.531504055139138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wilson & Toomer Fertilizer Co",
+                "street": "1040 W. Amelia ",
+                "year": "1930-1939",
+                "latitude": 28.548997148629667,
+                "longitude": -81.39519483222963
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39519483222963,
+                    28.548997148629667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Florida Agricultural Supply Co.",
+                "street": "1040 W. Amelia ",
+                "year": "1930-1939",
+                "latitude": 28.548997148629667,
+                "longitude": -81.39519483222963
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39519483222963,
+                    28.548997148629667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "West Church Fish & Poultry Market Inc.",
+                "street": "646 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.53998438137565,
+                "longitude": -81.38880700094755
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38880700094755,
+                    28.53998438137565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mrs. Mary A. Hage (grocery)",
+                "street": "338 W. Church",
+                "year": "1930-1939",
+                "latitude": 28.540059254758418,
+                "longitude": -81.38327181132068
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38327181132068,
+                    28.540059254758418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fishback Irrigation Supply Co.&comma; Inc.",
+                "street": "74 W. Concord ",
+                "year": "1930-1939",
+                "latitude": 28.55066877571543,
+                "longitude": -81.38047563222963
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38047563222963,
+                    28.55066877571543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Williams Pharmacy",
+                "street": "529 W. Church St.",
+                "year": "1930-1939",
+                "latitude": 28.540281642211898,
+                "longitude": -81.38554138248563
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.38554138248563,
+                    28.540281642211898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walkers Hotel",
+                "street": "733 W. Jackson St.",
+                "year": "1930-1939",
+                "latitude": 28.53933047572155,
+                "longitude": -81.39040090339479
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.39040090339479,
+                    28.53933047572155
+                ]
+            }
+        }
+    ]
+}

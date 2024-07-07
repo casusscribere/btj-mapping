@@ -1,50 +1,98 @@
-// Import readFileSync from fs module.
-import { readFileSync } from "fs";
+// Import readFileSync, writeFileSync, and readdirSync from the fs module.
+import { readFileSync, writeFileSync, readdirSync } from "fs";
 
-// Import writeFileSync from fs module.
-import { writeFileSync } from "fs";
+// Import consola from consola module.
+import { consola } from "consola";
 
 // Import CSV-parser module.
 import { parse } from "csv-parse";
 
-// Create array to hold CSV filenames.
-const files = [
-    "1910",
-    "1915",
-    "1930",
-    "1940",
-    "1950",
-    "1960",
-    "1970",
-    "1980",
-    "1990",
-    "2020"
-];
+// Save the path to the data directory.
+const dataDir = `${import.meta.dirname}/../data`;
+
+// Read all files in the data directory and filter out only CSV files.
+const files = readdirSync(dataDir).filter(file => file.endsWith(".csv"));
 
 // Iterate over files array.
 files.forEach(function(file) {
-    // Read the CSV data from the file.
-    const csv = readFileSync(`data/${file}.csv`, "utf8");
 
-    // Parse the CSV data.
-    parse(csv, {encoding: "utf8"}, function(err, output) {
-        // Generate GeoJSON data from the CSV data.
-        const features = generateGeoJSON(output);
+    // Create filename.
+    const filename = `${dataDir}/${file}`
 
-        // Create a GeoJSON object.
-        let geojson = {
-            type: "FeatureCollection",
-            features: features
-        };
+    // Create future csv contents.
+    let csv = "";
 
-        // Convert the GeoJSON object to a string.
-        let geojsonString = JSON.stringify(geojson, null, 4);
+    try {
+        // Log the file name to the console.
+        consola.info(`Processing ${file}`);
 
-        // Log the GeoJSON string to the console.
-        writeFileSync(`data/${file}.geojson`, geojsonString);
-    });
+        // Read the file contents.
+        csv = readFileSync(filename, "utf8");
+    } catch(err) {
+        // Log the error to the console.
+        consola.error(`ERROR: Unable to read file: ${err}`);
+    }
+    
+    // Try to parse the CSV data.
+    try {
+        // Parse the CSV data.
+        parse(csv, {encoding: "utf8"}, function(err, output) {
+            // Generate GeoJSON data from the CSV data.
+            const features = generateGeoJSON(output);
+
+            // Build GeoJSON string.
+            const geojson = buildGeoJSON(features);
+
+            // Write GeoJSON data to a file.
+            writeGeoJSON(filename, geojson);
+        });
+    } catch(err) {
+        // Log the error to the console.
+        consola.error(`ERROR: Unable to parse CSV: ${err}`);
+    }
 });
 
+/**
+ * Build a GeoJSON string from an array of features.
+ * @param {Array} features
+ * @returns {string} 
+ */
+function buildGeoJSON(features) {
+     // Create a GeoJSON object.
+     let geojson = {
+        type: "FeatureCollection",
+        features: features
+    };
+
+    // Convert the GeoJSON object to a string.
+    return JSON.stringify(geojson, null, 4);
+}
+
+/**
+ * Write GeoJSON data to a file.
+ * @param {string} file
+ * @param {string} geojsonString
+ * @returns {void}
+ */
+function writeGeoJSON(file, geojsonString) {
+    // Remove the .csv extension from the file name.
+    file = file.replace(".csv", "");
+
+    // Try to write the GeoJSON data to a file.
+    try {
+        // Log the GeoJSON string to the console.
+        writeFileSync(`${file}.geojson`, geojsonString);
+    } catch(err) {
+        // Log the error to the console.
+        consola.error(`ERROR: Unable to write GeoJSON: ${err}`);
+    }
+}
+
+/**
+ * Generate GeoJSON data from CSV data.
+ * @param {string} csvData 
+ * @returns {Array<Object>}
+ */
 function generateGeoJSON(csvData) {
 
     // Create an array to store GeoJSON features.
@@ -52,9 +100,6 @@ function generateGeoJSON(csvData) {
 
     // Iterate over the CSV data.
     csvData.forEach(function(row) {
-
-        console.log(row);
-
         // Split the lat/long into an array.
         const position = row[3].split(",");
 
@@ -90,4 +135,3 @@ function generateGeoJSON(csvData) {
     // Return the features array.
     return features;
 }
-
