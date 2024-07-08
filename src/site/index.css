@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+body {
+  padding-top: 1rem;
+  font-family: "Crimson Text", serif !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  background-color: #ecebe8 !important;
+}
+
+#map {
+  z-index: 0;
+  height: 100%;
+}
+
+#topButton {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: black; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#topButton:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+.menu-padding {
+  padding-top: 40px;
+}
+
+.sticky {
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+.popup {
+  text-align:center
+}
+
+h1 {
+  margin-bottom: 1rem !important;
+}
+
+h2 {
+  margin-bottom: 0.5rem !important;
+}
+
+#content {
+  background-color: #f9f7f1 !important;
+}
+
+.section-box {
+  background-color: #f2f0eb; 
+  padding: 20px; 
+  border-radius: 8px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  margin-bottom: 20px; 
+}
+
+@media (min-width:1080px){
+  img {
+    max-width: 400px;
+    max-height: 400px;
+  }
+}

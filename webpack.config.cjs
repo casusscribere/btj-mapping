@@ -3,9 +3,8 @@ const path = require('path');
 module.exports = {
   mode: 'development',
   entry: {
-    core: './src/core.js',
-    parramore: './src/parramore.js',
-    businesses: './src/businesses.js'
+    core: './src/site/core.js',
+    businesses: './src/site/businesses.js'
   },
   output: {
     filename: '[name].js',
