@@ -4,7 +4,8 @@ module.exports = {
   mode: 'development',
   entry: {
     core: './src/site/core.js',
-    businesses: './src/site/businesses.js'
+    businesses: './src/site/businesses.js',
+    regional: './src/site/regional.js',
   },
   output: {
     filename: '[name].js',

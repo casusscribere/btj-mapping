@@ -5,7 +5,7 @@ import { $, L, baseMap } from "./core.js";
 const center = [28.537605555555, -81.38484444444];
 
 // Image URL.
-const imageUrl = 'maps/parramore.jpg';
+const imageUrl = 'maps/businesses/parramore.jpg';
 // Error overlay URL.
 const errorOverlayUrl = 'maps/error.png';
 // Alt text for the image.
@@ -47,8 +47,11 @@ const districtGeoJSONFiles = [
   "2015-2022"
 ];
 
+// The ID of the map element.
+const mapElementId = 'businesses-map';
+
 // Create a map object.
-let map = L.map('map', {
+let map = L.map(mapElementId, {
   layers: [baseMap],
   center: center,
   minZoom: 16,
