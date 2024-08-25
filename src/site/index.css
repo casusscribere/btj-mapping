@@ -73,3 +73,10 @@ h2 {
     max-height: 400px;
   }
 }
+
+.CenteredImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;  
+}
