@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>HTML Table Example</title>
+    <style>
+        table {
+            width: 50%; /*Puts the table on 50% of the device width */
+            border-collapse: collapse;
+        }
+        th, td {  /*table header, table data*/
+            border: 1px solid #392f04;
+            padding: 8px;
+            text-align: center;
+        }
+        th { /*Table header color */
+            background-color: #edf6fa;
+        }
+        /*each row in the first column bold*/
+        td:first-child {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Sample Table</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Total Population</th>
+            <th>White Population</th>
+            <th>"Negro" Population</th>
+            <th>% "Negro"</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1900</td>
+            <td>Row 1, Cell 2</td>
+            <td>Row 1, Cell 3</td>
+            <td>Row 1, Cell 2</td>
+            <td>Row 1, Cell 3</td>
+        </tr>
+        <tr>
+            <td>1910</td>
+            <td>Row 2, Cell 2</td>
+            <td>Row 2, Cell 3</td>
+            <td>Row 2, Cell 2</td>
+            <td>Row 2, Cell 3</td>
+        </tr>
+        <tr>
+            <td>1920</td>
+            <td>Row 3, Cell 2</td>
+            <td>Row 3, Cell 3</td>
+            <td>Row 3, Cell 2</td>
+            <td>Row 3, Cell 3</td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
