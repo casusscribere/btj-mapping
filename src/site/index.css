@@ -5,7 +5,7 @@ body {
   font-family: "Crimson Text", serif !important;
   font-weight: 400 !important;
   font-style: normal !important;
-  background-color: #e9ece8 !important;
+  background-color: #ecece8 !important;
 }
 
 .map {
@@ -56,11 +56,11 @@ h2 {
 }
 
 #content {
-  background-color: #eeffe2 !important;
+  background-color: #ffffe2 !important;
 }
 
 .section-box {
-  background-color: #edf2eb; 
+  background-color: #f2f1eb; 
   padding: 20px; 
   border-radius: 8px; 
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
