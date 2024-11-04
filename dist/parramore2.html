@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Scrollama: Sticky Overlay Example</title>
+	<meta name="description" content="Scrollama: Sticky Overlay Example" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="style.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+	 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+	<style>
+		@font-face {
+			font-family: amador;
+			src: url(fonts/3539-font.ttf);
+		}
+
+		a {
+			color: #5189E1;
+			text-decoration: none;
+			font-weight: bold;
+    	}
+
+		a:hover, a:focus {
+			color: #355A94;
+			text-decoration: underline dotted;
+			font-weight: bolder;
+		}
+
+		a:visited {
+			color: #355A94;
+		}
+
+		html {
+			/*background-color: #fffff4;*/
+			font-family: "Times New Roman", serif;
+			font-weight: 100;
+			font-style: normal;
+			font-size: 1rem;
+
+		}
+
+		#scrolly {
+			position: relative;
+			/*background-color: #f3f3f3;*/
+			background-color: #fffff4;
+			/*padding: 1rem;*/
+		}
+
+		.sticky-sub {
+			position: relative;
+			padding: 0;
+			/*max-width: 20rem;*/
+			max-width: 100%;
+			margin: 0 auto;
+		}
+
+		figure.hero {
+			position: -webkit-sticky;
+			position: sticky;
+			left: 0;
+			width: 100%;
+			margin: 0;
+			-webkit-transform: translate3d(0, 0, 0);
+			-moz-transform: translate3d(0, 0, 0);
+			transform: translate3d(0, 0, 0);
+			background-color: #8a8a8a;
+			z-index: 0;
+		}
+
+		figure.hero p {
+			/*Defunct; remove soon*/
+			text-align: center;
+			padding: 1rem;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			-moz-transform: translate(-50%, -50%);
+			-webkit-transform: translate(-50%, -50%);
+			transform: translate(-50%, -50%);
+			font-size: 8rem;
+			font-weight: 900;
+			color: #fff;
+		}
+
+		.block-center {
+			margin: 0 auto 2rem auto;
+			color: #fff;
+			background-color: rgba(0, 0, 0, 0.1);
+		}
+
+		.block-center:last-child {
+			margin-bottom: 0;
+		}
+
+		.block-center.is-active p {
+			background-color: goldenrod;
+			color: #3b3b3b;
+		}
+
+		.block-center p {
+			text-align: center;
+			padding: 1rem;
+			font-size: 1.5rem;
+			background-color: #3b3b3b;
+		}
+
+		/* KML additions */
+
+		.hero {
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-attachment: fixed;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+			width: 100%;
+			height: 100vh;
+		}
+
+		#parramore-intro-one {
+		background-image: url("images/jonestown_centered_sepia_washed.png");
+		}
+
+		#parramore-intro-two {
+		background-image: url("images/jonestown_centered.png");
+		}
+
+		#parramore-border-one {
+		background-image: url("images/jonestown_26_borders.png");
+		}
+		#parramore-border-two {
+		background-image: url("images/jonestown_26.png");
+		}
+
+		.banner {
+			width: 100%;
+			margin: 0 auto;
+			text-align: center;
+			/*background-color: #0b3617;
+			color: white;*/
+			color:#0b3617;
+			display: flex;
+			justify-content: center;
+			flex-direction: column;
+			height: 400px;
+			position: relative;
+		}
+
+		.banner h1 {
+			font-family: "Droid Serif", serif;
+			font-weight: 400;
+			font-style: normal;
+			font-size: 3rem;
+
+		}
+
+		.banner:first-child {
+			border-bottom: 1px solid black;
+		}
+
+		hr {
+			display: block;
+			height: 1px;
+			border: 0;
+			border-top: 1px solid #0b3617;
+			margin: 1em 0;
+			padding: 0;
+		}
+
+		.block {
+
+			font-family: "Times New Roman", serif;
+			font-weight: 100;
+			font-style: normal;
+			font-size: 1.25rem;
+
+			padding: 1rem 0;
+		}
+
+		.block.center {
+			margin: 0 auto;
+			width: 60%;
+
+		}
+
+		.block.center p {
+			padding-left: 0;
+			padding-right: 0;
+		}
+
+		.block.left {
+			margin: 0 auto 0 0;
+			width: 40%;
+			padding-left: 1rem;
+		}
+
+		.block.right {
+			margin: 0 0 0 auto;
+			width: 40%;
+			padding-right: 1rem;
+			position:relative;
+			right: 0;
+		}
+
+		.background-fill {
+			background-color: #fffff4;
+			z-index: 10;
+			position: relative;
+		}
+
+		p {
+			padding:1rem;
+		}
+
+		.sticker {
+			position:sticky;
+			top: 50%;
+			transform: translate(0%, -50%);
+		}
+
+		.img-block  {
+			padding: 1.5rem;
+			display:inline-block;
+		}
+
+		figcaption {
+			margin-top: 0rem !important;
+			text-align: left;
+			font-size: 12px;
+			color: black;
+			font-family: "Lato", Helvetica, sans-serif !important;
+		}
+
+		.img-para {
+			width: 100%;
+			margin:0;
+		}
+
+		.img-para img {
+			width: 100%;
+		}
+
+		.text-centered {
+			text-align: center;
+		}
+
+		.sticky-nav, .sticky-leaf {
+			position: sticky;
+			top: 0;
+			overflow: hidden;
+			background-color: #333;
+		}
+
+		.sticky-nav {
+			z-index: 20;
+			top: 0;
+			/*height: 3rem;*/
+		}
+
+		.sticky-nav a {
+			font-size: 1rem;
+		}
+
+		#primary-nav, #mid-nav {
+			background-color: #a4bd99;
+			padding: 0.5rem 1rem;
+			color: #000000;
+			border-top: 8px solid transparent;
+			border-bottom: 8px solid transparent;
+			border-image: 16 repeating-linear-gradient(-45deg, #a4bd99 0, #a4bd99 0.1em, #fffff4 0, #fffff4 0.4em);
+		}
+
+		#primary-nav div, #mid-nav div {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			width: 100%;
+		}
+
+		#primary-nav div a {
+		}
+
+		.formal {
+			font-size: 36px;
+			font-family:amador, sans-serif;
+			font-style: normal;
+		}
+
+		.informal {
+			text-align: right;
+		}
+
+		#exhibit-be .footer {
+			background-color: #a4bd99;
+			color: #000000;
+			padding: 3rem 0;
+			border-top: 8px solid transparent;
+			border-bottom: 8px solid transparent;
+			border-image: 16 repeating-linear-gradient(-45deg, #a4bd99 0, #a4bd99 0.1em, #fffff4 0, #fffff4 0.4em);
+		}
+
+		footer #inner-footer {
+			display: flex;
+			flex-flow: column;
+			justify-content: center;
+		}
+
+		#exhibit-be .footer .tagline {
+			text-align: center;
+			font-size: 24px;
+			padding-bottom: 1rem;
+			border-bottom: 1px solid black;
+			margin-left: auto;
+			margin-right: auto;
+			width: 100%;
+		}
+
+		footer #inner-footer .affiliates {
+	display: flex;
+	justify-content: space-between;
+	padding: 1em 0;
+}
+
+footer #inner-footer .affiliates img, footer #inner-footer .affiliates object {
+	max-width: 20%;
+	max-height: 50px;
+	/* width: 15%; */
+}
+
+#exhibit-be #inner-footer, #exhibit-be .inline, #exhibit-be .tagline, #exhibit-be .selwrap p, #exhibit-be .selwrap header, #exhibit-be .selwrap figcaption, #exhibit-be .selwrap hr, #exhibit-be .selwrap h1, #exhibit-be .selwrap h2, #exhibit-be .selwrap h3, #exhibit-be .selwrap h4, #exhibit-be .selwrap h5, #exhibit-be .selwrap h6, #exhibit-be .selwrap ul, #exhibit-be .selwrap table {
+	max-width: 760px;
+}
+
+.wrap {
+	width: 96%;
+	margin: 0 auto;
+}
+
+.logo-font {
+	color: #000000 !important;
+	font-family: amador, sans-serif;
+	font-style: normal;
+	font-weight: bolder !important;
+}
+
+#exhibit-be p {
+	font-family: "Times New Roman", serif;
+}
+	</style>
+</head>
+
+<body>
+	<main id="exhibit-be">
+		<nav id="primary-nav">
+			<div class="primary-flex">
+				<a class="logo-font" href="https://russellsamora.github.io/scrollama/basic">Bending Toward Justice</a>
+				<a class="logo-font" href="https://russellsamora.github.io/scrollama/mobile-pattern">Black Entrepreneurship</a>
+			</div>
+		</nav>
+		<section id="scrolly" >
+			<div class="sticky-sub">
+				<figure id="parramore-intro-one" class="hero">
+					<div id="parramore-intro-two" class="hero"></div>
+				</figure>
+				<div class="fixed">
+				</div>
+				<div class="banner">
+					<h1>Part 1: Parramore (1890&ndash;1945)</h1>
+					<p>The shaping of an Orlando black community, told in maps</p>
+				</div>
+				<div class="fixed">
+				</div>
+			</div>
+			<nav id="mid-nav" class="sticky-nav">
+				<div class="primary-flex">
+					<a href="#mid-one">Entrepreneurs</a>
+					<a href="#mid-two">Community Life</a>
+				</div>
+			</nav>
+			<div class ="background-fill">
+				<div class="block center">
+					<h2>Establishment</h2>
+					<p>The development of West Orlando and the Parramore commercial district moved in tandem with the growth of the City of Orlando. The 1900 US Census did not list Orlando as an urban area since it had a population of less than 2500. By 1920, Orlando had the appearance of a progressive New South City: access to the Atlantic Coast Railroad, construction of airfields, public transportation, paved or brick streets, schools, libraries, a new post office with home delivery, department stores, movie theaters, parks, and beautification of white residential areas.</p>
+					<figure class="img-para">
+						<img src="../images/1922_orangeavelookingnorth.jpeg">
+						<figcaption>Figure 1: Postcard: “Orange Avenue Looking North,” 1922 </figcaption>
+						<hr>
+					</figure>
+					<p>It also had the racial infrastructure of the New South: segregation of public and commercial, educational, health, and entertainment spaces as well as laws designed to disfranchise African American voters.</p>
+					<hr>
+				</div>
+			</div>
+			<div class="sticky-sub">
+				<!--<figure id="parramore-border-one" class="hero outer-fade">
+					<div id="parramore-border-two" class="hero inner-fade"></div>
+				</figure>-->
+				<div id="par-map" style="height:1080px;" class="sticky-leaf"></div>
+				<div class="fixed">
+				</div>
+				<div id="par-bounds" class="step">
+					<div class="block left background-fill" data-step="5">
+						<p>Development of Black communities in West Orlando began with what is now the Callahan neighborhood. Originally platted by in the 1880s by Orlando’s 14th mayor, James B. Parramore, it was replatted in 1886 by white minister Rev. Andrew Hooper. Known as Hooper Quarters, the area originally housed small cottages for Black domestic workers. Over time it assumed other names, including Black Bottom and Pepperhill.</p>
+						<p>Parramore, the commercial neighborhood was south of Callahan. In the 1880s the Holden neighborhood was platted for houses on the eastern edge and replatted in 1910 to include homes on the western edge. The Holden neighborhood was the site of homes of many prominent African Americans until Washington Shores was opened in the 1940s.</p>
+					</div>
+					<div id="par-bounds-2" class="fixed" data-step="5">
+					</div>
+					<div id="par-bounds-3" class="block left background-fill" data-step="5">
+						<p>Development of Black communities in West Orlando began with what is now the Callahan neighborhood. Originally platted by in the 1880s by Orlando’s 14th mayor, James B. Parramore, it was replatted in 1886 by white minister Rev. Andrew Hooper. Known as Hooper Quarters, the area originally housed small cottages for Black domestic workers. Over time it assumed other names, including Black Bottom and Pepperhill.</p>
+						<p>Parramore, the commercial neighborhood was south of Callahan. In the 1880s the Holden neighborhood was platted for houses on the eastern edge and replatted in 1910 to include homes on the western edge. The Holden neighborhood was the site of homes of many prominent African Americans until Washington Shores was opened in the 1940s.</p>
+					</div>
+					<div id="par-bounds-4" class="fixed" data-step="5">
+					</div>
+				</div>
+
+			</div>
+			<div class="sticky-sub">
+				<div class="step block center">
+					<h2>Black Community in Parramore</h2>
+					<p>In the West Orlando neighborhoods, progress followed a pattern that could be found in other Florida cities and cities across the South. Progress was measured in the establishment of churches, schools, and fraternal organizations and the development of businesses, trades, and professional practices.</p>
+					<p>With the advent of the social and economic infrastructure of West Orlando, the emerging neighborhoods witnessed the rise of a Black middle class that in the words of Florida historian David Jackson, followed the lead of Booker T. Washington and provided a “quiet defiance” of Jim Crow.</p>
+					<p>In daily life, the entrepreneurs, professionals, and trades acted as community leaders, role models, and liaisons to the white community. They were the church leaders and founders of fraternal organizations that provided charitable relief to the poorest members of the community. Their wives organized progressive era clubs to address community health issues, establish day care for working mothers, and teach vocational skills to young women.</p>
+					<p>The progress can be visualized by mapping the data from a successive issue of the Orlando City Directory onto city maps over the period 1900 to 1945.</p>
+				</div>
+			</div>
+			<div class="sticky-sub">
+				<div id="mid-one" class="step block left background-fill" data-step="2">
+					<h2>Entrepreneurial Pioneers</h2>
+					<p>In October 1981, the Orlando Office of Human Relations issued a report titled “Early Pioneers of Orlando’s Black Community, 1880s-1920. The report, which did not claim to be comprehensive, was based on interviews with 25 “Black Senior Citizens” and descendants of early Black pioneers. The list, which is presented here in a comprehensive table provides a snapshot of the businesses and services offered in the West Orlando community. Businesses located between Orange Avenue and the railroad tracks often served both Black and white customers.</p>
+				</div>
+				<div class="step fixed">
+				</div>
+				<div class="step block left background-fill" data-step="2">
+					<h2>Physicians</h2>
+					<p>Parramore, Orlando’s Black neighborhood, had two physicians by 1920, Dr. Jerry B. Callahan and Dr. William Monroe Wells. Physicians were particularly important for Black communities as access to medical care outside the community faced a variety of social and legal barriers. Black physicians also played a central role in the economic and social development of Black communities. Becoming a physician in the Jim Crow South required extraordinary perseverance. As Thomas J. Ward Jr. observed in his 2005 book Black Physicians in the Jim Crow South, limited access to both elementary and high school education and family dependence on the financial contributions of older children to the household economy stood in the way of higher education and medical school for all but a few African Americans. Ward counted fourteen Black medical schools that appeared in the South between in the decades following the Civil War although only four produced any graduates and only two Howard Medical School and Meharry Medical School continue to the present. Black physicians occupied a unique position in the Jim Crow South. They were generally the most education members of their local community and often respected by the white community. Their services were essential to the Black community as most white physicians refused to see Black patients and, when they did, African Americans were subjected to the humiliations inherent in Jim Crow segregation. As Ward notes, “…Black professionals were sometimes at odds with the needs and ideals of their larger community in regards to civil, economic, and political advancement. As an educated elite trapped within a subjugated caste, Black professionals in the Jim Crow South found themselves at the crux of the American dilemma between race and class.”</p>
+					<p>According to the Orlando report on Black pioneers, the earliest physicians in Parramore included Dr. J.B. Hughes, Dr. J.B. Callahan, Dr. Henry Wooden, Dr. Samuel Daniels, Dr. William Monroe Wells, and Dr. I.S. Hankins Jr. The physicians who served the longest and are the best remembered were Drs. Callahan, Wells, and Hankins. They not only provided essential health care during the Jim Crow era, they invested in the expanding entrepreneurship in Parramore, and were quiet but persistent advocates for faith, full citizenship, and social equality.</p>
+				</div>
+				<div class="step fixed">
+				</div>
+				<div id="mid-two" class="step block left background-fill" data-step="2">
+					<h2>Community Life</h2>
+				</div>
+				<div class="step fixed">
+				</div>
+			</div>
+			<div class="sticky-sub background-fill">
+				<div class="block center background-fill">
+					<h2>Parramore and the Wars</h2>
+					<p>Orlandoans recognized the future role of the United States in World War II long before the attack by the Japanese on Pearl Harbor. Anticipating the for air pilot training bases, historian Eve Bacon pointed to the quiet acquisition of property and the construction of three runways of 2500 feet each by 1940. Florida quickly emerged as a center for land, air, and sea forces. In addition, Orlando played a critical role in the development of DDT insecticides. Experimental research took place at the Parramore and Livingston Street Experiment Station before the headquarters was moved to “a large two-story structure formerly known as the ‘Army Building’ at the Fair Grounds.”</p>
+					<p>As in previous wars, African Americans lent their support to all phases of the war—joining all branches of the military except the U.S. Marines, which did not permit enlistment of Black recruits, work in defense industries, and support for war bonds and national programs to grow family gardens and collect items such as paper and metal. As in other wars Black soldiers and sailors and their families hoped their service would result in the full benefits of citizenship and end segregation and disfranchisement. In 1942, the Pittsburgh Courier, a Black-owned newspaper with a national circulation, published a letter by James G. Thompson calling a double victory—Victory abroad against the nation’s enemies and Victory at home against aggression, slavery and tyranny.
+
+						As the war drew to a close, white Floridians worried about the consequences of the training and deployment of Black soldiers. They also viewed the Double V Campaign as a potential spark for racial violence as Black veterans returned home. The 1944 map of Orlando is a U.S. Army map developed for the deployment of troops in the event of racial violence at the end of World War II. Similar maps were developed for Tallahassee, Jacksonville, Tampa, and Miami. The maps accompanied detailed outlines of local police and sheriff capabilities and plans for closing off Black neighborhoods and controlling public information. These maps and plans were “Secret” until 1993.</p>
+				</div>
+			</div>
+		</section>
+		<footer id="be-footer" class="footer">
+			<div id="outer-footer">
+				<div id="inner-footer" class="wrap cf">
+					<p class="tagline">
+						<span>A <a href="https://bendingtowardjustice.cah.ucf.edu" class="logo-font" rel="nofollow">Bending Toward Justice</a> Exhibit</span>
+					</p>
+					<div class="affiliates">
+						<object type="image/png" data="images/rmi_header_full.png"></object>
+						<object type="image/svg+xml" data="images/chdr.svg">Your browser does not support SVG.</object>
+						<object type="image/svg+xml" data="images/his.svg">Your browser does not support SVG.</object>
+						<object type="image/svg+xml" data="images/cah.svg">Your browser does not support SVG.</object>
+						<object type="image/png" data="images/ironmountain.png"></object>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</main>
+	<script src="https://unpkg.com/d3@5.9.1/dist/d3.min.js"></script>
+	<script src="scrollama.min.js"></script>
+	<script src="js/parramoremap.js"></script>
+	<script>
+		function changeCss () {
+			var navElement = document.querySelector("#parramore-intro-two");
+			if(this.scrollY < 500){
+				navElement.style.opacity = 1-(this.scrollY / 500);
+			}
+			
+			//this.scrollY > 500 ? navElement.style.opacity = .5 : navElement.style.opacity = 1;
+		}
+		window.addEventListener("scroll", changeCss , false);
+        
+		
+
+		// using d3 for convenience
+		var main = d3.select("main");
+		var scrolly = main.select("#scrolly");
+		var bg_images = scrolly.selectAll(".hero");
+		var article = scrolly.select("article");
+		var step = scrolly.selectAll(".step");
+		var fixed = scrolly.selectAll(".fixed");
+		var par_map = scrolly.select("#par-map");
+
+		// initialize the scrollama
+		var scroller = scrollama();
+
+		// generic window resize listener event
+		function handleResize() {
+			// 1. update height of step elements
+			var stepH = Math.floor(window.innerHeight * 0.75);
+			fixed.style("height", stepH + "px");
+			par_map.style("height", window.innerHeight+"px");
+
+			var figureHeight = window.innerHeight;
+			//var figureMarginTop = (window.innerHeight - figureHeight) / 2;
+			var figureMarginTop = 0;
+
+			bg_images
+				.style("height", figureHeight + "px")
+				.style("top", figureMarginTop + "px");
+
+			// 3. tell scrollama to update new element dimensions
+			scroller.resize();
+		}
+
+		// scrollama event handlers
+		function handleStepEnter(response) {
+			//console.log("id: ",response.element.id);
+
+			let stepid = response.element.id;
+			switch (stepid){
+				case "par-bounds":
+					console.log("boundary step");
+					//map.setView([-300, 425], 3);
+					par_bounds_1.addTo(map);
+					break;
+				default:
+					console.log("default outcome");
+			}
+
+
+			/*
+			// add color to current step only
+			step.classed("is-active", function (d, i) {
+				return i === response.index;
+			});
+			// update graphic based on step
+			//figures.select("p").text(response.index + 1);
+			*/
+		}
+
+		function handleStepExit(response){
+			let stepid = response.element.id;
+			switch (stepid){
+				case "par-bounds":
+					console.log("boundary step");
+					map.removeLayer(par_bounds_1);
+					break;
+				default:
+					console.log("default outcome");
+			}
+		}
+
+
+		function init() {
+
+			// 1. force a resize on load to ensure proper dimensions are sent to scrollama
+			handleResize();
+
+			// 2. setup the scroller passing options
+			// 		this will also initialize trigger observations
+			// 3. bind scrollama event handlers (this can be chained like below)
+			scroller
+				.setup({
+					step: "#scrolly .step",
+					offset: 0.33,
+					debug: false
+				})
+				.onStepEnter(handleStepEnter)
+				.onStepExit(handleStepExit);
+		}
+
+		// kick things off
+		init();
+	</script>
+</body>
+
+</html>
